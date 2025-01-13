@@ -1,0 +1,5 @@
+{
+    "index": 2524,
+    "answer": 0,
+    "explanation": "generated_query는 COUNT(*)로 중복을 제거하지 않고 모든 행을 세고 있으며, ground_truth_query는 DISTINCT를 사용하여 중복을 제거한 후 COUNT(*)를 수행하고 있다. 결과적으로 중복 데이터가 있을 경우 결과 집합이 달라질 수 있다."
+}

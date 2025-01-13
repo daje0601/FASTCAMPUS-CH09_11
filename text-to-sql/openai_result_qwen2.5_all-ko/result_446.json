@@ -1,0 +1,5 @@
+{
+    "index": 446,
+    "answer": 0,
+    "explanation": "\"generated_query\"는 'Houston Rockets' 팀의 행을 반환하고 있으나, \"ground_truth_query\"는 'Seattle SuperSonics' 팀의 행을 반환하고 있어 두 쿼리의 결과가 실제로 다릅니다."
+}

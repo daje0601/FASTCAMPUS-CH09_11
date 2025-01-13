@@ -1,0 +1,5 @@
+{
+    "index": 2974,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 first_hitman=second_hitman AND second_hitman=first_hitman은 논리적으로 결코 true가 될 수 없습니다. 쿼리 결과가 항상 빈 결과집합이 되므로 실제 결과는 다릅니다."
+}

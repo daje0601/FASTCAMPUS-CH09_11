@@ -1,0 +1,5 @@
+{
+    "index": 4578,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있어 결과가 다를 수밖에 없습니다. generated_query는 승자 컬럼을, ground_truth_query는 준우승자 컬럼을 조건으로 사용하고 있습니다. 따라서 반환되는 행이 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 939,
+    "answer": 0,
+    "explanation": "두 쿼리에서 사용된 WHERE 절의 조건이 다릅니다. 쿼리 A는 'Runner-up'이 'Sammy Giammalva'일 때, 쿼리 B는 'Runner-up'이 'sammy zimmalva'일 때를 조건으로 합니다. 따라서 실제 결과 집합이 달라지는 원인입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1038,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절에 있는 조건이 다르기 때문에 서로 다른 결과를 반환할 것입니다. 쿼리 A는 'Runner-up'이 'Sammy Giammalva'인 경우를, 쿼리 B는 'sammy zimmalva'인 경우를 찾으므로, 이름이 전혀 다르기 때문에 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4593,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리가 WHERE 조건에서 필터링하는 Runner-up의 이름이 다릅니다. 생성된 쿼리는 'Sammy Giammalva'를, 정답 쿼리는 'sammy zimmalva'를 대상으로 하고 있어 실제 결과가 다를 수 있습니다."
+}

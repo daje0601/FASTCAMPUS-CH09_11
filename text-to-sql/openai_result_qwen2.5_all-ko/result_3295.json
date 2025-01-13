@@ -1,0 +1,5 @@
+{
+    "index": 3295,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 사용되는 이름이 서로 달라 서로 다른 결과를 반환할 가능성이 높습니다. 'Generated' 쿼리는 'roe her'을, 'Ground Truth' 쿼리는 'kinnian'을 WHERE 조건으로 사용하고 있어 동일한 결과를 반환하지 않습니다."
+}

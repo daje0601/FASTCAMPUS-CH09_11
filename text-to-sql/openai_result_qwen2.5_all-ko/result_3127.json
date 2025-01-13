@@ -1,0 +1,5 @@
+{
+    "index": 3127,
+    "answer": 0,
+    "explanation": "두 쿼리가 \"Runner-up\" 기준으로 다른 값을 사용하고 있습니다. 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'를 사용하고 있어 결과 집합이 다를 수 있습니다."
+}

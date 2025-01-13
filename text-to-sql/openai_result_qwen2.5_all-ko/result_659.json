@@ -1,0 +1,5 @@
+{
+    "index": 659,
+    "answer": 0,
+    "explanation": "두 쿼리가 다른 \"Runner-up\" 조건을 가지고 있어서 서로 다른 결과를 반환할 것입니다. 쿼리 A와 쿼리 B의 Runner-up 비교 값이 'Sammy Giammalva'와 'sammy zimmalva'로 다르므로 결과가 다릅니다."
+}

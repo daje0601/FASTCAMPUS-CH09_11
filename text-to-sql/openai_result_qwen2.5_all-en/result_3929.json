@@ -1,0 +1,5 @@
+{
+    "index": 3929,
+    "answer": 1,
+    "explanation": "두 쿼리 모두 동일한 데이터를 조회하며, GROUP BY와 HAVING에서 참조하는 항목이 값을 동일하게 반환하기 때문이다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 204,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리가 사용하는 조건이 달라 결과가 다를 수 있습니다. 생성된 쿼리는 'Runner-up' 조건의 값이 'George Smith'이고, 정답 쿼리는 'David Brown'입니다. 두 Runner-up 이름이 다르므로 결과가 다릅니다."
+}

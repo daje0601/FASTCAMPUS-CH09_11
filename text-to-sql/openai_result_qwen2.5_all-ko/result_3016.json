@@ -1,0 +1,5 @@
+{
+    "index": 3016,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다릅니다. 각자 runner-up의 이름이 다르기 때문에, 선택되는 Semifinalists가 다른 경우가 발생하여 결과가 동일하지 않습니다."
+}

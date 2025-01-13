@@ -1,0 +1,5 @@
+{
+    "index": 4054,
+    "answer": 0,
+    "explanation": "WHERE절에서 사용된 인명 조건이 서로 다릅니다('Sammy Giammalva'와 'sammy zimmalva'), 따라서 결과 행이 다를 수 있습니다."
+}

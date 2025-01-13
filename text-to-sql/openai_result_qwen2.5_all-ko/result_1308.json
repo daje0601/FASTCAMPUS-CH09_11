@@ -1,0 +1,5 @@
+{
+    "index": 1308,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. generated_query의 조건이 region = 'North America'인 반면, ground_truth_query의 조건은 region = 'South America'입니다. 지역 필터링이 다르므로 결과 집합도 다릅니다."
+}

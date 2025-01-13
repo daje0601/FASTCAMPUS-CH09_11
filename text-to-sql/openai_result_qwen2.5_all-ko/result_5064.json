@@ -1,0 +1,5 @@
+{
+    "index": 5064,
+    "answer": 1,
+    "explanation": "두 쿼리 모두 동일한 테이블에서 'Semifinalists' 컬럼을 가져오며, 동일한 WHERE 조건을 사용하고 있습니다. 'Runner-up'이 'Sammy Giammalva'로 같기 때문에 결과 집합이 동일합니다. 따라서 두 쿼리는 의미적으로 동일합니다."
+}

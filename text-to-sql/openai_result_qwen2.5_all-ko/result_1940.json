@@ -1,0 +1,5 @@
+{
+    "index": 1940,
+    "answer": 0,
+    "explanation": "두 쿼리가 같은 테이블에서 같은 컬럼을 선택하고 있어도, WHERE 조건의 차이로 인해 결과 행이 달라질 수 있습니다. 예를 들어, generated_query는 특정 Runner-up 이름을 필터링하고 있는데, ground_truth_query는 'sammy giammalva' 이름을 필터링하고 있어 두 조건이 엄격히 다릅니다. 이로 인해 반환되는 결과 집합이 다른 것이 확실하므로 결과가 의미적으로 다릅니다."
+}

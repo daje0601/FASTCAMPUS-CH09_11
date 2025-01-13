@@ -1,0 +1,5 @@
+{
+    "index": 122,
+    "answer": 0,
+    "explanation": "각 쿼리는 반환하려는 조건이 다릅니다. generated_query에서는 'Runner-up'가 'Sammy Giammalva'인 경우를 찾고 있으며, ground_truth_query에서는 'Runner-up'가 'sammy zimmalva'인 경우를 찾고 있습니다. 따라서 조건이 다르므로 결과 집합이 다를 가능성이 큽니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 894,
+    "answer": 0,
+    "explanation": "ORDER BY절이 다르므로 결과가 달라질 수 있다. season이 id와 항상 같은 순서로 있지 않으면 동일한 결과가 나오지 않을 수 있다."
+}

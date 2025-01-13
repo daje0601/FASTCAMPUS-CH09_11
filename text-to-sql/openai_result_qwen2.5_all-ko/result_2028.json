@@ -1,0 +1,5 @@
+{
+    "index": 2028,
+    "answer": 0,
+    "explanation": "쿼리 조건에서 이름이 다르게 설정되어 있어 반환되는 결과가 상이할 것입니다 (예: 'Sammy Giammalva' vs 'sammy zimmalva')."
+}

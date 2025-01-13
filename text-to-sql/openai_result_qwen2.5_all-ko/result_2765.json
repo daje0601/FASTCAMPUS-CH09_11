@@ -1,0 +1,5 @@
+{
+    "index": 2765,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리(generated_query)는 CName으로 GROUP BY를 하고, 두 번째 쿼리(ground_truth_query)는 CID로 GROUP BY를 하고 있다. 만약 CName과 CID가 1:1 대응하지 않는다면 결과가 다를 수 있다. 예를 들어, 동일한 CName에 여러 CID가 있으면 COUNT(*)에 의해 반환되는 행의 수가 다를 수 있다. 따라서 실제로 반환되는 결과가 다를 가능성이 있다."
+}

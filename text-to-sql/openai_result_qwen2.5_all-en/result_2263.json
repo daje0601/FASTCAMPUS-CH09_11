@@ -1,0 +1,5 @@
+{
+    "index": 2263,
+    "answer": 0,
+    "explanation": "두 쿼리는 SELECT하는 컬럼이 다르거나 WHERE 조건이 다르기 때문에 결과 세트가 다를 수 있음."
+}

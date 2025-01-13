@@ -1,0 +1,5 @@
+{
+    "index": 1701,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용하는 Runner-up의 이름이 서로 다릅니다('Sammy Giammalva' vs 'sammy zimmalva'). 따라서 두 쿼리는 서로 다른 결과를 반환할 가능성이 높습니다."
+}

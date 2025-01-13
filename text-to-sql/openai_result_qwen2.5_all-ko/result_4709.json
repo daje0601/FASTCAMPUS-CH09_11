@@ -1,0 +1,5 @@
+{
+    "index": 4709,
+    "answer": 0,
+    "explanation": "generated_query의 WHERE 조건에서 \"CName\"이 'Data Structures'인지를 확인하고 있지만, ground_truth_query에서는 \"CName\"이 'Databases'인지를 확인하고 있습니다. 따라서 조건이 다르기 때문에 결과가 달라집니다."
+}

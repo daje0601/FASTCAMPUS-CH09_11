@@ -1,0 +1,5 @@
+{
+    "index": 2677,
+    "answer": 1,
+    "explanation": "두 쿼리는 같은 테이블 'employees'와 'departments'를 조인하고, MIN 함수를 통해 각 부서의 급여가 가장 낮은 직원의 이름을 반환하려고 한다. 쿼리 구조는 다르지만 SELECT, JOIN, GROUP BY, ORDER BY 및 LIMIT 절이 모두 같으며, 동일한 열과 테이블을 참조하고 있다. 결과적으로 반환되는 직원의 이름은 동일하므로 두 쿼리는 의미적으로 동일하다."
+}

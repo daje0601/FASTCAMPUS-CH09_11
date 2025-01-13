@@ -1,0 +1,5 @@
+{
+    "index": 2246,
+    "answer": 0,
+    "explanation": "COUNT의 대상 컬럼이 다름. 첫 번째 쿼리는 student_id로 고유 학생 수를 카운트하고 두 번째 쿼리는 teacher_id로 고유 선생님 수를 카운트하여 결과 집합이 다릅니다."
+}

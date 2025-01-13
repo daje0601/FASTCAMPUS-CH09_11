@@ -1,0 +1,5 @@
+{
+    "index": 2051,
+    "answer": 0,
+    "explanation": "generated_query는 SELECT 절에서 a.id를 사용하고 있지만, ground_truth_query에서는 b.id를 사용하고 있습니다. 두 쿼리는 각기 다른 테이블의 id를 반환하므로 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2954,
+    "answer": 0,
+    "explanation": "WHERE 절 조건이 다르게 설정되어 있으므로 반환되는 결과가 다를 것입니다. 첫 번째 쿼리는 'Semifinalists' 컬럼에서 'Runner-up'이 'Sammy Giammalva'인 경우를 찾고, 두 번째 쿼리는 'sammy zimmalva'를 찾고 있으므로 결과가 다를 것입니다."
+}

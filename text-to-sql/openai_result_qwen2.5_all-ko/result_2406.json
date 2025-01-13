@@ -1,0 +1,5 @@
+{
+    "index": 2406,
+    "answer": 0,
+    "explanation": "WHERE 조건절의 값이 다르기 때문에 결과 집합이 다를 것입니다. 'Sammy Giammalva'와 'Ann Smith'는 다른 값이기 때문입니다."
+}

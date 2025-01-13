@@ -1,0 +1,5 @@
+{
+    "index": 4974,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건이 각각 다르기 때문에 결과가 다를 수 있다. generated_query는 Sammy Giammalva를 찾고, ground_truth_query는 sammy zimmalva를 찾고 있다. 이름에 대소문자만 다르다면 같을 수 있지만, 이름이 전혀 다르기 때문에 결과도 달라진다."
+}

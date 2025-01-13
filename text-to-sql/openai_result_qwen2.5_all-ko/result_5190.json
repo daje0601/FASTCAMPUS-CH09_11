@@ -1,0 +1,5 @@
+{
+    "index": 5190,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 조건의 WHERE 절이 서로 다르고, 이는 결과 집합에 영향을 미칩니다. generated_query에서는 특정 조건이 사용되었을 때와 ground_truth_query에서 사용된 조건이 다르기 때문에 결과가 다르게 나타날 것입니다."
+}

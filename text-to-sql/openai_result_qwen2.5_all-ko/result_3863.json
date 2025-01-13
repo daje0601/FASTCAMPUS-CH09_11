@@ -1,0 +1,5 @@
+{
+    "index": 3863,
+    "answer": 0,
+    "explanation": "두 쿼리는 서로 다른 조건을 WHERE 절에 사용하고 있습니다. 하나는 'Sammy Giammalva'를 runner-up으로, 다른 하나는 대소문자가 다른 'sammy zimmalva'를 runner-up으로 필터링 하고 있어 실제 결과집합이 다릅니다."
+}

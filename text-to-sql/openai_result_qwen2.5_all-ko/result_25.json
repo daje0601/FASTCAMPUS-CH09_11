@@ -1,0 +1,5 @@
+{
+    "index": 25,
+    "answer": 0,
+    "explanation": "주어진 두 쿼리들 중 첫 번째 쿼리는 특정 조건에서 'Runner-up' 컬럼이 'Sammy Giammalva'인 경우를 선택하는데, 두 번째 쿼리는 'sammy zimmalva'인 경우를 선택하고 있어 서로 전혀 다른 결과를 반환합니다. 따라서 두 쿼리는 의미적으로 다릅니다."
+}

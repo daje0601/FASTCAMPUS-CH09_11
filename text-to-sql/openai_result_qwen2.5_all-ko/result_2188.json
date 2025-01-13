@@ -1,0 +1,5 @@
+{
+    "index": 2188,
+    "answer": 0,
+    "explanation": "정답 쿼리와 생성된 쿼리가 내부에서는 WHERE 조건에서 \"department_id\" 값이 다릅니다. 정답 쿼리는 \"department_id = 30\"을 사용하고, 생성된 쿼리는 \"department_id = 50\"을 사용하므로 실제로 필터링 되는 결과가 달라집니다. 따라서 이 두 쿼리는 결과가 동일하지 않습니다."
+}

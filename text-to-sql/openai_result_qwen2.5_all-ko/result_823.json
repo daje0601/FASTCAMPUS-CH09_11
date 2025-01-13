@@ -1,0 +1,5 @@
+{
+    "index": 823,
+    "answer": 0,
+    "explanation": "제공된 두 쿼리의 WHERE 절에서 비교하는 Runner-up 이름이 서로 달라서 그 결과 집합이 다릅니다. 'Sammy Giammalva'와 'sammy zimmalva'는 서로 다른 문자열이므로 필터링 결과가 다를 것입니다."
+}

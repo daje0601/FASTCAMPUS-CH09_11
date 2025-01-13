@@ -1,0 +1,5 @@
+{
+    "index": 3839,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 안에서 runner-up의 이름이 다르기 때문에 필터링된 결과가 다르게 나와 동일하지 않습니다."
+}

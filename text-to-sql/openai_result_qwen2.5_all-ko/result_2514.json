@@ -1,0 +1,5 @@
+{
+    "index": 2514,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 가지고 있어서 결과가 달라질 가능성이 있습니다. 첫 번째 쿼리는 Semifinalists를 Runner-up인 'Sammy Giammalva'로 필터링한 반면, 두 번째 쿼리는 'sammy zimmalva'를 필터링 조건으로 사용하고 있어 name 필드의 일치 여부에 따라 결과가 달라지기 때문입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1062,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 WHERE 조건에서 \"Semifinalists\" 컬럼 값을 'England'로 설정했습니다. 그러나 두 번째 쿼리는 WHERE 조건에서 \"Runner-up\" 컬럼 값을 'Portugal'로 설정했습니다. 따라서 WHERE 조건이 완전히 달라서 둘의 결과는 다를 수밖에 없습니다."
+}

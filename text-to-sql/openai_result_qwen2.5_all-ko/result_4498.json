@@ -1,0 +1,5 @@
+{
+    "index": 4498,
+    "answer": 0,
+    "explanation": "generated_query에서는 WHERE 절의 조건이 StateID = 1이지만, ground_truth_query에서는 CityID = 1로 되어 있어 실제로 다른 조건을 사용하고 있습니다. 따라서 결과가 다릅니다."
+}

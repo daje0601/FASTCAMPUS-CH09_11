@@ -1,0 +1,5 @@
+{
+    "index": 3251,
+    "answer": 0,
+    "explanation": "쿼리 A의 WHERE 조건에서 Runner-up이 'Sammy Giammalva'인 경우와 쿼리 B의 'sammy zimmalva'인 경우는 다르기 때문에 결과가 다릅니다."
+}

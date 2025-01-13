@@ -1,0 +1,5 @@
+{
+    "index": 2620,
+    "answer": 0,
+    "explanation": "쿼리 A는 WHERE 조건으로 \"Runner-up\"을 'Sammy Giammalva'로 설정하고, 쿼리 B는 'sammy zimmalva'로 설정하고 있다. 따라서 이 두 Runner-up 이름이 다르기 때문에 결과가 다를 것이다."
+}

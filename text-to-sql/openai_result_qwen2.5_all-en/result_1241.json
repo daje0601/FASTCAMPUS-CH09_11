@@ -1,0 +1,5 @@
+{
+    "index": 1241,
+    "answer": 0,
+    "explanation": "두 쿼리에서 조건문에 사용된 값('Sam' vs 'Sammy Giammalva')이 완전히 다르기 때문에 실제 결과가 다르다."
+}

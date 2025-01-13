@@ -1,0 +1,5 @@
+{
+    "index": 700,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up' 가 'Sammy Giammalva'인 행을 선택하고, 쿼리 B는 'Runner-up'이 'sammy zimmalva'인 행을 선택한다. 주어진 Runner-up 이름이 다르므로 결과가 다르다."
+}

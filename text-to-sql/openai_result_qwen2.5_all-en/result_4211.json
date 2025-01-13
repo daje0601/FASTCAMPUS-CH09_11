@@ -1,0 +1,5 @@
+{
+    "index": 4211,
+    "answer": 0,
+    "explanation": "쿼리 A는 'summer'라는 계절의 학생 수를 COUNT 함수로 반환하며, 쿼리 B는 'spring'이라는 계절의 학생 수를 COUNT 함수로 반환하므로 두 쿼리의 결과가 다릅니다."
+}

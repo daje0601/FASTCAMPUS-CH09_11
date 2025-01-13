@@ -1,0 +1,5 @@
+{
+    "index": 3888,
+    "answer": 0,
+    "explanation": "두 쿼리에서 필터링 조건이 다릅니다. 쿼리 A는 'Runner-up'이 'Sammy Giammalva'인 경우를 찾지만, 쿼리 B는 'Runner-up'이 'sammy zimmalva'인 경우를 찾고 있어 결과가 달라질 것입니다."
+}

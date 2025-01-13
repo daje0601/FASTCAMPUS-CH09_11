@@ -1,0 +1,5 @@
+{
+    "index": 579,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 조건이 다르므로 결과가 달라질 수 있다. 쿼리 A는 'Sammy Giammalva'에 대한 조건을 가지고 있으며, 쿼리 B는 해당하는 조건이 없다. 또한, GROUP BY와 HAVING에서 참조하는 컬럼도 다르기 때문에 결과가 같지 않다."
+}

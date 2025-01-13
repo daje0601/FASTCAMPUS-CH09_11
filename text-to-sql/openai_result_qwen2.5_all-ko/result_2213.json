@@ -1,0 +1,5 @@
+{
+    "index": 2213,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 'Giammalva'와 'Lendl'의 Runner-up이 다르므로, 실제로 반환되는 결과 집합이 다를 것입니다. WHERE 조건이 다르면 결과 집합도 달라지므로 '동일하지 않다'고 판단합니다."
+}

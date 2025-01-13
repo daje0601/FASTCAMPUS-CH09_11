@@ -1,0 +1,5 @@
+{
+    "index": 834,
+    "answer": 0,
+    "explanation": "쿼리의 WHERE 절에서 필터링하는 조건이 서로 다릅니다. 'Sammy Giammalva'와 'sammy zimmalva'는 서로 다른 값을 참조하므로 결과가 다릅니다."
+}

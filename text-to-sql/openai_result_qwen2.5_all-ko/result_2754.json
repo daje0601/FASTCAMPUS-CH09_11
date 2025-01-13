@@ -1,0 +1,5 @@
+{
+    "index": 2754,
+    "answer": 0,
+    "explanation": "SELECT 절에서 'FROM activities'와 'FROM leisure'의 테이블명이 다르므로 참조하는 테이블 자체가 다릅니다. 각 테이블에 같은 컬럼이 없거나 데이터가 다르면 결과는 당연히 달라지게 됩니다."
+}

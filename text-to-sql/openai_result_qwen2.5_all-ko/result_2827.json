@@ -1,0 +1,5 @@
+{
+    "index": 2827,
+    "answer": 0,
+    "explanation": "두 쿼리가 비교하는 WHERE 조건의 'Runner-up' 값이 다르기 때문에 결과가 같을 수 없습니다. 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'로, 이름이 서로 다릅니다. 따라서 이로 인해 반환되는 행 집합이 달라지게 됩니다."
+}

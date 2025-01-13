@@ -1,0 +1,5 @@
+{
+    "index": 2335,
+    "answer": 0,
+    "explanation": "각 쿼리는 필터 조건으로 사용된 값이 다릅니다. 하나는 'sammy giammalva'를, 다른 하나는 'sammy zimmalva'를 조건으로 하고 있기 때문에 조회 결과가 다를 것입니다."
+}

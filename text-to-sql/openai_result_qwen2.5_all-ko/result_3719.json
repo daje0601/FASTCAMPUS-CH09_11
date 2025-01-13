@@ -1,0 +1,5 @@
+{
+    "index": 3719,
+    "answer": 0,
+    "explanation": "WHERE 절에서 필터 기준이 다릅니다. generated_query는 컬럼 `a`와 `b`가 모두 10보다 클 때를 필터하지만, ground_truth_query는 `a` 또는 `b`가 10보다 클 때를 필터합니다. 따라서 결과 집합이 다를 수 있습니다."
+}

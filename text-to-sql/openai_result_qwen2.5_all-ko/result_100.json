@@ -1,0 +1,5 @@
+{
+    "index": 100,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 조건식이 서로 다릅니다. 첫 번째 쿼리는 \"Runner-up\"이 'Sammy Giammalva'인 경우를 통해 필터링하지만, 두 번째 쿼리는 'sammy zimmalva'로 필터링하여 서로 다른 조건을 통과시키기 때문에 실제 결과가 다릅니다."
+}

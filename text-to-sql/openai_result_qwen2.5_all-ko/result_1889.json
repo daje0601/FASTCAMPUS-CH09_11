@@ -1,0 +1,5 @@
+{
+    "index": 1889,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건문에 사용된 Runner-up 값이 다르기 때문에 반환되는 결과 집합도 다릅니다. 첫 번째 쿼리는 Sammy Giammalva를, 두 번째 쿼리는 sammy zimmalva를 조건으로 사용하고 있습니다. 이로 인해 두 쿼리의 결과가 다를 수밖에 없습니다."
+}

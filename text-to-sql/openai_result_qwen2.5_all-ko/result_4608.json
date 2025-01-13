@@ -1,0 +1,5 @@
+{
+    "index": 4608,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 WHERE 절에 'Sammy Giammalva'가 있지만, 두 번째 쿼리는 WHERE 절에 'sammy zimmalva'가 있습니다. 따라서 동일한 조건에 대해 필터링하지 않으므로 결과가 다릅니다."
+}

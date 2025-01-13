@@ -1,0 +1,5 @@
+{
+    "index": 3185,
+    "answer": 0,
+    "explanation": "쿼리 두 개의 조건절에서 WHERE 절의 Runner-up 값이 다르다. 하나는 'Sammy Giammalva', 또 하나는 'sammy Giammalva'로 실제로 결과가 다름을 암시하므로 의미적으로 다른 결과를 반환할 가능성이 있다."
+}

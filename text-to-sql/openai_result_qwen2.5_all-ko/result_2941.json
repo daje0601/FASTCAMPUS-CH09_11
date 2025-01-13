@@ -1,0 +1,5 @@
+{
+    "index": 2941,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 조건의 Runner-up 이름이 다르므로 반환되는 결과가 다를 것입니다. 첫 번째 쿼리는 'Sammy Giammalva'를 찾고, 두 번째 쿼리는 'sammy giammalva'를 찾습니다. 대소문자 구분 여부에 따라 다를 수 있지만, 주어진 조건에서는 결과가 다르게 됩니다."
+}

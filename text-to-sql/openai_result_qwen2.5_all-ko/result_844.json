@@ -1,0 +1,5 @@
+{
+    "index": 844,
+    "answer": 0,
+    "explanation": "각 쿼리의 WHERE 절 조건이 다르므로, Runner-up이 서로 다른 이름을 가리키고 있어 결과가 다릅니다."
+}

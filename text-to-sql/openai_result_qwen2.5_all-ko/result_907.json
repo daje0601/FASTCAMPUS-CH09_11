@@ -1,0 +1,5 @@
+{
+    "index": 907,
+    "answer": 0,
+    "explanation": "문제 설명에서 Runner-up 값이 서로 다릅니다. Sammy Giammalva와 sammy zimmalva는 대소문자뿐 아니라 이름 자체가 다르기 때문에, 각 쿼리에서 반환하는 행은 달라질 수 있습니다. 따라서 두 쿼리는 다른 결과를 반환합니다."
+}

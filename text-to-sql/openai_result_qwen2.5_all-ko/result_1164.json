@@ -1,0 +1,5 @@
+{
+    "index": 1164,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 두 쿼리에서 다르다. 첫 번째 쿼리는 \"Runner-up\"이 'Sammy Giammalva'인 경우를 찾고, 두 번째 쿼리는 'sammy zimmalva'인 경우를 찾는다. 때문에 두 쿼리의 결과는 다를 수 밖에 없다."
+}

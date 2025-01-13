@@ -1,0 +1,5 @@
+{
+    "index": 4842,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 \"SELECT * FROM Employees WHERE Department = 'Sales'\"인데, 이 쿼리는 Sales 부서의 모든 직원 데이터를 반환합니다. 반면에 정답 쿼리는 \"SELECT Name, Age FROM Employees WHERE Department = 'Sales'\"로, Sales 부서의 직원 중에서 Name과 Age만 반환합니다. 따라서 반환하는 결과 집합이 다릅니다."
+}

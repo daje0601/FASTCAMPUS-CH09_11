@@ -1,0 +1,5 @@
+{
+    "index": 4940,
+    "answer": 0,
+    "explanation": "COUNT가 같은지 체크할 때, 하나는 T1.CID를, 하나는 T1.CName을 사용하여 GROUP BY 하므로, 1:1 매핑이 아닌 경우 결과가 다를 수 있다."
+}

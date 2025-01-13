@@ -1,0 +1,5 @@
+{
+    "index": 3343,
+    "answer": 1,
+    "explanation": "두 쿼리는 SELECT, FROM, WHERE 조건이 완전히 동일하며 결과 집합에 대소문자나 공백 등의 차이가 없기 때문에 의미적으로 동일하다."
+}

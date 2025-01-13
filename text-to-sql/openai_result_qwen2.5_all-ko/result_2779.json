@@ -1,0 +1,5 @@
+{
+    "index": 2779,
+    "answer": 0,
+    "explanation": "generated_query에서는 ratings.rating 컬럼의 평균을 구하고 조건이 3 이상인 경우, ground_truth_query에서는 COUNT(*)로 총 갯수를 세고 조건이 100개 이상인 경우에 해당이므로 결과가 다릅니다."
+}

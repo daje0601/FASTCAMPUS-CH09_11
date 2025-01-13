@@ -1,0 +1,5 @@
+{
+    "index": 1005,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 달라서 실제로 반환되는 결과가 다를 수 있습니다. 첫 번째 쿼리는 'Semifinalists'에 대하여 'Runner-up'이 'Sammy Giammalva'인 것을 찾고 있고, 두 번째 쿼리는 'semmy zimmalva'를 찾고 있습니다. 따라서 동일한 결과가 나올 가능성이 없습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4763,
+    "answer": 0,
+    "explanation": "generated_query에서는 WHERE 절에 사용자가 'Sammy Giammalva'인지 체크하고 있지만, ground_truth_query에서는 'sammy zimmalva'를 체크하고 있기 때문에 두 쿼리는 서로 다른 결과를 반환합니다."
+}

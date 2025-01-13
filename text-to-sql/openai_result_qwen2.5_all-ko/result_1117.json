@@ -1,0 +1,5 @@
+{
+    "index": 1117,
+    "answer": 0,
+    "explanation": "GROUP BY 항목이 다르고, 제공된 조건에 따라 실제 결과가 달라질 수 있습니다. GROUP BY city에서는 각 도시별로 최대나이를 찾고, GROUP BY age에서는 최대나이를 가진 행을 나이 기준으로 그룹화합니다. 그러므로 query의 결과가 다를 수 있습니다."
+}

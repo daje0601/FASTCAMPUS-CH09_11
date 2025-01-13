@@ -1,0 +1,5 @@
+{
+    "index": 278,
+    "answer": 0,
+    "explanation": "두 쿼리에서 조건문에 사용된 상수 값이 다르므로 결과가 다르게 나온다. 쿼리 A는 'Sammy Giammalva'를, 쿼리 B는 'sammy zimmalva'를 필터링하고 있어 반환되는 행이 다르다."
+}

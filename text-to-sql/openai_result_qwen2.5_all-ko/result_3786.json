@@ -1,0 +1,5 @@
+{
+    "index": 3786,
+    "answer": 0,
+    "explanation": "쿼리 B에서 그룹화 조건이 \"CourseName\"이 아닌 \"T1.CID\"로 되어있는데, 쿼리 A는 \"CourseName\"으로 GROUP BY를 하고 있습니다. 따라서 컬럼에 중복이 있으면 결과가 달라질 수 있기 때문에 의미적으로 동일하지 않습니다."
+}

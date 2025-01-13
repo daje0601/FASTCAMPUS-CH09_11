@@ -1,0 +1,5 @@
+{
+    "index": 3546,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있어 결과 집합이 다릅니다. Generated 쿼리는 대회 날짜가 특정 연도지만, Ground Truth 쿼리는 모든 연도를 다룹니다."
+}

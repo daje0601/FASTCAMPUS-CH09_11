@@ -1,0 +1,5 @@
+{
+    "index": 4595,
+    "answer": 0,
+    "explanation": "생성된 쿼리에서는 이름이 'Sammy Giammalva'로 조건을 주었고, 정답 쿼리에서는 'sammy zimmalva'로 조건을 주었기 때문에 두 쿼리는 조건이 달라서 결과가 다릅니다."
+}

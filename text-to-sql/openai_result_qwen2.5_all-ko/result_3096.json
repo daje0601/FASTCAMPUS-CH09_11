@@ -1,0 +1,5 @@
+{
+    "index": 3096,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 서로 다름. generated_query는 특정 Runner-up 값을 문자 그대로 비교하고 있으나, ground_truth_query 또한 다른 Runner-up 값을 비교하고 있음. 따라서, 두 쿼리가 동일한 행을 반환하지 않음."
+}

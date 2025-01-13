@@ -1,0 +1,5 @@
+{
+    "index": 1828,
+    "answer": 0,
+    "explanation": "문제 설명과 쿼리를 분석한 결과, 두 쿼리의 WHERE 조건에 있는 값이 다르기 때문에 결과 집합이 다를 수 밖에 없습니다. 예를 들어 하나는 Sammy Giammalva에 대해 검색하고 다른 하나는 sammy zimmalva에 대해 검색합니다. 두 Runner-up 값이 다르기 때문에 일부러 일치하지 않을 가능성이 큽니다."
+}

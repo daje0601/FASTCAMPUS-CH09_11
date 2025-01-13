@@ -1,0 +1,5 @@
+{
+    "index": 1227,
+    "answer": 0,
+    "explanation": "generated_query는 WHERE 절이 `WHERE district = \"KARNATAKA\"`인 반면, ground_truth_query는 `WHERE state = 'KARNATAKA'`입니다. 컬럼 조건이 달라 결과가 다를 것입니다."
+}

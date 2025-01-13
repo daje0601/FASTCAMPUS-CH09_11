@@ -1,0 +1,5 @@
+{
+    "index": 4990,
+    "answer": 0,
+    "explanation": "두 쿼리에서 JOIN 조건에 사용된 칼럼이 다르기 때문에 결과가 다릅니다. A 쿼리는 'T1.TID = T2.TID'을 사용하고 B 쿼리는 'T1.TID = T2.TID AND T1.CID = T2.CID'를 사용하여 조인을 수행하므로 결과가 달라질 수 있습니다."
+}

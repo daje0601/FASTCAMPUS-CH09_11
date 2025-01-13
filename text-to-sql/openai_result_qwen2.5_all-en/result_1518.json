@@ -1,0 +1,5 @@
+{
+    "index": 1518,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 조건이 다릅니다. 즉, 선택된 결과셋이 달라질 수 있는 상황입니다. 먼저 쿼리 A에서는 'Sammy Giammalva'라는 이름을 기준으로 선택하지만, 쿼리 B는 'sammy zimmalva'라는 다른 이름을 기준으로 하고 있어 결과가 다를 것입니다."
+}

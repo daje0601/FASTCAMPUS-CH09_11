@@ -1,0 +1,5 @@
+{
+    "index": 3597,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up' 값이 'Sammy Giammalva'인 경우를 검색하고, 쿼리 B는 'Runner-up' 값이 'sammy zimmalva'인 경우를 검색합니다. 따라서 두 값이 다르고 결과가 다르게 나옵니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4202,
+    "answer": 0,
+    "explanation": "generated_query는 table_6920에서 id가 5보다 크거나 같은 행을 선택하고, ground_truth_query는 id가 5인 행을 선택하고 있기 때문에 결과가 다릅니다."
+}

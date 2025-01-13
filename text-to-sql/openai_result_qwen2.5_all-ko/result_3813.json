@@ -1,0 +1,5 @@
+{
+    "index": 3813,
+    "answer": 0,
+    "explanation": "쿼리 A에서는 CName을 GROUP BY하지 않고 CID를 기준으로 한다면 중복된 CName이 있을 경우 결과가 다를 수 있다. 반면 쿼리 B는 CName을 기준으로 GROUP BY 하기 때문에 CID 대신 CName으로 묶어서 결과가 다를 가능성이 있다."
+}

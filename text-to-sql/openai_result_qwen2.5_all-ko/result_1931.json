@@ -1,0 +1,5 @@
+{
+    "index": 1931,
+    "answer": 0,
+    "explanation": "generated_query에서는 COUNT(*) >= 5를 조건으로 하고 있지만, ground_truth_query에서는 COUNT(*) >= 6 조건을 사용하고 있습니다. 이로 인해 두 쿼리의 결과는 다를 수 있으며, 학생 수가 5명일 경우 generated_query에는 포함되지만 ground_truth_query에는 포함되지 않습니다."
+}

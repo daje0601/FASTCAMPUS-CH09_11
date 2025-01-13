@@ -1,0 +1,5 @@
+{
+    "index": 72,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 집합의 기준이 다르기 때문에 결과가 다릅니다. 'HAVING COUNT(*) >= 5'와 'HAVING COUNT(*) > 3'는 서로 다른 조건으로, COUNT 결과에 따라 반환되는 행이 달라질 수 있습니다."
+}

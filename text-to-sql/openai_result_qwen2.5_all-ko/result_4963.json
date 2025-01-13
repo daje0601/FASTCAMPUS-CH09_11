@@ -1,0 +1,5 @@
+{
+    "index": 4963,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다르기 때문에 결과가 다르게 반환됩니다. Runner-up의 값이 쿼리 A와 B가 다릅니다."
+}

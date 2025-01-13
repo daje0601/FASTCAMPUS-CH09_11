@@ -1,0 +1,5 @@
+{
+    "index": 1471,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 SELECT 조건이나 JOIN 방식, GROUP BY와 HAVING의 조건으로 인해 반환되는 결과가 달라질 수 있습니다."
+}

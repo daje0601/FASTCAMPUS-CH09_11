@@ -1,0 +1,5 @@
+{
+    "index": 3210,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하고 있는 WHERE 조건이 다릅니다. generated_query는 특정 조건을 가지고 있는 반면, ground_truth_query는 다른 조건을 가지고 있어 조건에 만족하는 행이 다를 수 있습니다."
+}

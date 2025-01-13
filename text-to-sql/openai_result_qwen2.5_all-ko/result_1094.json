@@ -1,0 +1,5 @@
+{
+    "index": 1094,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 매칭되는 Runner-up 이름이 다릅니다. 'Sammy Giammalva'와 'sammy zimmalva'는 서로 다른 이름이므로, 실제로 반환되는 결과가 다릅니다."
+}

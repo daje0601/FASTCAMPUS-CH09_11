@@ -1,0 +1,5 @@
+{
+    "index": 714,
+    "answer": 0,
+    "explanation": "생성된 쿼리의 조건이 Runner-up 이름이 'Sammy Giammalva'로 되어 있고, 원본 쿼리는 'sammy zimmalva'로 되어 있어 서로 다른 인물입니다. 결과가 같을 수 없습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1222,
+    "answer": 0,
+    "explanation": "두 쿼리는 동일한 컬럼을 사용하고 있지만, WHERE절의 조건이 다르기 때문에 실제 결과가 다르다. 첫 번째 쿼리는 'Runner-up'이 'Sammy Giammalva'인 경우와 다른 'Runner-up' 조건을 사용하고 있어 결과 집합이 달라진다."
+}

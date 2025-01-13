@@ -1,0 +1,5 @@
+{
+    "index": 1681,
+    "answer": 0,
+    "explanation": "두 쿼리에서 사용하는 조건이 다릅니다. 예제에서는 Runner-up이 'Sammy Giammalva'와 'sammy zimmalva'로 다르기 때문에 조건이 달라 결과가 다르게 나옵니다. Runner-up 값이 다르면 결과가 달라질 수밖에 없습니다."
+}

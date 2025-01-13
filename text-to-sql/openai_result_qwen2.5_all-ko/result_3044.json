@@ -1,0 +1,5 @@
+{
+    "index": 3044,
+    "answer": 0,
+    "explanation": "쿼리 A에서는 WHERE 절에서 \"Runner-up\"이 'Sammy Giammalva'인지 체크하고 있지만, 쿼리 B에서는 'sammy zimmalva'를 체크합니다. 이 두 이름은 서로 다르기 때문에, 각 쿼리가 반환하는 결과가 다를 수밖에 없습니다. 따라서 두 쿼리는 의미적으로 동일하지 않습니다."
+}

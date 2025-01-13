@@ -1,0 +1,5 @@
+{
+    "index": 2332,
+    "answer": 0,
+    "explanation": "쿼리 A에서는 'Runner-up'이 'Sammy Giammalva'를 기준으로 결과를 가져오고, 쿼리 B에서는 이 이름이 다르기 때문에 실제 결과가 다르다."
+}

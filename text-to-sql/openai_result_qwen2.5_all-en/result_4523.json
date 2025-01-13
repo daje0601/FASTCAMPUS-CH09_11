@@ -1,0 +1,5 @@
+{
+    "index": 4523,
+    "answer": 0,
+    "explanation": "두 쿼리에서 filtering 조건이 다르기 때문에 반환되는 결과 집합이 달라진다."
+}

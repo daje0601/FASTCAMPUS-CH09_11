@@ -1,0 +1,5 @@
+{
+    "index": 3050,
+    "answer": 0,
+    "explanation": "호출한 함수가 달라 실제 결과가 다를 수 있다. 예를 들어 SELECT와 SELECT DISTINCT는 중복을 처리하는 방식이 다를 수 있다. COUNT(*)와 COUNT(column)은 NULL을 포함하지 않는 차이가 있어 다른 결과를 초래할 수 있다."
+}

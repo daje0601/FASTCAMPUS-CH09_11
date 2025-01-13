@@ -1,0 +1,5 @@
+{
+    "index": 4661,
+    "answer": 0,
+    "explanation": "쿼리 A는 'sammy zimmalva'를 찾고, 쿼리 B는 'Sammy Giammalva'를 찾기 때문에 Runner-up 이름이 달라 실제로 반환되는 결과 집합도 다릅니다."
+}

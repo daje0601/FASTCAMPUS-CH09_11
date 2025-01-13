@@ -1,0 +1,5 @@
+{
+    "index": 4781,
+    "answer": 0,
+    "explanation": "두 쿼리에서 문자열 비교 조건이 다르므로 결과가 다를 수 있습니다. 'Sammy Giammalva'와 'sammy zimmalva'는 서로 다른 문자열이기 때문에 WHERE 조건에서 일치하지 않아 서로 다른 결과를 반환할 것입니다."
+}

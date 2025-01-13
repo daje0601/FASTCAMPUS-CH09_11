@@ -1,0 +1,5 @@
+{
+    "index": 3983,
+    "answer": 0,
+    "explanation": "쿼리 A는 WHERE 조건에서 'sammy zimmalva'를 사용하고 쿼리 B는 'Sammy Giammalva'를 사용합니다. 두 조건이 다르면 필터링된 결과가 다르므로 결과가 동일하지 않습니다."
+}

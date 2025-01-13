@@ -1,0 +1,5 @@
+{
+    "index": 2203,
+    "answer": 0,
+    "explanation": "JOIN 조건이 다르기 때문에 결과 집합이 다릅니다. generated_query는 USING을 사용하여 E.CID만 비교하지만, ground_truth_query는 C 테이블과의 ID도 비교하고 있습니다. 따라서 두 쿼리의 JOIN 결과에서 서로 다른 데이터가 반환될 수 있습니다. "
+}

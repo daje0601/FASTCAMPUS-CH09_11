@@ -1,0 +1,5 @@
+{
+    "index": 4494,
+    "answer": 0,
+    "explanation": "원본 쿼리는 ORDER BY 절을 통해 특정 순서대로 정렬된 결과를 제한(LIMIT)을 주어 반환하지만, 생성된 쿼리는 ORDER BY나 LIMIT 절이 없어 결과가 동일하지 않습니다."
+}

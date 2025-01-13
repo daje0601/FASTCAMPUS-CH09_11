@@ -1,0 +1,5 @@
+{
+    "index": 4404,
+    "answer": 0,
+    "explanation": "generated_query에서는 JOIN 조건으로 OR 조건을 사용했고, ground_truth_query에서는 정확히 매칭하는 조건을 사용하여 두 JOIN 조건이 다르기 때문에 결과가 다를 수 있다."
+}

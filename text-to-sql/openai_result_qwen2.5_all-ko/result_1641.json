@@ -1,0 +1,5 @@
+{
+    "index": 1641,
+    "answer": 0,
+    "explanation": "두 쿼리가 비교되는 경우에서 조건이 'Sammy Giammalva'와 'sammy zimmalva'로 완전히 다르므로 실제 결과가 다를 것입니다. 때문에 answer는 0입니다."
+}

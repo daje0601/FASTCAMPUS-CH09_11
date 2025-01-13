@@ -1,0 +1,5 @@
+{
+    "index": 4982,
+    "answer": 0,
+    "explanation": "generated_query에서는 COUNT 함수로 특정 열의 중복 수를 계산하고 있기 때문에 결과가 중복 값을 포함할 수 있으나, ground_truth_query에서는 중복을 제거하지 않고 모든 행을 선택하여 DISTINCT 적용 없이 결과를 반환합니다. 따라서 쿼리의 결과 집합은 다릅니다."
+}

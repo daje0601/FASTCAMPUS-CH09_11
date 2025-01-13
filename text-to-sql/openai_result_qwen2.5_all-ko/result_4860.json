@@ -1,0 +1,5 @@
+{
+    "index": 4860,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 WHERE 조건을 사용하고 있습니다. generated_query에서는 특정 Runner-up 이름에 대해 조회하는 반면, ground_truth_query에서는 전혀 다른 Runner-up 이름을 조회하여 결과가 다릅니다."
+}

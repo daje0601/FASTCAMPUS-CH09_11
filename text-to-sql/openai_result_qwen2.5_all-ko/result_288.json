@@ -1,0 +1,5 @@
+{
+    "index": 288,
+    "answer": 1,
+    "explanation": "두 쿼리 모두 'enrolled_students' 테이블에서 'course_id'가 'CS101'인 데이터를 조회하고 있습니다. 첫 번째 쿼리는 DISTINCT를 사용하여 고유한 'student_id'를 선택하고, 두 번째 쿼리는 DISTINCT 없이 모든 'student_id'를 선택한 후 중복을 제거합니다. 두 쿼리가 반환하는 'student_id'의 집합은 동일합니다. '조인' 조건이나 다른 필터가 없으므로 필드 선택만으로 결과가 동일합니다."
+}

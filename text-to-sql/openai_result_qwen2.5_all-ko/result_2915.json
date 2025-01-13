@@ -1,0 +1,5 @@
+{
+    "index": 2915,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절의 조건이 달라 실제로 반환되는 결과가 다릅니다. 첫 번째 쿼리에서는 'Sammy Giammalva'로 필터링하지만 두 번째 쿼리에서는 'Sammy Zimmalva'로 필터링하여, 필터링 조건이 다르고 이로 인해 결과 집합이 다를 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3802,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절에서 사용한 필터 조건이 다르기 때문에 결과가 다릅니다. 하나는 'Sammy Giammalva'를 찾고, 다른 하나는 'sammy zimmalva'를 찾고 있습니다."
+}

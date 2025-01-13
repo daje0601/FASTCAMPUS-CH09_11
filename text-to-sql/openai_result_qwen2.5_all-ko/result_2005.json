@@ -1,0 +1,5 @@
+{
+    "index": 2005,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 WHERE 조건이 다르기 때문에 실제 반환되는 값이 다를 가능성이 높습니다. 생성된 쿼리는 'Runner-up'이 'Ken Flach'인 경우를 조건으로 하고 있고, 정답 쿼리는 'semifinalists'가 'John McEnroe'인 경우를 조건으로 하고 있습니다. 조건이 다르면 결과가 다를 수밖에 없습니다."
+}

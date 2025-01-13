@@ -1,0 +1,5 @@
+{
+    "index": 5026,
+    "answer": 0,
+    "explanation": "`generated_query`는 특정 조건에 대해 행 전체를 반환하지만, `ground_truth_query`는 'status'가 'READY'인 조건만 충족하는 행의 갯수를 셀 것입니다. 두 쿼리의 기능과 결과가 명확히 다릅니다. 결과 집합이 동일할 수 없으므로, 두 쿼리는 의미적으로 동일하지 않습니다."
+}

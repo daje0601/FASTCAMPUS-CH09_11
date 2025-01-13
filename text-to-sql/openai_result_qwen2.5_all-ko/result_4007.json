@@ -1,0 +1,5 @@
+{
+    "index": 4007,
+    "answer": 0,
+    "explanation": "generated_query는 'city', 'year'과 같은 컬럼을 선택하지만, ground_truth_query는 'name', 'display_year'을 포함한 다른 컬럼들을 선택하고 있어서 결과 집합이 다릅니다."
+}

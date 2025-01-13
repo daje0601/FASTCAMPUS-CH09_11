@@ -1,0 +1,5 @@
+{
+    "index": 541,
+    "answer": 0,
+    "explanation": "generated_query쿼리와 ground_truth_query쿼리가 WHERE 절의 조건에서 두 번째 조건이 다릅니다. generated_query는 TYPE='Manual'인 경우를 고려하지만, ground_truth_query는 CHANNEL='Manual'인 경우를 고려합니다. 두 쿼리의 결과가 서로 다를 것으로 예상되므로 동일하지 않습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 5125,
+    "answer": 0,
+    "explanation": "두 쿼리에서 WHERE 절의 조건이 서로 다릅니다. 하나에서는 실제 값이 sammy giammalva인지를 검사하고, 다른 쿼리에서는 sammy zimmalva인지를 검사합니다. 따라서 반환되는 결과 집합이 다르므로 두 쿼리는 의미적으로 동일하지 않습니다."
+}

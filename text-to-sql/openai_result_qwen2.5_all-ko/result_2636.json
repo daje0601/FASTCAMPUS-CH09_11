@@ -1,0 +1,5 @@
+{
+    "index": 2636,
+    "answer": 0,
+    "explanation": "쿼리 A와 B는 ORDER BY 조건이 다릅니다. A는 season을 기준으로 정렬하고, B는 id를 기준으로 정렬합니다. id와 season의 값이 동일하게 정렬되지 않는 경우, LIMIT 1의 결과가 달라질 수 있습니다."
+}

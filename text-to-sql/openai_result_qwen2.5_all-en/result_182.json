@@ -1,0 +1,5 @@
+{
+    "index": 182,
+    "answer": 1,
+    "explanation": "두 쿼리는 대소문자, 공백, 쿼리 포맷의 차이가 있지만, SELECT 절, WHERE 절, JOIN 조건, GROUP BY 절이 동일하여 결과 집합이 동일합니다."
+}

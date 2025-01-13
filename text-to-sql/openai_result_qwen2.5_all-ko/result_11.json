@@ -1,0 +1,5 @@
+{
+    "index": 11,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up'이 'Sammy Giammalva'인 행을, 쿼리 B는 'Runner-up'이 'sammy zimmalva'인 행을 조회하므로 실제로 조회하는 조건이 달라 결과가 다릅니다."
+}

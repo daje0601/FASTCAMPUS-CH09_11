@@ -1,0 +1,5 @@
+{
+    "index": 2505,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있어 결과가 다릅니다. generated_query는 특정 타입의 항목을 필터링하나, ground_truth_query는 다른 조건으로 필터링되어 실제 반환되는 결과 집합이 서로 다릅니다."
+}

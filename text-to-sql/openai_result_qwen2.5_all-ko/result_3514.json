@@ -1,0 +1,5 @@
+{
+    "index": 3514,
+    "answer": 0,
+    "explanation": "generated_query는 ID 값이 1보다 큰 행을 조회하는 반면 ground_truth_query는 특정 ID인 '123'에 해당하는 행을 조회합니다. 두 쿼리는 ID에 대한 조건이 다르기 때문에 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4553,
+    "answer": 0,
+    "explanation": "문제 설명에 따라 관련된 정보가 없지만, 제공된 정보만으로 두 WHERE 조건의 Runner-up 값이 서로 다릅니다: 하나는 'Sammy Giammalva', 다른 하나는 'sammy zimmalva'. 이는 대소문자 차이의 문제가 아니라 실제 문자열 값이 다르게 설정된 경우로, 따라서 두 쿼리의 결과는 다를 수 있습니다."
+}

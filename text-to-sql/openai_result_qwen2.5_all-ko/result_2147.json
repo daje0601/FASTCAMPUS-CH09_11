@@ -1,0 +1,5 @@
+{
+    "index": 2147,
+    "answer": 0,
+    "explanation": "SELECT \"Semifinalists\" FROM table_31066 WHERE \"Runner-up\" = 'sammy zimmalva'에서 'Runner-up' 조건 값이 'Sammy Giammalva'와 다르므로 결과가 다릅니다."
+}

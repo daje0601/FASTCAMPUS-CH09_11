@@ -1,0 +1,5 @@
+{
+    "index": 3429,
+    "answer": 0,
+    "explanation": "generated_query는 CID를 GROUP BY 하고, ground_truth_query는 CName을 GROUP BY 합니다. 만약 그러한 경우 CID와 CName이 1:1 대응되지 않는다면 결과가 달라질 수 있습니다. 예를 들어, 같은 CName을 가진 다른 CID가 여러 개 있을 경우 CName 별로 결과가 달라질 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 968,
+    "answer": 0,
+    "explanation": "generated_query는 OFFSET을 사용하여 세 번째 행부터 반환하며 ground_truth_query는 \"공식 순위\"가 \"상위 3위\"가 아닌 것의 수를 구하는데 조건이 전혀 달라 두 쿼리의 결과가 다릅니다."
+}

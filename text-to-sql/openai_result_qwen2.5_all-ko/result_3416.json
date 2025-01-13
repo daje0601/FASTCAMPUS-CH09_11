@@ -1,0 +1,5 @@
+{
+    "index": 3416,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 조건으로 데이터를 필터링하지 않으면 결과가 다르다. 비교할 때 'sammy zimmalva'와 'Sammy Giammalva'는 이름이 서로 다르므로 WHERE 조건에 의해 반환되는 결과가 다르다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4327,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절의 조건이 달라서 실제 결과가 다릅니다. generated_query는 Runner-up 조건으로 'Sammy Giammalva'를 설정했고, ground_truth_query는 'sammy zimmalva'로 설정했기 때문에 반환되는 결과 집합이 다를 수 있습니다."
+}

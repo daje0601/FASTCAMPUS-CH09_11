@@ -1,0 +1,5 @@
+{
+    "index": 4702,
+    "answer": 0,
+    "explanation": "두 쿼리는 같지 않으며, 주어진 'Runner-up' 조건이 서로 다른 것을 볼 때 실제로 반환되는 결과가 다릅니다. 하나는 'Sammy Giammalva'이고, 다른 하나는 'sammy zimmalva'로 대소문자 또한 다르기 때문에 조건이 충족되지 않아 동일한 결과를 반환하지 않습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3564,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 조건이 다릅니다. 첫 번째 쿼리는 'Runner-up'가 'Sammy Giammalva'일 때만 결과를 반환하는 반면, 두 번째 쿼리는 'Runner-up'가 'sammy zimmalva'일 때 결과를 반환하므로 결과 집합이 다릅니다."
+}

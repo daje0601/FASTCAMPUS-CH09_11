@@ -1,0 +1,5 @@
+{
+    "index": 1900,
+    "answer": 0,
+    "explanation": "쿼리 A는 특정 Runner-up이 'Sammy Giammalva'인 경우를 필터링하는 반면, 쿼리 B는 'sammy zimmalva'로 되어 있어 실질적으로 다른 Runner-up을 필터링하므로 결과가 다를 것입니다. 두 쿼리의 결과 집합이 다른 이유는 Runner-up 필터링 값이 다르기 때문입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3383,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 결과를 반환하지 않습니다. 'Runner-up' 칼럼의 값이 'Sammy Giammalva'와 'sammy zimmalva'로 서로 다르기 때문에, WHERE 조건에 의해 반환되는 행이 다르게 되어 결과 집합에 차이가 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 5000,
+    "answer": 0,
+    "explanation": "두 쿼리 모두 같은 조건을 사용하고 있으나, WHERE 절의 'Runner-up' 조건에서 'Sammy Giammalva' vs 'sammy zimmalva'로 Runner-up 이름이 다르게 지정되었습니다. 이로 인해 결과 집합이 서로 다른 행을 반환하게 되어 동일한 결과가 나올 수 없습니다."
+}

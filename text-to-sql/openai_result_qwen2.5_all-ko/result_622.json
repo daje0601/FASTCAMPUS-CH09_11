@@ -1,0 +1,5 @@
+{
+    "index": 622,
+    "answer": 0,
+    "explanation": "조건절의 값이 다르기 때문에 쿼리의 결과가 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'로 필터링하고, 두 번째 쿼리는 'sammy zimmalva'로 필터링하여 서로 다른 결과를 반환할 것입니다."
+}

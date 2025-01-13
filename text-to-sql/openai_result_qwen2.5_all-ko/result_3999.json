@@ -1,0 +1,5 @@
+{
+    "index": 3999,
+    "answer": 0,
+    "explanation": "generated_query는 season이 2023인 데이터를 선택하도록 되어 있고, ground_truth_query는 id가 101인 데이터를 선택하도록 되어 있어 필터 조건이 다릅니다. 따라서 같은 데이터베이스에서 다른 결과를 반환할 가능성이 높습니다."
+}

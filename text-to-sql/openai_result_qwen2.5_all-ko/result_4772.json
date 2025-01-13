@@ -1,0 +1,5 @@
+{
+    "index": 4772,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. generated_query는 user_id에 대해 조건을 검사하고 있으며, ground_truth_query는 created_at에 대해 검사합니다. 두 조건이 다르므로 결과 집합이 다를 수 있습니다."
+}

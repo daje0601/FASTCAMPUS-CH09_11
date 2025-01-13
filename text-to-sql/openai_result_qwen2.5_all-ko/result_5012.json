@@ -1,0 +1,5 @@
+{
+    "index": 5012,
+    "answer": 0,
+    "explanation": "두 쿼리가 조건으로 사용한 'semifinalists'는 동일하지만, 'runner-up'의 이름이 서로 다르므로 반환되는 결과 집합이 다를 수 있습니다."
+}

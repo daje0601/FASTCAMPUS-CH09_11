@@ -1,0 +1,5 @@
+{
+    "index": 161,
+    "answer": 0,
+    "explanation": "두 쿼리 간에 조건절이 달라 동일한 결과를 반환하지 않습니다. 첫 번째 쿼리는 'Runner-up'이 'Sammy Giammalva'인 경우를, 두 번째 쿼리는 'runner-up'이 'sammy zimmalva'인 경우를 가져오므로, 조회 조건이 다르기 때문에 결과가 다르다."
+}

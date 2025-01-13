@@ -1,0 +1,5 @@
+{
+    "index": 4884,
+    "answer": 0,
+    "explanation": "generated_query는 'JOIN'을 사용하여 두 테이블을 결합한 결과로 보이지만, ground_truth_query는 단순히 'LEFT JOIN'을 사용하여 첫 번째 테이블의 모든 행과 두 번째 테이블의 일치하는 행만을 반환합니다. 이 차이로 인해 두 쿼리의 결과는 다르다."
+}

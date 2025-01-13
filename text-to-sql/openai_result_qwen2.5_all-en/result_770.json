@@ -1,0 +1,5 @@
+{
+    "index": 770,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용된 값이 다르기 때문에 최종 결과가 달라질 수 있다. 원본 쿼리는 'Sammy Giammalva'를 참조하지만 생성된 쿼리는 'sammy zimmalva'를 참조하고 있어 이는 서로 다른 결과를 가져온다."
+}

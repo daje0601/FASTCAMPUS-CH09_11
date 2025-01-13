@@ -1,0 +1,5 @@
+{
+    "index": 4683,
+    "answer": 0,
+    "explanation": "두 쿼리는 서로 다른 조건을 사용하고 있습니다. generated_query는 'course_name'이 'Mathematics'인 경우를 반환하는 반면, ground_truth_query는 'student_name'이 'John'인 경우를 반환합니다. 따라서 두 쿼리의 결과 집합은 다릅니다."
+}

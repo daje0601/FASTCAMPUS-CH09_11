@@ -1,0 +1,5 @@
+{
+    "index": 4431,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절에서 \"Runner-up\" 값으로 서로 다른 이름을 비교하고 있습니다. 하나는 'Sammy Giammalva', 다른 하나는 'sammy zimmalva'이라는 값을 조건으로 하고 있어 결과가 다를 수밖에 없습니다. 동일한 값으로 비교하지 않기 때문에 결과 집합은 동일하지 않습니다."
+}

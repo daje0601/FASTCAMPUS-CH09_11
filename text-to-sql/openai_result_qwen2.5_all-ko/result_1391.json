@@ -1,0 +1,5 @@
+{
+    "index": 1391,
+    "answer": 0,
+    "explanation": "generated_query는 `name = 'John Doe'` 조건 하에 name과 age를 반환하는데, 정답 쿼리는 `name = 'Jane Doe'` 조건 하에 동일한 컬럼을 반환합니다. 결과적으로 다른 결과 집합을 가집니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2502,
+    "answer": 1,
+    "explanation": "두 쿼리는 서로 다른 형식으로 작성되었지만, 결과 집합은 동일하다. SELECT 문, JOIN, GROUP BY 절 모두 동일한 데이터를 참조하고 있다."
+}

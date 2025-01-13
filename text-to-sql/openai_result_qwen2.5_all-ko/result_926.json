@@ -1,0 +1,5 @@
+{
+    "index": 926,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 비교되는 Runner-up 이름이 다르기 때문에 실제로 반환되는 결과가 동일하지 않습니다."
+}

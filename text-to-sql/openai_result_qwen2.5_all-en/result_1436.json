@@ -1,0 +1,5 @@
+{
+    "index": 1436,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 비교되는 필드 값이 서로 다르기 때문에 결과가 달라진다. 쿼리 A에서는 'Sammy Giammalva'를 찾는 반면, 쿼리 B에서는 'sammy zimmalva'를 검색하여, 서로 다른 결과 집합을 반환한다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4133,
+    "answer": 0,
+    "explanation": "SELECT COUNT와 SELECT * 는 반환하는 결과 집합의 형태가 다릅니다. 첫 번째 쿼리는 GROUP BY와 COUNT를 사용하여 결과를 그룹화하고 각 그룹의 COUNT를 반환하는 반면, 두 번째 쿼리는 특정 열의 중복값을 하나의 결과 집합으로 제한하여 원본 행 데이터를 반환합니다."
+}

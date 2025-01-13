@@ -1,0 +1,5 @@
+{
+    "index": 2109,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에 있는 'Runner-up' 값이 서로 다르기 때문에 실제 결과가 다르다."
+}

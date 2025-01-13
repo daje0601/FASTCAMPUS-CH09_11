@@ -1,0 +1,5 @@
+{
+    "index": 2835,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. generated_query는 Runner-up이 'Sammy Giammalva'로 설정되어 있고, ground_truth_query는 'sammy zimmalva'로 설정되어 있어 조회 조건이 다르므로 결과가 다릅니다."
+}

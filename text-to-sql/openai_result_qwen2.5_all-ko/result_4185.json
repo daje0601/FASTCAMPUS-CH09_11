@@ -1,0 +1,5 @@
+{
+    "index": 4185,
+    "answer": 0,
+    "explanation": "WHERE 절에서 사용된 조건이 실제로 다르므로 결과가 다릅니다. 생성된 쿼리(A)는 'semifinalists'를 조건으로 사용했고, 정답 쿼리(B)는 'runner-up' 조건을 사용하여 조건이 상이합니다."
+}

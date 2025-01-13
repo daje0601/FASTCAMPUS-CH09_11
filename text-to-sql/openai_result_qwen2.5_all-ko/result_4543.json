@@ -1,0 +1,5 @@
+{
+    "index": 4543,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 Runner-up 이름이 각각 'Sammy Giammalva'와 'sammy zimmalva'로 전혀 다르며, 대소문자 차이도 아닌 완전히 다른 문자열입니다. 따라서 쿼리 결과가 다를 것입니다."
+}

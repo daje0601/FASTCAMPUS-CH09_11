@@ -1,0 +1,5 @@
+{
+    "index": 766,
+    "answer": 0,
+    "explanation": "쿼리 A의 WHERE 절에서 조건이 'Runner-up' = 'Sammy Giammalva'인 반면, 쿼리 B의 조건은 'Runner-up' = 'sammy zimmalva'로 서로 다릅니다. 이름의 대소문자가 다르기 때문에 실제 결과가 달라집니다."
+}

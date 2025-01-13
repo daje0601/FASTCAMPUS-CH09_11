@@ -1,0 +1,5 @@
+{
+    "index": 401,
+    "answer": 0,
+    "explanation": "두 쿼리는 조건절에서 사용되고 있는 값인 Runner-up이 다르기 때문에, 반환되는 결과가 다를 가능성이 높습니다. 하나는 'Sammy Giammalva'를 찾고 다른 하나는 'sammy zimmalva'를 찾으므로, 문자열이 완전히 다르기 때문에 결과가 같을 수 없습니다."
+}

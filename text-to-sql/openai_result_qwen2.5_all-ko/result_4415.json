@@ -1,0 +1,5 @@
+{
+    "index": 4415,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다릅니다. generated_query는 'SELECT * FROM employees WHERE age > 30'이고, ground_truth_query는 'SELECT * FROM employees WHERE age <= 30'입니다. 따라서 반환되는 결과 집합이 다릅니다."
+}

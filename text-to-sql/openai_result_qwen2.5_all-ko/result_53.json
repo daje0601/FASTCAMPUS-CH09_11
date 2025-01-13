@@ -1,0 +1,5 @@
+{
+    "index": 53,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건에 사용된 \"Runner-up\" 값이 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를 필터링하는 반면, 두 번째 쿼리는 'sammy zimmalva'를 필터링하고 있어 실제 반환되는 결과가 다를 것입니다."
+}

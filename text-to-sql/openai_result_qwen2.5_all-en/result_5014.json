@@ -1,0 +1,5 @@
+{
+    "index": 5014,
+    "answer": 0,
+    "explanation": "Generated 쿼리에서 'JOIN'을 사용하고 있지만, Ground truth 쿼리는 'LEFT JOIN'을 사용하고 있습니다. 이는 결과 집합에 영향을 미칠 수 있습니다."
+}

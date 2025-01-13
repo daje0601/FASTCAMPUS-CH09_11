@@ -1,0 +1,5 @@
+{
+    "index": 1351,
+    "answer": 0,
+    "explanation": "COUNT 함수가 사용된 쿼리 B에서는 조건이 포함되어 있으므로, WHERE 조건 절에서 NAME이 'HELLO' 인 행만 COUNT 대상이 됩니다. 그러나 쿼리 A에는 이러한 제한 조건이 없습니다."
+}

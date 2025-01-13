@@ -1,0 +1,5 @@
+{
+    "index": 3454,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 다르기 때문에 결과 집합이 달라집니다. `generated_query`는 비어 있지 않은 특정 조건을 가져오지만, `ground_truth_query`는 해당하지 않습니다."
+}

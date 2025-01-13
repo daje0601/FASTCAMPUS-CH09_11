@@ -1,0 +1,5 @@
+{
+    "index": 2022,
+    "answer": 0,
+    "explanation": "GROUP BY 쿼리에서 두 쿼리의 ORDER BY 기준이 서로 다릅니다. 처음 쿼리는 season 기준으로, 두 번째 쿼리는 전체 row_id 기준으로 정렬하므로 결과 순서가 다를 수 있습니다."
+}

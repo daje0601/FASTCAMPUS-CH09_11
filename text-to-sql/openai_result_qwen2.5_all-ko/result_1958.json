@@ -1,0 +1,5 @@
+{
+    "index": 1958,
+    "answer": 0,
+    "explanation": "GROUP BY 구문에서 generated_query는 ID와 DATE를 그룹화하고 HAVING COUNT(\\*) > 10 조건을 사용하지만, ground_truth_query는 ID만 그룹화하고 하루가 아닌 하루+시각별로 그룹화하여 COUNT(\\*) > 10 조건을 확인합니다. 두 쿼리의 그룹화 방식 및 조건 확인 방식이 달라서 결과가 다를 수 있습니다."
+}

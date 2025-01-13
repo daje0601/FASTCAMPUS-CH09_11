@@ -1,0 +1,5 @@
+{
+    "index": 3186,
+    "answer": 0,
+    "explanation": "쿼리 A는 'semifinalists' 정보를 Sammy Giammalva의 'Runner-up'을 조건으로 조회하고, 쿼리 B는 다른 이름인 'sammy zimmalva'를 조건으로 하므로, 두 'Runner-up' 조건이 다른 사람을 지칭하기 때문에 결과가 다를 수 있습니다."
+}

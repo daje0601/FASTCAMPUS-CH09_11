@@ -1,0 +1,5 @@
+{
+    "index": 1709,
+    "answer": 0,
+    "explanation": "쿼리 A와 B는 조건에 사용된 문자열 비교 값이 다르다. 쿼리 A는 'Sammy Giammalva'를 비교하지만, 쿼리 B는 'sammy zimmalva'를 비교하므로 다른 결과가 반환될 가능성이 높다."
+}

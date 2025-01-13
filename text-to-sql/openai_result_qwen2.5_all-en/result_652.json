@@ -1,0 +1,5 @@
+{
+    "index": 652,
+    "answer": 0,
+    "explanation": "두 쿼리에서 `HAVING` 조건이 다물집니다. 쿼리 A는 `HAVING COUNT(*) = 10`을 사용하고, 쿼리 B는 `HAVING COUNT(*) > 10`을 사용하므로 결과가 다릅니다."
+}

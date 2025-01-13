@@ -1,0 +1,5 @@
+{
+    "index": 1590,
+    "answer": 0,
+    "explanation": "주어진 두 쿼리의 조건이 \"Runner-up\"의 값을 비교하는데, 사용된 문자열이 서로 다릅니다. 첫 번째 쿼리에서는 'Sammy Giammalva', 두 번째 쿼리에서는 'sammy zimmalva'를 조건으로 사용하고 있어 결과가 다릅니다."
+}

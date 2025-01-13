@@ -1,0 +1,5 @@
+{
+    "index": 3253,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 각각 Runner-up 이름이 다르므로 실제 결과가 다른 데이터를 선택하게 됩니다. Sammy Giammalva와 sammy zimmalva는 다른 문자열이므로 각 쿼리가 반환하는 행이 다릅니다."
+}

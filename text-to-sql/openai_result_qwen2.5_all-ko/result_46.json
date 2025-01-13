@@ -1,0 +1,5 @@
+{
+    "index": 46,
+    "answer": 0,
+    "explanation": "ORDER BY 조건이 다르므로 결과가 다를 수 있음. FIRST_NAME으로 정렬하는 것과 LAST_NAME으로 정렬하는 것은 순서가 달라질 수 있다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1264,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 서로 다름. 첫 번째 쿼리는 \"그라운드 조건: 'Sammy Giammalva'\"를 사용하고, 두 번째 쿼리는 \"그라운드 조건: 'sammy zimmalva'\"를 사용하여 다른 결과 집합을 발생시킴. 따라서 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4707,
+    "answer": 0,
+    "explanation": "두 쿼리가 다른 테이블을 참조하고 있어서 결과가 다릅니다. generated_query는 'table_a'에서 데이터를 가져오고, ground_truth_query는 'table_b'에서 데이터를 가져오므로 결과 집합이 다르게 나타납니다."
+}

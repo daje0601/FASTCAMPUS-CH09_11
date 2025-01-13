@@ -1,0 +1,5 @@
+{
+    "index": 4700,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 조건에서 사용하는 Runner-up 값이 다르기 때문에 결과가 달라집니다. 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'로, 대소문자 차이를 넘어서 다른 이름을 참조하고 있습니다."
+}

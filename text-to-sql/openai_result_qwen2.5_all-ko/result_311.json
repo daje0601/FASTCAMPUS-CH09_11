@@ -1,0 +1,5 @@
+{
+    "index": 311,
+    "answer": 0,
+    "explanation": "WHERE 절에서 Runner-up 값이 다르기 때문에 반환되는 결과가 다릅니다."
+}

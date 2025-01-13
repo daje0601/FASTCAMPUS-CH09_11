@@ -1,0 +1,5 @@
+{
+    "index": 478,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 사용된 필터 조건이 다릅니다. generated_query는 'Sammy Giammalva'를 조건으로 하고, ground_truth_query는 'sammy zimmalva'를 조건으로 하고 있어 결과가 다를 수밖에 없습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1870,
+    "answer": 1,
+    "explanation": "두 쿼리는 SELECT 하는 컬럼과 조건이 동일하며, GROUP BY와 HAVING 조건이 결과 집합에 영향을 미치지 않아 최종 결과가 동일하게 반환된다."
+}

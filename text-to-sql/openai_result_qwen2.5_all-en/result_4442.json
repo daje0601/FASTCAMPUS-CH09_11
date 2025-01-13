@@ -1,0 +1,5 @@
+{
+    "index": 4442,
+    "answer": 0,
+    "explanation": "두 쿼리에서 필드에 대한 조건이 다르므로 결과가 다릅니다. 쿼리 A는 'status'가 'active'와 'completed'인 경우를 선택하고, 쿼리 B는 'status'가 'pending'인 경우를 선택합니다. 이로 인해 결과 집합이 다르게 나타납니다."
+}

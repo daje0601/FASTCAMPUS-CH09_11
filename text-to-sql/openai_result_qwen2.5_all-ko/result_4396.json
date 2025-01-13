@@ -1,0 +1,5 @@
+{
+    "index": 4396,
+    "answer": 0,
+    "explanation": "\"current_agreement = 'false'\"를 조건으로 걸었는데, 조건식이 서로 다르므로 실제 반환하는 행이 다름. 따라서 결과 집합이 다름."
+}

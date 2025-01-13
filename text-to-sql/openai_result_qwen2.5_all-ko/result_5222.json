@@ -1,0 +1,5 @@
+{
+    "index": 5222,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 필터 조건을 가지고 있습니다. 하나는 특정 Runner-up을 'Sammy Giammalva'로 필터링하고, 다른 하나는 'sammy zimmalva'로 필터링하여 서로 다른 결과를 반환하게 됩니다."
+}

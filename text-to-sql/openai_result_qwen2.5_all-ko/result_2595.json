@@ -1,0 +1,5 @@
+{
+    "index": 2595,
+    "answer": 1,
+    "explanation": "두 쿼리는 테이블에서 같은 조건에 따라 'Semifinalists' 컬럼을 선택하고 있습니다. WHERE 절의 조건인 'Runner-up' 값이 동일하여 결과적으로 같은 조건을 적용받으므로 결과가 동일합니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1433,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 함수와 필터가 다릅니다. generated_query는 WHERE 절에서 'score >= 90' 조건을 사용하고, ground_truth_query는 HAVING 절에서 같은 조건을 적용하고 있습니다. 만약 그룹핑된 데이터에서 특정 값에 대해 필터를 적용한다면 실제 결과가 다를 수 있습니다."
+}

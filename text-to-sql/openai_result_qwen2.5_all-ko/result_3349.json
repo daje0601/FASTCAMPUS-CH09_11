@@ -1,0 +1,5 @@
+{
+    "index": 3349,
+    "answer": 0,
+    "explanation": "두 쿼리는 조건의 문자열 비교 대소문자가 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를, 두 번째 쿼리는 'sammy zimmalva'를 조건으로 사용하므로, 실제로 결과 집합이 달라집니다."
+}

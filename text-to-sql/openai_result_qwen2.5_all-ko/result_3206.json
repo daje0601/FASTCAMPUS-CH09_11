@@ -1,0 +1,5 @@
+{
+    "index": 3206,
+    "answer": 0,
+    "explanation": "조건문에서 사용된 WHERE 절이 다르기 때문에 두 쿼리는 서로 다른 결과를 반환합니다. {generated_query}는 조건으로 'value_x'를, {ground_truth_query}는 'value_y'를 사용하여 조건 대상이 다릅니다."
+}

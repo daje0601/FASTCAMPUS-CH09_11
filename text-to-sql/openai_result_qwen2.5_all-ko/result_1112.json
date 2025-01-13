@@ -1,0 +1,5 @@
+{
+    "index": 1112,
+    "answer": 0,
+    "explanation": "COUNT(*)와 COUNT(column_name)의 결과가 다를 수 있습니다. COUNT(column_name)은 NULL 값을 제외하고 개수를 세기 때문에 두 쿼리가 다른 결과를 반환할 수 있습니다."
+}

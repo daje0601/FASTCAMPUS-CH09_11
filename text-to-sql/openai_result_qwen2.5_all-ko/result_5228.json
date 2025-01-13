@@ -1,0 +1,5 @@
+{
+    "index": 5228,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용된 값이 다릅니다. generated_query에서 \"Runner-up\" 컬럼의 값이 'Sammy Giammalva'인데, ground_truth_query에서는 'sammy zimmalva'로 다르므로 결과가 다릅니다."
+}

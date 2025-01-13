@@ -1,0 +1,5 @@
+{
+    "index": 3401,
+    "answer": 0,
+    "explanation": "쿼리 A의 WHERE 조건은 runner-up이 'Sammy Giammalva'인 경우인데, 쿼리 B는 'sammy zimmalva'로 조건이 다르므로 실제 결과가 다를 수밖에 없습니다. 따라서 두 쿼리는 동일한 결과를 반환하지 않습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2563,
+    "answer": 0,
+    "explanation": "generated_query는 STUDENTS 테이블에서 Mark 필드가 50보다 큰 모든 레코드를 선택하는 반면, ground_truth_query는 Mark 필드가 50 이상인 레코드를 선택합니다. 이로 인해 두 쿼리의 선택된 결과 세트가 달라질 수 있습니다. 50인 값은 generated_query에서 제외되지만 ground_truth_query에서는 포함됩니다."
+}

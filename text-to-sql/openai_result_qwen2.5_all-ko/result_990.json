@@ -1,0 +1,5 @@
+{
+    "index": 990,
+    "answer": 0,
+    "explanation": "Generated query에서는 MyTable을 기준으로 MyValue가 10 이상인 item들을 오름차순으로 정렬하여 10개까지만 조회한다. 반면 정답(query)는 MyValue가 정확히 10인 item들만 조회한다. 두 쿼리는 서로 다른 조건을 사용하여 필터링하므로 결과 집합이 다를 수 있다."
+}

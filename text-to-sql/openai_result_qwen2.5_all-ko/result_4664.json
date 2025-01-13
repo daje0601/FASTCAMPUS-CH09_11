@@ -1,0 +1,5 @@
+{
+    "index": 4664,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. generated_query는 state가 'California'일 때, ground_truth_query는 state가 'CA'일 때 결과를 반환하므로 결과 집합이 다릅니다."
+}

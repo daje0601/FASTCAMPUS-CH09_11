@@ -1,0 +1,5 @@
+{
+    "index": 3017,
+    "answer": 0,
+    "explanation": "두 쿼리에서 WHERE 절의 조건값이 다르기 때문에 동일한 결과를 반환할 수 없습니다. 쿼리 A는 'Sammy Giammalva', 쿼리 B는 'sammy zimmalva'로 Runner-up 칼럼의 조건값이 다릅니다. 이는 결과 집합이 달라진다는 의미입니다."
+}

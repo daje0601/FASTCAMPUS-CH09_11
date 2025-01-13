@@ -1,0 +1,5 @@
+{
+    "index": 3370,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절에서 다른 기준을 사용하고 있습니다. 특히, 첫 번째 쿼리는 'Sammy Giammalva'로 비교하고 있고, 두 번째 쿼리는 'sammy zimmalva'로 비교하고 있어, 실제 반환되는 결과 집합이 다르게 나올 것입니다."
+}

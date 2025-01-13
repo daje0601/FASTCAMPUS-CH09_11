@@ -1,0 +1,5 @@
+{
+    "index": 1827,
+    "answer": 0,
+    "explanation": "generated_query는 WHERE 조건에서 사용된 OPERATING_SYSTEM이 'Linux'로 설정되어 있고, ground_truth_query는 'Windows'로 설정되어 있기 때문에 조건이 달라 결과가 다릅니다."
+}

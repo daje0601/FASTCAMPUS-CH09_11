@@ -1,0 +1,5 @@
+{
+    "index": 4152,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건이 서로 다르기 때문에 결과가 달라질 것이다. 첫 번째 쿼리는 'Sammy Giammalva'를 찾고, 두 번째 쿼리는 'sammy zimmalva'를 찾으므로 결과의 행이 다르다."
+}

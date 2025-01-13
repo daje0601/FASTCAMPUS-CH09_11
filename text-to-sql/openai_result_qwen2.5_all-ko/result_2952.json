@@ -1,0 +1,5 @@
+{
+    "index": 2952,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 Runner-up 이름('Sammy Giammalva' vs 'sammy zimmalva')을 사용하여 조건을 걸고 있으므로, 결과적으로 반환되는 행이 다를 수밖에 없습니다. 동일한 Runner-up 이름을 사용하지 않았으므로 실제로 반환할 수 있는 결과 집합이 다릅니다."
+}

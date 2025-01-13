@@ -1,0 +1,5 @@
+{
+    "index": 609,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 `SELECT status FROM orders WHERE price > 100`이고, 원본 쿼리는 `SELECT status FROM orders WHERE price >= 100`이다. 두 쿼리의 조건에서 `price > 100`과 `price >= 100`는 필터링되는 결과가 다르므로 실제 반환 결과 집합은 동일하지 않다."
+}

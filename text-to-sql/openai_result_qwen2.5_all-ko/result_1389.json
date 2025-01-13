@@ -1,0 +1,5 @@
+{
+    "index": 1389,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 결과를 반환하지 않습니다. 첫 번째 쿼리는 'Sammy Giammalva'라는 Runner-up의 Semifinalists를 찾으려고 하고, 두 번째 쿼리는 'sammy zimmalva'로 다른 Runner-up을 찾으려고 합니다. 따라서 WHERE 조건절에서 이미 다른 결과를 가져오게 됩니다."
+}

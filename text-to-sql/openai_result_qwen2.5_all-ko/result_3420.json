@@ -1,0 +1,5 @@
+{
+    "index": 3420,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 WHERE 절 조건이 다릅니다. 생성된 쿼리는 특정 Runner-up을 'Sammy Giammalva'로 필터링한 반면, 정답 쿼리는 'sammy zimmalva'로 필터링하고 있습니다. Runner-up 이름이 다르므로 결과 집합도 다르게 나옵니다."
+}

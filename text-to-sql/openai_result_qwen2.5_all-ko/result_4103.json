@@ -1,0 +1,5 @@
+{
+    "index": 4103,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 조건에서 서로 다른 Runner-up 값을 비교하고 있으므로 반환되는 결과가 다를 수밖에 없습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4826,
+    "answer": 0,
+    "explanation": "GROUP BY와 COUNT 동일하지만 조건 다른 조건으로 인해 반환결과 다름"
+}

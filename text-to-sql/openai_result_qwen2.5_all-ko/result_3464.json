@@ -1,0 +1,5 @@
+{
+    "index": 3464,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있습니다. 하나는 'Sammy Giammalva'를 찾고 다른 하나는 'sammy zimmalva'를 찾기 때문에 결과가 다릅니다. 이름이 다르면 필터된 결과 행이 다를 수밖에 없습니다."
+}

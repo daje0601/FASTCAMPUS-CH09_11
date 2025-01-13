@@ -1,0 +1,5 @@
+{
+    "index": 527,
+    "answer": 0,
+    "explanation": "두 쿼리는 GROUP BY 구문이 다르게 설정되어 있어 결과 세트가 다를 수 있습니다. 하나의 쿼리는 GROUP BY를 CName에 대해 설정했고, 다른 쿼리는 CID에 대해 설정했으므로, CName과 CID의 관계가 1:1이 아니면 결과가 달라질 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 264,
+    "answer": 0,
+    "explanation": "SELECT 쿼리에서 WHERE 조건의 'Runner-up' 값이 서로 다르고, 이는 쿼리의 결과 행에 영향을 미치므로 두 쿼리는 다른 결과를 반환합니다."
+}

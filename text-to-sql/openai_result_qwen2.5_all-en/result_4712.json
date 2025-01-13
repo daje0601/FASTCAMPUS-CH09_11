@@ -1,0 +1,5 @@
+{
+    "index": 4712,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건이 서로 다르므로 실제 결과가 다릅니다. 쿼리 A는 'user'가 Alice인 경우만 반환하는 반면, 쿼리 B는 'user'가 Bob인 경우만 반환합니다."
+}

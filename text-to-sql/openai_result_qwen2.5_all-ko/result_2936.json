@@ -1,0 +1,5 @@
+{
+    "index": 2936,
+    "answer": 0,
+    "explanation": "문제에서 주어진 두 쿼리는, 첫 번째 쿼리가 'Sammy Giammalva'라는 Runner-up 이름을 기준으로 필터링하는 반면, 두 번째 쿼리는 'sammy zimmalva'라는 알고 보니 전혀 다른 Runner-up 이름을 기준으로 필터링하고 있습니다. SQL은 대소문자를 구분하므로 Runner-up 이름이 다르면 결과 집합도 다릅니다. 따라서 두 쿼리는 서로 다른 결과를 반환합니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4354,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 테이블에서 데이터를 조회하더라도, WHERE 절의 조건이 서로 다르기 때문에 결과가 다릅니다. 이것은 'Runner-up' 컬럼의 값이 각각 'Sammy Giammalva'와 'sammy zimmalva'로 다르기 때문에 반환되는 행이 다르게 됩니다."
+}

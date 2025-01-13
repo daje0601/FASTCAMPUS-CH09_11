@@ -1,0 +1,5 @@
+{
+    "index": 2088,
+    "answer": 1,
+    "explanation": "두 쿼리는 SELECT 문과 WHERE 조건이 동일하고, ORDER BY 부분이 다른 것만 있기 때문에 결과 집합은 동일하다. 결과적으로, 'answer=1'로 판단한다."
+}

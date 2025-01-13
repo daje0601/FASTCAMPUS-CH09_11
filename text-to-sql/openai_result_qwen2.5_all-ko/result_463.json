@@ -1,0 +1,5 @@
+{
+    "index": 463,
+    "answer": 0,
+    "explanation": "문제 설명에서 제공한 Runner-up 이름이 서로 다르기 때문에 결과 집합이 다릅니다. 'Sammy Giammalva'와 'sammy zimmalva'는 다른 인물이므로, WHERE 조건절에 의해 결과가 다르게 반환됩니다."
+}

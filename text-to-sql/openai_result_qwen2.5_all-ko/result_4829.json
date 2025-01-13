@@ -1,0 +1,5 @@
+{
+    "index": 4829,
+    "answer": 0,
+    "explanation": "generated_query에서 userId가 7인 경우에만 조회하고 있으며, ground_truth_query에서는 userId가 77인 경우만 조회하고 있어서 결과가 다릅니다."
+}

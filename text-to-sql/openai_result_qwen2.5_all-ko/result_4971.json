@@ -1,0 +1,5 @@
+{
+    "index": 4971,
+    "answer": 0,
+    "explanation": "두 쿼리에서 조건문이 서로 다르다. 생성된 쿼리는 WHERE 절에 'Runner-up' = 'Sammy Giammalva'를 사용하고, 정답 쿼리는 'Runner-up' = 'sammy zimmalva'를 사용한다. 결과 집합은 서로 다른 조건 때문에 달라질 것이다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3561,
+    "answer": 0,
+    "explanation": "두 쿼리가 같은 테이블을 조회하고 있지만, WHERE 조건에서 비교하는 문자열이 서로 다르기 때문에 실제 결과가 다릅니다. 첫 번째 쿼리는 Runner-up이 'Sammy Giammalva'인 레코드를 조회하고, 두 번째 쿼리는 'sammy zimmalva'인 레코드를 조회합니다. 따라서 결과 집합이 다릅니다."
+}

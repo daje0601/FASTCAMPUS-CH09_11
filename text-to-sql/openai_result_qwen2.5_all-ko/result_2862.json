@@ -1,0 +1,5 @@
+{
+    "index": 2862,
+    "answer": 0,
+    "explanation": "쿼리들이 단순히 'where' 조건을 다르게 사용하여 서로 다른 runner-up 이름을 검색하고 있습니다. 'where' 절의 runner-up 값이 달라 실제 검색 결과는 다르게 나옵니다."
+}

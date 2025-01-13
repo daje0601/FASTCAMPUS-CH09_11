@@ -1,0 +1,5 @@
+{
+    "index": 1581,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 비교하는 값이 다릅니다. 쿼리 A는 이름이 'Sammy Giammalva'인 경우를, 쿼리 B는 이름이 'sammy zimmalva'인 경우를 필터링하므로 결과가 달라집니다."
+}

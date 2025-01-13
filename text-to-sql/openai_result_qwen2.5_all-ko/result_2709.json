@@ -1,0 +1,5 @@
+{
+    "index": 2709,
+    "answer": 0,
+    "explanation": "쿼리 A와 B는 모두 'Runner-up' 컬럼에서 값을 비교하고 있지만, A는 'Sammy Giammalva'를, B는 'sammy zimmalva'를 사용하고 있기 때문에 두 쿼리의 결과는 다릅니다. 이러한 이유로 실제 반환되는 행이 다릅니다."
+}

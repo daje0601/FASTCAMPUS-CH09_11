@@ -1,0 +1,5 @@
+{
+    "index": 1027,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에 있는 조건으로 인해 결과가 달라질 수 있다. 첫 번째 쿼리는 'sammy giammalva'를 Runner-up으로 지정한 사람들을 찾고, 두 번째 쿼리는 'sammy zimmalva'를 검색하는데, 이는 전혀 다른 이름이다. 그러므로 동일한 결과를 반환하지 않는다."
+}

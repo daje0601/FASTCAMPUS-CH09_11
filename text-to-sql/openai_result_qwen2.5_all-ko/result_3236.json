@@ -1,0 +1,5 @@
+{
+    "index": 3236,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 'Sammy Giammalva'와 'sammy zimmalva'로 다르기 때문에, 해당 Runner-up에 해당하는 Semifinalists 결과가 서로 다를 수 있습니다. 따라서 쿼리 결과가 다를 수 있습니다."
+}

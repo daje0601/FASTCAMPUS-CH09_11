@@ -1,0 +1,5 @@
+{
+    "index": 668,
+    "answer": 0,
+    "explanation": "generated_query는 결과를 연도별로 ORDER BY하는 반면, ground_truth_query는 id 별로 ORDER BY 합니다. id와 years가 같은 순서가 아니면 반환되는 결과가 다를 수 있습니다."
+}

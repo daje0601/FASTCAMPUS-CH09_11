@@ -1,0 +1,5 @@
+{
+    "index": 2749,
+    "answer": 0,
+    "explanation": "GROUP BY 절에서 'category'와 'product' 둘 다 그룹화하는 것과 'category'만 그룹화하는 것은 결과가 다를 수 있다. 예를 들어 같은 카테고리에 여러 제품이 있을 경우, 'category'만 그룹화하면 모든 해당 제품이 하나로 통합되지만, 'category', 'product'로 그룹화하면 제품별로 나누어져 Count가 달라진다."
+}

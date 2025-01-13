@@ -1,0 +1,5 @@
+{
+    "index": 4433,
+    "answer": 0,
+    "explanation": "generated 쿼리는 'Customers' 테이블에서 'Status'가 'Active'인 고객의 'Name'을 선택하고 있고, ground_truth 쿼리는 같은 테이블에서 'Status'가 'Inactive'인 고객의 'Name'을 선택하고 있습니다. 따라서 필터링 조건이 달라 실제로 반환되는 결과 집합이 서로 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1820,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절의 조건이 달라 서로 다른 결과를 반환합니다. 하나는 'Sammy Giammalva'를 조건으로 사용하고, 다른 하나는 'sammy zimmalva'를 조건으로 사용하여 결과가 다를 수밖에 없습니다."
+}

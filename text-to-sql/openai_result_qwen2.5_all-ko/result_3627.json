@@ -1,0 +1,5 @@
+{
+    "index": 3627,
+    "answer": 0,
+    "explanation": "각 쿼리가 필터링하는 조건이 다르기 때문에 결과가 다릅니다. 쿼리 A는 Runner-up 이름이 'Sammy Giammalva'이고, 쿼리 B는 'sammy zimmalva'로 대소문자와 철자가 달라 전혀 다른 값을 필터링합니다."
+}

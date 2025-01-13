@@ -1,0 +1,5 @@
+{
+    "index": 1105,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. 생성된 쿼리는 'sammy zimmalva'를 조건으로 하고, 정답 쿼리는 'Sammy Giammalva'를 조건으로 하기 때문에 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1968,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 달라서 결과가 다릅니다. 한 쿼리는 Runner-up 이름을 'Sammy Giammalva'로 필터링하고, 다른 하나는 'sammy zimmalva'로 필터링합니다."
+}

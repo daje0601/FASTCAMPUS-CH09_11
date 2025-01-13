@@ -1,0 +1,5 @@
+{
+    "index": 5035,
+    "answer": 0,
+    "explanation": "두 쿼리는 서로 다른 조건을 사용하고 있습니다. 'WHERE condition1'은 특정 조건을 만족하는 행을 선택하는 반면, 'WHERE condition2'는 다른 조건을 만족하는 행을 선택하므로 결과 집합이 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1996,
+    "answer": 0,
+    "explanation": "generated_query에서는 year가 1995와 2000 사이인 데이터를 가져오고 있으나, ground_truth_query에서는 year가 1985와 1995 사이인 데이터를 가져오고 있어 두 쿼리는 서로 다른 결과를 반환하게 된다."
+}

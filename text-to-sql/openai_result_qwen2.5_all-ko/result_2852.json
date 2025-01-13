@@ -1,0 +1,5 @@
+{
+    "index": 2852,
+    "answer": 1,
+    "explanation": "order_date와 customer_id가 group by 대상인데 동일하게 사용되며, 최종 결과물은 min(total_amount)로 동일하게 도출되므로 결과 집합은 동일합니다."
+}

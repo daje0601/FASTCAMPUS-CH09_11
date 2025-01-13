@@ -1,0 +1,5 @@
+{
+    "index": 4768,
+    "answer": 0,
+    "explanation": "generated_query에서는 season 열을 기준으로 정렬하여 제한을 두었고, ground_truth_query에서는 id 열을 기준으로 정렬했습니다. 이 두 열이 같은 순서로 증가하지 않는 한 결과가 다를 수 있습니다."
+}

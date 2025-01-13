@@ -1,0 +1,5 @@
+{
+    "index": 1844,
+    "answer": 0,
+    "explanation": "쿼리 A는 `event_type`이 'maintenance'인 행의 `event_count` 합계를 구하고, 쿼리 B는 `event_type`이 'failure'인 행의 `event_count` 합계를 구합니다. 따라서 조건이 달라 실제 결과가 다릅니다."
+}

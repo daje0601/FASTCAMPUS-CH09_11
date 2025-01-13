@@ -1,0 +1,5 @@
+{
+    "index": 370,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다르므로 결과가 다릅니다. A 쿼리는 'Sammy Giammalva'를 조건으로 하고 B 쿼리는 'sammy zimmalva'를 조건으로 하여 일치하는 결과가 없기 때문에 다릅니다."
+}

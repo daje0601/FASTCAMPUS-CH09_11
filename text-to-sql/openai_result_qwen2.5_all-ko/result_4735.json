@@ -1,0 +1,5 @@
+{
+    "index": 4735,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절의 조건이 다릅니다. 주어진 조건에 따르면 오직 'Sammy Giammalva'인 경우와 'sammy zimmalva'인 경우의 결과가 달라질 수 있습니다. 따라서 결과 집합이 다를 수 있습니다."
+}

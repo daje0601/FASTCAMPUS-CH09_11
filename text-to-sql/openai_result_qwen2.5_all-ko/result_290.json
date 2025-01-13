@@ -1,0 +1,5 @@
+{
+    "index": 290,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 서로 다릅니다. generated_query는 \"Runner-up\"이 'sammy giammalva'인 경우를 찾고 있지만, ground_truth_query는 'Sammy Giammalva'인 경우를 찾고 있습니다. 이는 대소문자가 고려되는 경우 다른 결과를 반환합니다."
+}

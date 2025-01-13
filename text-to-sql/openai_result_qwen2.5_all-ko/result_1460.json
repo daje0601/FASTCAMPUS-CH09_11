@@ -1,0 +1,5 @@
+{
+    "index": 1460,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 WHERE 조건에서 'Harry Potter'와 'Frodo Baggins'라는 서로 다른 이름을 사용하고 있어, 두 쿼리는 서로 다른 결과를 반환합니다."
+}

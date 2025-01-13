@@ -1,0 +1,5 @@
+{
+    "index": 2212,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 `ORDER BY order_date` 조건이 있고, 정답 쿼리는 `ORDER BY completed_date`로 되어 있어 정렬 기준이 다릅니다. 따라서 결과 집합이 다릅니다."
+}

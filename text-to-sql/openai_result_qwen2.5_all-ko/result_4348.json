@@ -1,0 +1,5 @@
+{
+    "index": 4348,
+    "answer": 0,
+    "explanation": "WHERE 절에서 사용하는 컬럼 'Runner-up'의 값이 서로 다르므로 반환되는 결과 집합이 다를 것입니다."
+}

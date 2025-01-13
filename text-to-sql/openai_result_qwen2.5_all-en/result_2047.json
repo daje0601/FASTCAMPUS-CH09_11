@@ -1,0 +1,5 @@
+{
+    "index": 2047,
+    "answer": 0,
+    "explanation": "쿼리 A는 'CName'을 반환하지만, 쿼리 B는 'CName' 대신 'CID'를 GROUP BY에 사용하고 있어 반환되는 결과가 다를 수 있다. CName이 중복될 경우 각 CName에 대해 다른 개수를 반환할 수 있으므로 결과가 동일하지 않다."
+}

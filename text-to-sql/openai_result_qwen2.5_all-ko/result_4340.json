@@ -1,0 +1,5 @@
+{
+    "index": 4340,
+    "answer": 0,
+    "explanation": "두 쿼리는 조건절이 서로 다릅니다. 생성된 쿼리는 특정 Runner-up 값을 'Sammy Giammalva'로 필터링하지만, 정답 쿼리는 'sammy zimmalva'로 필터링하므로 서로 다른 결과를 반환합니다."
+}

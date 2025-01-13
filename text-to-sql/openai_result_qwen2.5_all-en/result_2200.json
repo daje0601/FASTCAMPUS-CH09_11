@@ -1,0 +1,5 @@
+{
+    "index": 2200,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 'StudentID'와 'Score'를 기준으로 집계해 평균을 내며, 두 번째 쿼리는 'CourseID'와 'Score'의 평균을 구하고 있다. 이로 인해 그룹화된 키와 결과가 다르므로 결과 집합이 달라질 수 있다."
+}

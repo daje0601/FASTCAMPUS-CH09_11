@@ -1,0 +1,5 @@
+{
+    "index": 2887,
+    "answer": 0,
+    "explanation": "생성된 쿼리에서는 'SELECT COUNT(*)'와 'WHERE T.NAME = 'a'' 조건을 사용하지만, 정답 쿼리에서는 'SELECT COUNT()'와 'WHERE T.ID = 1' 조건을 사용하고 있어 결과 집합이 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3722,
+    "answer": 0,
+    "explanation": "generated_query에서는 SELECT에서 집합으로 'column1'과 'column2'를 사용하였지만, ground_truth_query에서는 단일 컬럼 'column1'만 선택하여 실제 반환되는 결과 집합이 다릅니다. 이는 선택된 컬럼이 다르므로 의미적으로 같은 결과를 반환하지 않습니다."
+}

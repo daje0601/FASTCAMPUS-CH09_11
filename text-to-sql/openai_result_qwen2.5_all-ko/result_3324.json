@@ -1,0 +1,5 @@
+{
+    "index": 3324,
+    "answer": 0,
+    "explanation": "쿼리 A는 Runner-up이 'Sammy Giammalva'인 경우를 찾고, 쿼리 B는 'sammy zimmalva' 인 경우를 찾으므로 두 문자열이 다르고, 따라서 결과 집합이 다름."
+}

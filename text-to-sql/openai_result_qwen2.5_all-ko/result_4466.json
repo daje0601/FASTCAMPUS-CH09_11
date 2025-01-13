@@ -1,0 +1,5 @@
+{
+    "index": 4466,
+    "answer": 0,
+    "explanation": "원본 쿼리에서 GROUP BY가 CAREER로 되어 있어, 각 CAREER 별로 MAX(AGE)를 선택합니다. 그러나 생성된 쿼리에서는 인라인 뷰를 통해 AGE가 30보다 큰 레코드만을 선택하므로 결과가 달라질 수 있습니다."
+}

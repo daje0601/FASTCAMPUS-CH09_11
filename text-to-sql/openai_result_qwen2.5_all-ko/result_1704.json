@@ -1,0 +1,5 @@
+{
+    "index": 1704,
+    "answer": 0,
+    "explanation": "generated_query는 공격 팀이 'Team1'이거나 'Team2'인 조건을 포함하고 있으나, ground_truth_query는 'Team1'만 필터링. 조건이 달라 결과가 다릅니다."
+}

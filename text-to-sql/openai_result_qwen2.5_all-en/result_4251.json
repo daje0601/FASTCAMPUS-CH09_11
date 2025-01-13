@@ -1,0 +1,5 @@
+{
+    "index": 4251,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다른 경우(WHERE 절의 값이 다름)로 인해 실제 결과가 달라진다. 쿼리 A는 Runner-up이 'Sammy Giammalva'인 경우를 조회하나, 쿼리 B는 'sammy zimmalva'인 경우를 조회하여 서로 다른 결과를 낸다."
+}

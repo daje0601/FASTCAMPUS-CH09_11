@@ -1,0 +1,5 @@
+{
+    "index": 1809,
+    "answer": 0,
+    "explanation": "생성된 쿼리 A는 Gender가 'F'인 행을 선택하지만, 정답 쿼리 B는 Gender가 'Female'인 행을 선택합니다. 컬럼 'Gender'의 가능한 값이 'F' 또는 'Female'이기 때문에 조건이 다르고 결과 집합도 다릅니다."
+}

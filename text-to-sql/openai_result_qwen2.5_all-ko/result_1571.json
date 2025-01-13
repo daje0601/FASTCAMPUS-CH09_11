@@ -1,0 +1,5 @@
+{
+    "index": 1571,
+    "answer": 0,
+    "explanation": "각 쿼리에서 조건절에 사용된 'Runner-up' 이름이 'Sammy Giammalva'와 'Sammy Zimmalva'로 서로 다릅니다. 결과적으로 WHERE 조건을 만족하는 행이 다르므로 반환되는 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3006,
+    "answer": 0,
+    "explanation": "두 쿼리가 반환하는 결과가 다릅니다. 하나는 첫 번째 문제 설명에 나오는 Samyy Giammalva를 사용하고, 다른 하나는 sammy zimmalva를 사용했습니다. 그러므로 반환되는 집합이 다릅니다."
+}

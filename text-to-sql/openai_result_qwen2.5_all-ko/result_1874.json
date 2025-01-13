@@ -1,0 +1,5 @@
+{
+    "index": 1874,
+    "answer": 0,
+    "explanation": "count가 3 이상인 스튜던트를 찾는 기준이 다르다. 한 쿼리는 학생의 총 출석 횟수인 count(stud_id)의 기준, 다른 쿼리는 학생 id 내 distinct 출석 기준인 count(DISTINCT attend_id)의 사용으로 실제 집합이 달라질 수 있다. 예를 들어, 같은 학생(stud_id)이 여러 attend_id를 가질 수 있음."
+}

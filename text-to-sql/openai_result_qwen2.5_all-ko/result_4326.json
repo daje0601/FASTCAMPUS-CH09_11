@@ -1,0 +1,5 @@
+{
+    "index": 4326,
+    "answer": 0,
+    "explanation": "쿼리 A는 first_name과 last_name을 기준으로 결과를 필터링하지만, 쿼리 B는 email을 기준으로 필터링합니다. 따라서 두 쿼리는 다른 결과를 반환하게 됩니다."
+}

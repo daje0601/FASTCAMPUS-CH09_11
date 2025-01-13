@@ -1,0 +1,5 @@
+{
+    "index": 4915,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 다르기 때문에 결과가 다릅니다. 하나는 Runner-up이 'John'인 경우, 다른 하나는 'Johnny'인 경우를 찾고 있습니다."
+}

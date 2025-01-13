@@ -1,0 +1,5 @@
+{
+    "index": 4320,
+    "answer": 0,
+    "explanation": "쿼리 A와 쿼리 B는 CITY와 논리 연산자가 달라서 결과가 다를 것입니다. 쿼리 A는 CITY = 'Seoul'이며, 쿼리 B는 CITY = 'New York'입니다. 조건이 다르므로 두 쿼리는 다른 결과를 반환할 것입니다."
+}

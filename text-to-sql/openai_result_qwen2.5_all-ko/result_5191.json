@@ -1,0 +1,5 @@
+{
+    "index": 5191,
+    "answer": 0,
+    "explanation": "쿼리에서의 조건이 서로 달라 동일한 결과가 나올 수 없습니다. \"generated_query\"에서는 \"Runner-up\" 조건이 대소문자가 동일하게 적혀있지만, \"ground_truth_query\"에서는 대소문자가 달라 \"Runner-up\"에 대한 조건이 다르게 처리되므로 실제 반환되는 결과가 달라질 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4956,
+    "answer": 0,
+    "explanation": "generated_query는 first_name이 'John'인 사람들을 선택하지만 ground_truth_query는 last_name이 'Doe'인 사람들을 선택하고 있습니다. 조건이 다르므로 결과가 다릅니다."
+}

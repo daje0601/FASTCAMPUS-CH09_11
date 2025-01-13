@@ -1,0 +1,5 @@
+{
+    "index": 2864,
+    "answer": 0,
+    "explanation": "쿼리 A에서는 \"Runner-up\" 컬럼의 값과 `Sammy Giammalva`를 비교하는데, 쿼리 B에서는 `sammy zimmalva`로 다른 값을 비교하고 있습니다. 따라서, 두 쿼리가 반환하는 결과 집합은 다릅니다."
+}

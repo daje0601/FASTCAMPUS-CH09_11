@@ -1,0 +1,5 @@
+{
+    "index": 1720,
+    "answer": 0,
+    "explanation": "이 두 쿼리는 서로 다른 조건에 의해 결과가 달라집니다. 생성된 쿼리는 특정 runner-up이 'Sammy Giammalva'인 경우를 찾는 반면, 주어진 정답 쿼리에서는 runner-up이 'sammy zimmalva'인 경우를 찾고 있습니다. 따라서 'Runner-up' 조건이 달라 결과가 다를 수 있습니다."
+}

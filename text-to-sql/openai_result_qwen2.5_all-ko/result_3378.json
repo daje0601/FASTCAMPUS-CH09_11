@@ -1,0 +1,5 @@
+{
+    "index": 3378,
+    "answer": 0,
+    "explanation": "결과를 확인해보면, 두 쿼리에서 사용하는 WHERE 조건의 'Runner-up' 값을 비교하면 완전히 다르기 때문에, 필터링된 결과물 즉, 반환되는 행 집합 자체가 달라질 가능성이 크다. 'Sammy Giammalva'와 'sammy zimmalva'는 대소문자 차이가 아니라, 의미적으로 완전히 다른 문자열이다."
+}

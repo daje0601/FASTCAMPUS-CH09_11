@@ -1,0 +1,5 @@
+{
+    "index": 5041,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. generated_query에서는 T3.DateTime과 T1.Status가 사용되었지만 ground_truth_query에서는 T2.DateTime과 T1.Status가 사용되었습니다. 같은 테이블의 컬럼을 사용하지 않아, 결과적으로 다른 결과를 반환할 가능성이 큽니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1918,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절이 서로 다릅니다. generated_query는 조건이 '='와 'IS NULL'을 사용하고, ground_truth_query는 '!='을 사용하여 결과 집합이 다릅니다. 따라서 두 쿼리는 서로 다른 결과를 반환합니다."
+}

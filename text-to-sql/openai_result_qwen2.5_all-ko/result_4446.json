@@ -1,0 +1,5 @@
+{
+    "index": 4446,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절에서 필터링 조건이 다릅니다. 쿼리 A는 Runner-up이 'Sammy Giammalva'일 때, 쿼리 B는 'sammy zimmalva'일 때의 값을 조회하므로 다른 결과를 반환합니다."
+}

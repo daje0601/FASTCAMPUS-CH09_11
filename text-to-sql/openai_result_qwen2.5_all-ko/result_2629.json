@@ -1,0 +1,5 @@
+{
+    "index": 2629,
+    "answer": 0,
+    "explanation": "JOIN 조건에서 generated_query는 두 테이블의 동일한 CID 값을 요구하고, ground_truth_query는 CID1과 CID2가 같아야 하므로 JOIN 결과가 다르고, 따라서 결과 집합이 다를 수 있다."
+}

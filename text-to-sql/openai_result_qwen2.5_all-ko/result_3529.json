@@ -1,0 +1,5 @@
+{
+    "index": 3529,
+    "answer": 0,
+    "explanation": "쿼리 A에서는 'Runner-up' 열에서 'Sammy Giammalva'를 조건으로 사용하고, 쿼리 B에서는 'sammy zimmalva'를 조건으로 사용합니다. 따라서 이 두 쿼리는 서로 다른 결과를 반환할 것입니다."
+}

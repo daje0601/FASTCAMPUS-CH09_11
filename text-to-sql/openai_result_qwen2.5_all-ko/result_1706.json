@@ -1,0 +1,5 @@
+{
+    "index": 1706,
+    "answer": 0,
+    "explanation": "반환 조건인 WHERE 절에서 사용하는 값이 쿼리 A와 B가 다르므로 결과 집합이 다르다. 하나는 Sammy Giammalva를, 다른 하나는 sammy zimmalva를 사용하여 서로 다른 대상을 조회하고 있어 결과가 동일하지 않다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 559,
+    "answer": 0,
+    "explanation": "\"Runner-up\"의 조건이 서로 다른 값인 'Sammy Giammalva'와 'sammy zimmalva'로 설정되어 있어 실제 두 쿼리의 결과 집합이 다르다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2444,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 사용된 조건이 다릅니다. `name = 'John'`와 `name = 'Jane'`은 서로 다른 조건이므로 결과가 다릅니다."
+}

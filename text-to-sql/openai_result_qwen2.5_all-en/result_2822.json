@@ -1,0 +1,5 @@
+{
+    "index": 2822,
+    "answer": 0,
+    "explanation": "두 쿼리에 사용된 조건이 다르기 때문에 결과가 다르다. 첫 번째 쿼리는 'sammy giammalva'와 같은 경우만 선택하는 반면, 두 번째 쿼리는 'Sammy Giammalva'와 같은 경우만 선택하므로 결과에 차이가 있다."
+}

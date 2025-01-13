@@ -1,0 +1,5 @@
+{
+    "index": 107,
+    "answer": 0,
+    "explanation": "각 쿼리의 WHERE 조건에 사용된 Runner-up 이름이 다르므로, 실제로 쿼리가 반환하는 결과 집합이 다를 것입니다."
+}

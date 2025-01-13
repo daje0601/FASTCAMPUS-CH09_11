@@ -1,0 +1,5 @@
+{
+    "index": 939,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에 있는 학생 이름이 다르기 때문에, 실제로 참조하는 행이 다릅니다. 즉, 이름 조건에서 하나는 'Sammy Giammalva'를 찾고 다른 하나는 'sammy zimmalva'를 찾기 때문에 결과가 다를 수 밖에 없습니다."
+}

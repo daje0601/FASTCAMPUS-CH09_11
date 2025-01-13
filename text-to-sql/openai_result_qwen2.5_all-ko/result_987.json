@@ -1,0 +1,5 @@
+{
+    "index": 987,
+    "answer": 0,
+    "explanation": "조건 절에서 사용하는 비교 값이 다릅니다. generated_query는 pop2021이 1000000보다 작은 레코드를 선택하고, ground_truth_query는 pop2020이 1000000보다 작은 레코드를 선택합니다. 따라서 두 쿼리의 결과는 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 626,
+    "answer": 0,
+    "explanation": "원본 쿼리와 생성된 쿼리의 WHERE 조건이 다릅니다. 생성된 쿼리에서는 'Winner'가 'Sammy Giammalva'인 조건을 사용하고 있고, 원본 쿼리에서는 'Runner-up'가 'Sammy Giammalva'인 조건을 사용하고 있어 결과가 다릅니다."
+}

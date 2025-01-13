@@ -1,0 +1,5 @@
+{
+    "index": 3860,
+    "answer": 0,
+    "explanation": "WHERE 절에서 하나는 HomeCountry가 'USA'인 경기를 포함하고 다른 하나는 제외합니다. 결과가 다릅니다."
+}

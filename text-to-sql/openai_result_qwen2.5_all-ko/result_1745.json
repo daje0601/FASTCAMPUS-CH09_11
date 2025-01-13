@@ -1,0 +1,5 @@
+{
+    "index": 1745,
+    "answer": 0,
+    "explanation": "generated_query에서는 CategoryID가 1인 것만을 선택하므로 CategoryID가 다르면 결과가 다르다."
+}

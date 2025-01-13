@@ -1,0 +1,5 @@
+{
+    "index": 634,
+    "answer": 0,
+    "explanation": "generated_query는 age <= 30인 사람들에 대해 count하고 있으나, ground_truth_query는 age > 30인 사람들의 count를 하고 있다. 조건이 반대이므로 결과가 다르다."
+}

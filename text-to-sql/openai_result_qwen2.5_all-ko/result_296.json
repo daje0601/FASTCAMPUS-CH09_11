@@ -1,0 +1,5 @@
+{
+    "index": 296,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 Runner-up의 이름이 서로 다르기 때문에, 필터링된 결과가 다르게 됩니다. 쿼리 A는 'Sammy Giammalva'를 찾고 쿼리 B는 'sammy zimmalva'를 찾기 때문에 실제 반환되는 데이터가 서로 다를 수 있습니다."
+}

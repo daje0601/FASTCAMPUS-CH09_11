@@ -1,0 +1,5 @@
+{
+    "index": 2816,
+    "answer": 0,
+    "explanation": "SELECT 절에 대한 별칭 'C'로 인해 generated_query는 'A'와 'B' 둘 다에서 결과를 가져오는 반면, original 쿼리는 'A'에서만 데이터를 가져오므로 결과가 다릅니다."
+}

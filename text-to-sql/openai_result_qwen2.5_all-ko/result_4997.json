@@ -1,0 +1,5 @@
+{
+    "index": 4997,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 특정 Runner-up이 'Sammy Giammalva'인 조건을 추가해서 결과가 이에 해당하는 행만 포함하지만, 두 번째 쿼리는 'sammy zimmalva'가 조건이라 둘의 조건이 달라 실제로 반환되는 결과 집합이 다릅니다."
+}

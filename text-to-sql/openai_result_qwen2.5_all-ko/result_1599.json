@@ -1,0 +1,5 @@
+{
+    "index": 1599,
+    "answer": 0,
+    "explanation": "두 쿼리간의 WHERE 조건절이 다르기 때문에 결과 집합이 다를 수 있습니다. 하나는 'Sammy Giammalva', 다른 하나는 'sammy zimmalva'로 서로 다른 값입니다."
+}

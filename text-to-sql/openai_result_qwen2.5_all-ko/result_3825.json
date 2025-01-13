@@ -1,0 +1,5 @@
+{
+    "index": 3825,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용하는 WHERE 조건의 값이 다릅니다. 정답 쿼리는 Runner-up이 \"Sammy Giammalva\"인 경우를 필터링하는 반면, 생성된 쿼리는 Runner-up이 \"sammy zimmalva\"인 경우를 필터링하고 있어 결과 집합이 달라집니다."
+}

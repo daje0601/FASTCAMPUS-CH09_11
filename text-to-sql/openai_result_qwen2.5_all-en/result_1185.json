@@ -1,0 +1,5 @@
+{
+    "index": 1185,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있으므로 결과가 다릅니다. Generated query는 과거 10년간 기록을 고려한 반면, Ground truth query는 단순히 최근 10년을 기준으로 하여 결과 집합이 상이합니다."
+}

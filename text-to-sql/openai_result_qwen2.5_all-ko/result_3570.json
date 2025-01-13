@@ -1,0 +1,5 @@
+{
+    "index": 3570,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 LIKE 조건이 서로 다름. generated_query는 '%'와 특정 값을 비교하고, ground_truth_query는 컬럼명을 사용하여 LIKE 조건을 적용하여 출력되는 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1089,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 WHERE 조건절에서 \"Runner-up\"가 'Sammy Giammalva' 인지를 검사하고 두 번째 쿼리는 'sammy zimmalva' 인지를 검사합니다. 두 WHERE 조건이 서로 다른 값을 비교하므로 결과가 다릅니다."
+}

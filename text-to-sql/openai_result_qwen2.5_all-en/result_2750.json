@@ -1,0 +1,5 @@
+{
+    "index": 2750,
+    "answer": 0,
+    "explanation": "두 쿼리가 반환하는 결과가 다릅니다. `generated_query`에서 GROUP BY 절이 `T1.CName`으로 되어 있지만, `ground_truth_query`에서는 `T2.CID`로 되어있습니다. 그러므로 각 쿼리가 집계하는 기준이 달라져 결과가 다르게 나옵니다."
+}

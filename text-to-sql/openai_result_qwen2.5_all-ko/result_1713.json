@@ -1,0 +1,5 @@
+{
+    "index": 1713,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Semifinalists' 컬럼에서 'Runner-up'이 'Sammy Giammalva'인 경우를 조회하고, 쿼리 B는 'Runner-up'이 'sammy zimmalva'인 경우를 조회하므로, 두 조건의 Runner-up 값이 다르기 때문에 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 739,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절의 조건 내 문자 비교에서 대소문자 차이를 무시하지 않기 때문에 실제 반환 결과가 다릅니다. 한 쿼리는 'Sammy Giammalva'를, 다른 한 쿼리는 'sammy zimmalva'를 사용하므로 결과가 다릅니다."
+}

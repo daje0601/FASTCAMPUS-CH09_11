@@ -1,0 +1,5 @@
+{
+    "index": 1951,
+    "answer": 0,
+    "explanation": "쿼리 A와 B는 WHERE 조건의 값이 다릅니다. 따라서 Runner-up 값이 다르므로 실제로 반환되는 결과 행 또한 다를 가능성이 큽니다."
+}

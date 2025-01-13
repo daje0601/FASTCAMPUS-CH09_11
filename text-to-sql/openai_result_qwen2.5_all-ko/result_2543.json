@@ -1,0 +1,5 @@
+{
+    "index": 2543,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 WHERE절 조건이 다릅니다. 생성된 쿼리는 '_sammy zimmalva_', 정답 쿼리는 '_Sammy Giammalva_'를 조건으로 확인하고 있습니다. 따라서, Runner-up 조건 값이 다르기 때문에 두 쿼리의 결과가 다릅니다."
+}

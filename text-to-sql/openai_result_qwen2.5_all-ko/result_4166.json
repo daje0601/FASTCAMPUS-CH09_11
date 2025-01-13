@@ -1,0 +1,5 @@
+{
+    "index": 4166,
+    "answer": 0,
+    "explanation": "쿼리 A와 쿼리 B는 WHERE 절의 조건이 다르기 때문에 실제로 반환하는 결과가 다르다. WHERE \"Runner-up\" = 'Sammy Giammalva'와 WHERE \"Runner-up\" = 'sammy zimmalva'는 일치하는 데이터가 다르므로, 두 쿼리는 서로 다른 결과 집합을 반환한다."
+}

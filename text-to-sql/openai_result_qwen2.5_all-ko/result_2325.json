@@ -1,0 +1,5 @@
+{
+    "index": 2325,
+    "answer": 0,
+    "explanation": "두 쿼리 모두 동일한 필드를 선택하는 것처럼 보이지만, WHERE 절에서 비교하는 Runner-up의 이름이 다릅니다. 쿼리 A는 'Sammy Giammalva'를 비교 대상으로 하고, 쿼리 B는 'sammy zimmalva'를 사용하므로 서로 다른 결과를 반환할 가능성이 큽니다."
+}

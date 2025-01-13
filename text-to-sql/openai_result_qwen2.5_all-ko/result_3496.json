@@ -1,0 +1,5 @@
+{
+    "index": 3496,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절에서 다른 조건을 사용하므로 실제 결과가 다를 수 있습니다. 하나는 'season'이 'spring'인 행만 선택하고, 다른 하나는 'season'이 'fall'인 행만 선택합니다."
+}

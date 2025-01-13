@@ -1,0 +1,5 @@
+{
+    "index": 2700,
+    "answer": 1,
+    "explanation": "두 쿼리에서 SELECT하는 컬럼과 WHERE 조건이 동일하여, 결과 집합 또한 동일한 것으로 판단됨."
+}

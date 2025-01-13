@@ -1,0 +1,5 @@
+{
+    "index": 4563,
+    "answer": 0,
+    "explanation": "WHERE 조건의 문자열 값이 서로 달라 결과적으로 반환되는 행이 다를 가능성이 매우 높습니다. Sammy Giammalva와 sammy zimmalva는 다른 사람이므로 결과가 다릅니다."
+}

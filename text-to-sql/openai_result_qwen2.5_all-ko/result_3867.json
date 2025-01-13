@@ -1,0 +1,5 @@
+{
+    "index": 3867,
+    "answer": 0,
+    "explanation": "두 쿼리가 다르게 WHERE 절의 조건을 사용하고 있습니다. 하나의 쿼리는 특정 Runner-up인 'Sammy Giammalva'를 조건으로 사용하고, 다른 쿼리는 'sammy zimmalva'를 사용합니다. 두 Runner-up 이름이 다르므로 결과가 다를 수 있습니다."
+}

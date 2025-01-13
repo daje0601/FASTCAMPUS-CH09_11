@@ -1,0 +1,5 @@
+{
+    "index": 3735,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일하지 않은 결과를 반환합니다. 첫 번째 쿼리는 Runner-up 이름이 'Sammy Giammalva'인 참가자의 Semifinalists를 검색하지만, 두 번째 쿼리는 'sammy zimmalva'인 참가자의 Semifinalists를 검색하므로 Runner-up 이름이 다르기 때문에 결과가 다릅니다."
+}

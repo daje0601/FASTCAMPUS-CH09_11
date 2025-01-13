@@ -1,0 +1,5 @@
+{
+    "index": 4319,
+    "answer": 1,
+    "explanation": "두 쿼리는 SELECT하는 컬럼, JOIN 조건 및 GROUP BY 구문이 다르지만, 실제 결과는 동일하다. GROUP BY에 사용된 조건이 다르고, ORDER BY가 없지만 각 쿼리의 결과는 같은 데이터를 반환하므로 의미적으로 동일하다."
+}

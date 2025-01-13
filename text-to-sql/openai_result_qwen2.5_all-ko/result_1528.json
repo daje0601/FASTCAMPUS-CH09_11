@@ -1,0 +1,5 @@
+{
+    "index": 1528,
+    "answer": 0,
+    "explanation": "두 쿼리는 SELECT 절의 컬럼이 다릅니다. 첫 번째 쿼리는 \"Semifinalists\" 컬럼을 선택하는 반면, 두 번째 쿼리는 \"Runner-up\" 컬럼을 선택합니다. 따라서 동일한 결과를 반환하지 않습니다."
+}

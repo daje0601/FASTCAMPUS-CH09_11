@@ -1,0 +1,5 @@
+{
+    "index": 1368,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. 생성된 쿼리는 Runner-up이 'Sammy Giammalva'인 경우를 선택하고, 원본 쿼리는 'sammy zimmalva'인 경우를 선택하고 있어 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3065,
+    "answer": 0,
+    "explanation": "generated_query에서는 higher > 0, 원본 쿼리에서는 higher > 10 조건을 사용하여, 결과 집합에서 필터링 되는 행이 다를 수 있다. 따라서 결과가 상이할 수 있다."
+}

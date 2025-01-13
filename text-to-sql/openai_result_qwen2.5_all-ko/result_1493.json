@@ -1,0 +1,5 @@
+{
+    "index": 1493,
+    "answer": 0,
+    "explanation": "생성된 쿼리에서는 CATEGORY가 'Groceries'일 때 EVERYPAYMENT에서 지불해야 함을 확인하는데, 정답 쿼리는 PRODUCTNAME이 'Groceries'일 때 EMPLOYEE의 FIRSTNAME을 반환한다. 필터 조건과 반환 컬럼이 다르므로 결과 집합이 다르다."
+}

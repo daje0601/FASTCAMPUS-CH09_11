@@ -1,0 +1,5 @@
+{
+    "index": 507,
+    "answer": 0,
+    "explanation": "두 번째 쿼리는 WHERE 절에서 서로 다른 Runner-up 값을 사용하고 있으므로 실제 결과가 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를 기준으로 하고 두 번째 쿼리는 'sammy zimmalva'로 키워드가 다르기 때문입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2086,
+    "answer": 0,
+    "explanation": "문제의 쿼리와 원본 쿼리에서 사용하는 WHERE 조건이 다른 인명(Sammy Giammalva와 sammy zimmalva)을 비교하고 있습니다. 이는 결과 집합이 달라지므로 두 쿼리는 의미적으로 다릅니다."
+}

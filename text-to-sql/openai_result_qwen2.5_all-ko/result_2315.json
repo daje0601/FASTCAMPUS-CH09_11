@@ -1,0 +1,5 @@
+{
+    "index": 2315,
+    "answer": 0,
+    "explanation": "두 쿼리가 다른 결과를 반환하는지 확인하기 위해 WHERE 조건을 비교해보면, generated_query는 'bob'을 찾고 ground_truth_query는 'alice'를 찾고 있습니다. 따라서 쿼리 결과가 다를 가능성이 높습니다."
+}

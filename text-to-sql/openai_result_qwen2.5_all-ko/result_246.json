@@ -1,0 +1,5 @@
+{
+    "index": 246,
+    "answer": 0,
+    "explanation": "두 쿼리의 JOIN 조건이 다르므로 결과 집합이 다릅니다."
+}

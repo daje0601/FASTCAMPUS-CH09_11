@@ -1,0 +1,5 @@
+{
+    "index": 1492,
+    "answer": 0,
+    "explanation": "QUERY A는 WHERE 절에서 condition1 AND condition2를 사용했지만, QUERY B는 condition1 OR condition2를 사용했습니다. 따라서 두 쿼리는 서로 다른 조건으로 인해 결과 집합이 달라집니다."
+}

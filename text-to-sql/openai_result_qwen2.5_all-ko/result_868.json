@@ -1,0 +1,5 @@
+{
+    "index": 868,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 조건절이 서로 다르므로 필터링 결과가 다릅니다. 하나는 'Sammy Giammalva'를, 다른 하나는 'sammy zimmalva'를 필터링하고 있어 결과 행이 다르게 나올 것입니다."
+}

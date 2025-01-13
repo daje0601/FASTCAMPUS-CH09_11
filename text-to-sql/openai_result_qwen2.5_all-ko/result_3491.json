@@ -1,0 +1,5 @@
+{
+    "index": 3491,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 조건절에서 비교하는 조건이 다릅니다. 하나는 'Sammy Giammalva'라는 Runner-up을 필터링하고, 다른 하나는 'sammy zimmalva'라는 Runner-up을 필터링합니다. 따라서, 실제 반환되는 결과가 다를 수 있습니다."
+}

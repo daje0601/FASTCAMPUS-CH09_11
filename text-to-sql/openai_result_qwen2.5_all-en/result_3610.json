@@ -1,0 +1,5 @@
+{
+    "index": 3610,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있습니다. generated_query에서는 'salary'가 50000 이상인 조건을 사용하고, ground_truth_query에서는 연봉이 60000 이상의 직원만 선택되므로 반환되는 결과 집합이 서로 다릅니다."
+}

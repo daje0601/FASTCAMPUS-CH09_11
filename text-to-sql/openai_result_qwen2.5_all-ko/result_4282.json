@@ -1,0 +1,5 @@
+{
+    "index": 4282,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Sammy Giammalva'를 Runner-up 조건으로 사용하고 있지만 쿼리 B는 'sammy zimmalva'로 다른 이름을 사용하고 있습니다. 따라서 두 쿼리는 서로 다른 결과를 반환하게 됩니다."
+}

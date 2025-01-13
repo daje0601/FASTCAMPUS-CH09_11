@@ -1,0 +1,5 @@
+{
+    "index": 2337,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 테이블에서 특정 Runner-up 값을 가진 Semifinalists를 반환하고, 두 번째 쿼리는 완전히 다른 이름을 기준으로 필터링하므로 두 쿼리의 결과는 다름."
+}

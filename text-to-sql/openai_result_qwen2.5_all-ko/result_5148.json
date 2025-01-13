@@ -1,0 +1,5 @@
+{
+    "index": 5148,
+    "answer": 0,
+    "explanation": "쿼리 B는 'sammy zimmalva'라는 이름을 갖고 있어 WHERE 조건에 의해 반환되는 행이 쿼리 A와 다릅니다. 두 쿼리가 서로 다른 Runner-up 이름을 조건으로 하고 있어 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2542,
+    "answer": 0,
+    "explanation": "생성된 쿼리의 WHERE 절에서 col1과 col3이 서로 다르게 비교되고 있어 실제 결과 집합이 다를 것입니다."
+}

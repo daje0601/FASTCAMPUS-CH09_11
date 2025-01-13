@@ -1,0 +1,5 @@
+{
+    "index": 102,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다릅니다. 쿼리 A는 'Sammy Giammalva'를 기준으로 필터링하고, 쿼리 B는 'sammy zimmalva'를 기준으로 필터링하기 때문에 대상 조건 자체가 다릅니다. 따라서 조건에 만족하는 행들이 다르므로 결과 집합이 다릅니다."
+}

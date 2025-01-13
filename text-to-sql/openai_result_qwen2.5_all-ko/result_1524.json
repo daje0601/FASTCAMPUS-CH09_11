@@ -1,0 +1,5 @@
+{
+    "index": 1524,
+    "answer": 0,
+    "explanation": "generated_query는 num_wins가 1 이상인 경우를 가져오고, ground_truth_query는 충족되지 않는 조건도 포함하기 때문에 중복된 레코드를 가져오며, 이는 결과에 영향을 미칩니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 181,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 Runner-up의 이름에서 서로 다름으로써 결과적으로 다른 행을 반환합니다."
+}

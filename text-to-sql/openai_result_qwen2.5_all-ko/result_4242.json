@@ -1,0 +1,5 @@
+{
+    "index": 4242,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up' 컬럼 값이 'Sammy Giammalva'와 매칭되는 결과를 선택하지만, 쿼리 B는 'Runner-up' 컬럼에 대해 'sammy zimmalva'와 매칭되는 결과를 선택합니다. 즉, 필터 조건이 다르므로 두 쿼리의 결과는 다를 것입니다. 따라서 동일한 결과를 반환하지 않습니다."
+}

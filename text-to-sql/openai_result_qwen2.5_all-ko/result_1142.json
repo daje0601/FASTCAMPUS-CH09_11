@@ -1,0 +1,5 @@
+{
+    "index": 1142,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 테이블 'ENROLLED_IN'에 별칭 'T2'를 사용하면서 'COURSE' 테이블과 결합했으며, 'GROUP BY T2.CName'을 사용하고 'HAVING COUNT(*) >= 5' 조건을 적용합니다. 그러나, 정답(원본) 쿼리는 'GROUP BY T1.CID'로 다르게 그룹화하여 'HAVING COUNT(*) >= 5'를 적용하고 있습니다. CID와 CName의 관계가 1:1이 아니므로 결과가 다를 수 있습니다."
+}

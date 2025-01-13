@@ -1,0 +1,5 @@
+{
+    "index": 137,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 'Sammy Giammalva'라는 값으로 필터링하고, 두 번째 쿼리는 'sammy zimmalva'라는 값으로 필터링하므로, 이 두 필터링 값이 완전히 다르기 때문에 실제 반환 결과가 다릅니다."
+}

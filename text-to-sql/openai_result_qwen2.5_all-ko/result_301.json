@@ -1,0 +1,5 @@
+{
+    "index": 301,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 사용하는 Runner-up 이름이 서로 다르기 때문에, 반환될 결과 집합이 서로 다릅니다."
+}

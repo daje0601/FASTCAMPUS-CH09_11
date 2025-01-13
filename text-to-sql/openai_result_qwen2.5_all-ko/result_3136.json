@@ -1,0 +1,5 @@
+{
+    "index": 3136,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건에 따른 필터 결과가 다르므로 결과가 다릅니다. generated_query에서는 \"Winner\"를 확인하고, ground_truth_query에서는 \"Year\"를 확인하여 다른 데이터를 선택합니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4353,
+    "answer": 0,
+    "explanation": "generated_query는 'SELECT MAX(Age) FROM Employees'로, 직원의 나이 최대값을 검색하는 쿼리이고, ground_truth_query는 'SELECT MIN(Age) FROM Employees'로 직원의 나이 최소값을 검색하는 쿼리입니다. 두 쿼리는 서로 다른 값을 반환하므로 의미적으로 다릅니다."
+}

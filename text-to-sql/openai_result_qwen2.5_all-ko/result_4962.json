@@ -1,0 +1,5 @@
+{
+    "index": 4962,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 결과를 반환하려면 WHERE 조건의 문자열이 정확히 일치해야 하지만, 두 쿼리에서 Runner-up 이름이 'Sammy Giammalva'와 'sammy zimmalva'로 전혀 다르기 때문에 결과가 다르다."
+}

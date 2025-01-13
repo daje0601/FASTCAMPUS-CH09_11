@@ -1,0 +1,5 @@
+{
+    "index": 3372,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 \"status\"가 'active'인 사용자를 조회하고, 정답 쿼리는 \"status\"가 'inactive'인 사용자를 조회하기 때문에 실제로 결과가 달라집니다."
+}

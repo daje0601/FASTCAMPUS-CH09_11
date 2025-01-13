@@ -1,0 +1,5 @@
+{
+    "index": 636,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에 각각 다른 Runner-up 이름이 사용되었습니다. Runner-up 이름이 다르면 결과 집합도 서로 다릅니다. 따라서, 두 쿼리는 동일하지 않습니다."
+}

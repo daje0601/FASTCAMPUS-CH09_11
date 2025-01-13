@@ -1,0 +1,5 @@
+{
+    "index": 2277,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 필드값을 비교하고 있거나 다른 조건을 적용하고 있어 반환되는 결과가 다를 가능성이 높습니다. Runner-up 이름이 각각 'Sammy Giammalva', 'sammy zimmalva'로 전혀 다르기 때문에 결과가 다를 수 있습니다."
+}

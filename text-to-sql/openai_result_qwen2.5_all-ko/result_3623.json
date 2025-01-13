@@ -1,0 +1,5 @@
+{
+    "index": 3623,
+    "answer": 0,
+    "explanation": "generated_query에서는 'runner-up'이 영소문자 'sammy zimmalva'로 지정되었고, ground_truth_query에서 'Sammy Giammalva'와 비교하는데, 서로 다른 이름이므로 결과가 다를 것이다. 즉, 동일하지 않다."
+}

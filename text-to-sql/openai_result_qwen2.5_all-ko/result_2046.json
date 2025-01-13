@@ -1,0 +1,5 @@
+{
+    "index": 2046,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건이 다른 Runner-up 값을 참조하고 있어 결과가 다르다. 하나는 'Sammy Giammalva'를, 다른 하나는 'sammy zimmalva'를 조건으로 걸고 있어 조건이 충족되지 않는 경우가 발생한다."
+}

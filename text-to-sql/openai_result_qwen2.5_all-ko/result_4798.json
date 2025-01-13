@@ -1,0 +1,5 @@
+{
+    "index": 4798,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 다릅니다. 'Sammy Giammalva'와 'sammy zimmalva'는 다른 이름이므로 필터링된 결과가 다를 것입니다."
+}

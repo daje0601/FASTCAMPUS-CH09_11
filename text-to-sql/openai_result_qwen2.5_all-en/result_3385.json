@@ -1,0 +1,5 @@
+{
+    "index": 3385,
+    "answer": 1,
+    "explanation": "두 쿼리가 사용하는 JOIN 방식과 GROUP BY 조건이 다르지만, 결과 집합은 동일하다. 데이터의 구조와 관계의 특성 덕분에 GROUP BY 및 HAVING 조건이 동일한 결과를 생성하기 때문이다."
+}

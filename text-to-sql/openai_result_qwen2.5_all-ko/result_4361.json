@@ -1,0 +1,5 @@
+{
+    "index": 4361,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절이 서로 다른 값을 비교하고 있습니다. 첫 번째 쿼리는 Runner-up 값에 'Sammy Giammalva'를 찾고, 두 번째 쿼리는 'sammy zimmalva'를 찾고 있습니다. 이로 인해 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 5162,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 결과를 반환하지 않습니다. WHERE 절의 조건이 다릅니다. 하나는 'Sammy Giammalva'를 필터링하고, 다른 하나는 'sammy zimmalva'를 필터링하며 이는 서로 다른 Runner-up 이름을 참조하고 있습니다."
+}

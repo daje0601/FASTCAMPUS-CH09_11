@@ -1,0 +1,5 @@
+{
+    "index": 2429,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다릅니다. generated_query는 'Runner-up'이 'Sammy Giammalva'인 행을 선택하는 반면, ground_truth_query는 'sammy zimmalva'인 행을 선택합니다. 이름이 다르므로 실제 결과는 다르게 나옵니다."
+}

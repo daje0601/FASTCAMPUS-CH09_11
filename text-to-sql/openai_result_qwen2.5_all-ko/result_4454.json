@@ -1,0 +1,5 @@
+{
+    "index": 4454,
+    "answer": 0,
+    "explanation": "'WHERE' 조건에서 필터링하는 값이 달라서 결과가 같을 수 없음. 'Sammy Giammalva'와 'sammy zimmalva'는 서로 다른 Runner-up으로 체크되므로 반환되는 행도 달라짐."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 162,
+    "answer": 0,
+    "explanation": "`COUNT(DISTINCT T1.Cust_Id)`와 `COUNT(DISTINCT a.Cust_Id)` 때문에 각 쿼리는 서로 다른 고객 수를 세고 있어 실제로 결과가 같은지 확신할 수 없습니다. 특정 고객 ID에 대해 매칭되는 판매자의 수에 차이가 있을 수 있으며, 이에 따라 `HAVING COUNT(*) >= 2` 부분에서 영향을 미칠 가능성이 큽니다."
+}

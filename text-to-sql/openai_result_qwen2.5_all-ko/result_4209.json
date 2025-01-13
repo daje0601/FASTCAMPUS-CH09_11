@@ -1,0 +1,5 @@
+{
+    "index": 4209,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 학과에 속한 학생 수를 찾는 것처럼 보이지만, WHERE 조건문의 논리가 달라서 실제 결과가 다름. 첫 번째 쿼리는 department가 'CS'이거나 major가 'SE'인 경우를 고려하는 반면, 두 번째 쿼리는 department가 'CS'이면서 major이 'SE'인 학생만을 찾음."
+}

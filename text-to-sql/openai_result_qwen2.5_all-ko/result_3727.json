@@ -1,0 +1,5 @@
+{
+    "index": 3727,
+    "answer": 0,
+    "explanation": "생성된 쿼리의 WHERE 구문에 사용하는 Runner-up 이름이 'Sammy Giammalva'와 'sammy zimmalva'로 달라 실제 결과가 다르기 때문에 같은 결과를 반환하지 않습니다."
+}

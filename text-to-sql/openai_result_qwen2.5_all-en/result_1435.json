@@ -1,0 +1,5 @@
+{
+    "index": 1435,
+    "answer": 0,
+    "explanation": "두 쿼리에서 선택 조건이 다르기 때문에 실질적인 결과가 다를 수 있다. 하나는 ORDER BY와 LIMIT을 사용하는 반면, 다른 하나는 GROUP BY와 HAVING 조건을 사용하고 있어 결과 집합에 영향을 미친다."
+}

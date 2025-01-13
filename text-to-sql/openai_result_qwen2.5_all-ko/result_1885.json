@@ -1,0 +1,5 @@
+{
+    "index": 1885,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다르기 때문입니다. generated_query는 \"WHERE column1 = 'value'\" 조건을 사용하고 있고, ground_truth_query는 \"WHERE column1 = 'different_value'\" 조건을 사용하고 있어 필터링되는 결과가 다릅니다. 따라서 결과 집합이 같지 않습니다."
+}

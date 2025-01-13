@@ -1,0 +1,5 @@
+{
+    "index": 2890,
+    "answer": 0,
+    "explanation": "`GENERATED_QUERY`는 SELECT에 대해 특정 컬럼 only 사용하고 있으며 WHERE 조건이 있으며, JOIN 연산이나 GROUP BY는 없는 단순 필터 쿼리. `GROUND_TRUTH_QUERY`는 SELECT에 대해 다른 조건을 필터하며 복잡한 조인이나 집계 과정을 통해 다른 결과를 도출. 따라서 결과 집합이 다를 수밖에 없음."
+}

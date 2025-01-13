@@ -1,0 +1,5 @@
+{
+    "index": 367,
+    "answer": 0,
+    "explanation": "두 쿼리는 JOIN 조건과 WHERE 조건이 다르기 때문에 실제 결과가 다를 수 있다. A 쿼리는 'T1.cid = T2.cid AND T1.season = 2023'를 조건으로 하고, B 쿼리는 'T1.cid = T2.cid'만 사용하고 있어 필터링되는 데이터가 다르다."
+}

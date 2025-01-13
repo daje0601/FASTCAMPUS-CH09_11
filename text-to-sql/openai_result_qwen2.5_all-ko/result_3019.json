@@ -1,0 +1,5 @@
+{
+    "index": 3019,
+    "answer": 0,
+    "explanation": "두 쿼리는 다릅니다. 첫 번째 쿼리에서는 WHERE 조건에 'Runner-up'이 'Sammy Giammalva'인 경우만을 필터링하고 있습니다. 두 번째 쿼리에서는 'sammy zimmalva'로 조건을 걸고 있어 서로 다른 조건을 가지고 있습니다. 따라서 결과가 다를 수밖에 없습니다."
+}

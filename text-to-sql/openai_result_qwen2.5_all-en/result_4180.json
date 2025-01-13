@@ -1,0 +1,5 @@
+{
+    "index": 4180,
+    "answer": 0,
+    "explanation": "두 쿼리에서 SELECT된 컬럼이 다릅니다. generated_query에서 SELECT하는 컬럼은 `a`이고, ground_truth_query는 `b`를 SELECT하고 있으므로, 결과가 달라집니다."
+}

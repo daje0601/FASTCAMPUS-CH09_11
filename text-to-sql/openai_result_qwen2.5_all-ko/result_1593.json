@@ -1,0 +1,5 @@
+{
+    "index": 1593,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 T1.CName에 LIKE와 '='가 달라 결과가 다릅니다."
+}

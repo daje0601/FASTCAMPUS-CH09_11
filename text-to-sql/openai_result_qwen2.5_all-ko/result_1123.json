@@ -1,0 +1,5 @@
+{
+    "index": 1123,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 비교하고 있는 Runner-up 값이 쿼리 A와 B 사이에 다릅니다. 쿼리 A는 'Sammy Giammalva'을 확인하는 반면, 쿼리 B는 'sammy zimmalva'를 확인하고 있어, 실제로 반환되는 결과가 다를 수밖에 없습니다."
+}

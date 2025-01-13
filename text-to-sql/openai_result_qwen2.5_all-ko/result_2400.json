@@ -1,0 +1,5 @@
+{
+    "index": 2400,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절이 서로 다릅니다. 하나는 'Runner-up'가 'Sammy Giammalva'인 경우를 찾고 있으며, 다른 하나는 'sammy zimmalva'로 찾고 있어, 결과가 다릅니다."
+}

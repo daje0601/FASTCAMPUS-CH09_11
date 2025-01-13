@@ -1,0 +1,5 @@
+{
+    "index": 225,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리에서는 'Sammy Giammalva'를 조건으로 하고 두 번째 쿼리에서는 'sammy zimmalva'를 조건으로 하고 있어 서로 다른 Runner-up를 필터링합니다. 따라서 실제 결과 집합이 다릅니다."
+}

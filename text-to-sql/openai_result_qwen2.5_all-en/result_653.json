@@ -1,0 +1,5 @@
+{
+    "index": 653,
+    "answer": 0,
+    "explanation": "쿼리의 조건이 다르므로 결과가 다릅니다. generated_query는 특정 'Semifinalists'의 필드 값에 대해 조건을 걸고 있는 반면, ground_truth_query는 'Runner-up'의 특정 값에 대한 조건이기 때문에 결과 집합이 같지 않습니다."
+}

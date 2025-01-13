@@ -1,0 +1,5 @@
+{
+    "index": 270,
+    "answer": 0,
+    "explanation": "조건식의 값이 달라 실제 결과가 다르다. 서로 다른 Runner-up 이름을 비교하고 있어 WHERE 절에 의해 반환되는 ROW가 상이하다."
+}

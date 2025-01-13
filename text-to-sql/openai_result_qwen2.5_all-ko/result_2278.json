@@ -1,0 +1,5 @@
+{
+    "index": 2278,
+    "answer": 0,
+    "explanation": "WHERE 절에서 surfaceCondition* 습득도로 여부를 조건으로 하고 있으므로, 의미적으로 다른 결과를 반환합니다. generated_query는 '==' 조건으로 '습득도로'를 체크하지만, provided는 '이외'로 필터링합니다, 다른 조건 조합이 존재합니다. \n\n여기에 추가적으로 LIMIT 과 / 내부 중복이 발생 가능성이\n처럼 있음, \n\n- generated_query는 restriction INTO ~ \n, LIMIT에 의해서 이를 필터링하고 있다.\n\n- 사실 이를 아예 무시하는 방법이죠. 가장자리에 표시된 2 가지와 enrollments WHERE 조건 (COUNT 와 INNER JOIN 으로 입니다) 설명합니다."
+}

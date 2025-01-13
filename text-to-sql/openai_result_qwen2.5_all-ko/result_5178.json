@@ -1,0 +1,5 @@
+{
+    "index": 5178,
+    "answer": 0,
+    "explanation": "쿼리 A는 DOCUMENTS 테이블에서 'title', 'author' 컬럼을 선택하고 있으며, 쿼리 B는 'title', 'summary' 컬럼을 선택하고 있습니다. 따라서 두 쿼리는 서로 다른 컬럼을 반환하고 있으며, 결과 집합도 서로 다릅니다."
+}

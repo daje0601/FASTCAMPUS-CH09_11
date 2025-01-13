@@ -1,0 +1,5 @@
+{
+    "index": 4186,
+    "answer": 0,
+    "explanation": "두 쿼리에서 WHERE 절의 조건이 서로 다른 문자열 ('Sammy Giammalva' vs 'sammy zimmalva')를 사용하고 있어서 실제로 반환되는 결과가 다를 것입니다. 따라서 이 쿼리들은 의미적으로 동일하지 않습니다."
+}

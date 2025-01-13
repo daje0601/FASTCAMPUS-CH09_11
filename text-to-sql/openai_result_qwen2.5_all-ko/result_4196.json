@@ -1,0 +1,5 @@
+{
+    "index": 4196,
+    "answer": 0,
+    "explanation": "generated_query에서는 FROM절에 \"competitors\" 테이블을 사용하고 있는 반면, ground_truth_query에서는 \"competitions\" 테이블을 사용하고 있습니다. 두 테이블이 다르므로 결과 집합이 다를 수 있습니다."
+}

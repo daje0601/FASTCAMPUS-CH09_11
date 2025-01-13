@@ -1,0 +1,5 @@
+{
+    "index": 4918,
+    "answer": 0,
+    "explanation": "각각의 WHERE 조건이 다른 Runner-up에 기반하고 있으므로 결과 집합이 다름. 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'이므로 서로 다른 조건으로 인해 반환되는 결과 차이가 발생함."
+}

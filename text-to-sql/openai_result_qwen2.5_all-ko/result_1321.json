@@ -1,0 +1,5 @@
+{
+    "index": 1321,
+    "answer": 0,
+    "explanation": "원본 쿼리는 테이블 userrecords의 Gender 컬럼이 'male'인 사용자 수를 COUNT로 계산하지만, 생성된 쿼리는 해당 필터 없이 전체 사용자 수를 계산합니다. 따라서 결과가 다르며 answer는 0입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1419,
+    "answer": 0,
+    "explanation": "WHERE 조건문에 있는 할인율(Discount Rate)에 'greater than'과 'less than'을 사용하여, 조건이 서로 상반되기에 결과가 달라집니다. 첫 번째 쿼리는 할인율이 0.05보다 큰 경우를, 두 번째 쿼리는 0.05보다 작은 경우를 필터링합니다."
+}

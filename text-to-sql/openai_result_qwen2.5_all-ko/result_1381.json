@@ -1,0 +1,5 @@
+{
+    "index": 1381,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 조건에서 사용하는 Runner-up의 이름이 서로 다릅니다. 생성된 쿼리는 'Sammy Giammalva'이고, 정답 쿼리는 'sammy zimmalva'로, 서로 다른 이름을 필터링하므로 결과 집합이 다를 것입니다."
+}

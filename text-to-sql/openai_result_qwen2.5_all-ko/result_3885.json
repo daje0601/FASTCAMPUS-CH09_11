@@ -1,0 +1,5 @@
+{
+    "index": 3885,
+    "answer": 0,
+    "explanation": "generated 쿼리는 WHERE절에 'A'로 시작하는 값을 필터링하고 있지만, ground_truth 쿼리는 'B'로 시작하는 값을 필터링하고 있습니다. 따라서 필터링 조건이 달라 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 5099,
+    "answer": 0,
+    "explanation": "GROUP BY 컬럼이 다르기 때문에 결과가 다를 수 있다. 한 쿼리는 T1.CID로 그룹화하고, 다른 쿼리는 T1.CName으로 그룹화하므로, CName에 CID가 중복된 경우 결과가 다를 수 있다."
+}

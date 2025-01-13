@@ -1,0 +1,5 @@
+{
+    "index": 1510,
+    "answer": 0,
+    "explanation": "두 쿼리에서 WHERE 절의 조건이 다릅니다. Runner-up 이름이 'Sammy Giammalva'와 'sammy zimmalva'로 서로 다르기 때문에 결과 집합이 다를 것입니다."
+}

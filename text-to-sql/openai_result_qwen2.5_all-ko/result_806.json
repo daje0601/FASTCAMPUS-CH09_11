@@ -1,0 +1,5 @@
+{
+    "index": 806,
+    "answer": 0,
+    "explanation": "쿼리 A는 'season'을 DESC로 정렬하고, 쿼리 B는 'id'를 DESC로 정렬합니다. 따라서 두 컬럼의 정렬 순서가 동일하지 않다면 결과가 다릅니다."
+}

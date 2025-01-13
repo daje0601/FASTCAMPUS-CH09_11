@@ -1,0 +1,5 @@
+{
+    "index": 558,
+    "answer": 1,
+    "explanation": "두 쿼리가 동일한 테이블 'table_31066'에서 동일한 조건으로 'Semifinalists'라는 컬럼을 조회하고 있습니다. 조건에 대해 같은 값 'Sammy Giammalva'를 비교하고 있으며, WHERE 조건이 동일하기에 결과 집합이 동일합니다."
+}

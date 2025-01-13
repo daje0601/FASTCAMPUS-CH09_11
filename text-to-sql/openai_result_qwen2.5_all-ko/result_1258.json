@@ -1,0 +1,5 @@
+{
+    "index": 1258,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 WHERE 조건이 \"Smith\"이고 정답 쿼리는 \"Johnson\"이므로, 필터링 조건이 달라서 반환 결과가 다릅니다."
+}

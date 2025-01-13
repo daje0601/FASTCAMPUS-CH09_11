@@ -1,0 +1,5 @@
+{
+    "index": 1523,
+    "answer": 0,
+    "explanation": "generated_query는 특정 조건인 'A'와 'B'에 대해 group by 후 조건을 만족하는 county의 개수를 카운트하지만, 정답 쿼리는 특정 county 내 Pledge_due_date와 관련된 'A'와 'B' 조건을 더 구체화하여 카운트합니다. 같은 테이블에서 처리되지만, 각 쿼리는 서로 다른 집합 조건을 검토합니다."
+}

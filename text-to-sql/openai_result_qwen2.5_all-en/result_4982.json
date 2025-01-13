@@ -1,0 +1,5 @@
+{
+    "index": 4982,
+    "answer": 0,
+    "explanation": "두 쿼리에서 WHERE 조건에 나오는 값이 다릅니다. generated_query는 'Runner-up' 이름이 'Sammy Giammalva'인 행을 조회하는 반면, ground_truth_query는 'sammy zimmalva'로, 두 값이 완전히 다르기 때문에 결과가 다릅니다."
+}

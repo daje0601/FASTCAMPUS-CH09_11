@@ -1,0 +1,5 @@
+{
+    "index": 884,
+    "answer": 0,
+    "explanation": "두 쿼리는 DISTINCT와 GROUP BY 사용에서 차이가 있으며, COUNT의 결과가 달라질 수 있어 의미적으로 다릅니다."
+}

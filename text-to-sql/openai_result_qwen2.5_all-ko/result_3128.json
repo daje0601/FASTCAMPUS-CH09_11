@@ -1,0 +1,5 @@
+{
+    "index": 3128,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건식에서 하나는 Runner-up 조건이 'Sammy Giammalva'라고 하였고, 다른 하나는 'sammy zimmalva'라 하였습니다. 그러므로 포함되는 데이터가 달라지며 실제 결과도 달라질 것입니다. 즉, 두 쿼리는 다른 결과를 반환하게 됩니다."
+}

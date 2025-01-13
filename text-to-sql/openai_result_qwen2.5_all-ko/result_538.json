@@ -1,0 +1,5 @@
+{
+    "index": 538,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 조건에서 'Runner-up'이 서로 다른 이름('Sammy Giammalva' vs 'sammy zimmalva')을 비교하고 있으므로 결과가 다름."
+}

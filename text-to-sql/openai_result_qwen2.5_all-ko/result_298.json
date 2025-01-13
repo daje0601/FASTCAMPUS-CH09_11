@@ -1,0 +1,5 @@
+{
+    "index": 298,
+    "answer": 0,
+    "explanation": "두 쿼리가 다른 결과를 반환할 수 있는 이유는 WHERE 조건절의 Runner-up 값이 서로 다르기 때문입니다. 첫 번째 쿼리는 'Sammy Giammalva'를 조건으로 하고, 두 번째 쿼리는 'sammy zimmalva'를 조건으로 하기 때문에, 실제 데이터에서 이 두 Runner-up 값이 동일한 경우가 아니라면 결과 집합은 다를 것입니다."
+}

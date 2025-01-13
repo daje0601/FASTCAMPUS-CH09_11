@@ -1,0 +1,5 @@
+{
+    "index": 3145,
+    "answer": 0,
+    "explanation": "쿼리 A는 \"Runner-up\" 필드의 값이 'Sammy Giammalva'인 행을 선택하고, 쿼리 B는 'sammy zimmalva'인 행을 선택합니다. 두 필드의 값이 서로 다르기 때문에 실제 결과가 다르며, 결과 집합이 동일하지 않습니다."
+}

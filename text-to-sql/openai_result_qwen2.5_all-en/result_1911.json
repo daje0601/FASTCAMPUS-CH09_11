@@ -1,0 +1,5 @@
+{
+    "index": 1911,
+    "answer": 0,
+    "explanation": "`generated_query`에서는 `AVG(score)`를 계산하는 반면, `ground_truth_query`는 `SUM(score)`을 사용하고 있어 결과가 달라진다."
+}

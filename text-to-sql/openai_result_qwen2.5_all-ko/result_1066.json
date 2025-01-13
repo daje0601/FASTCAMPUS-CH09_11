@@ -1,0 +1,5 @@
+{
+    "index": 1066,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리(generated_query)와 두 번째 쿼리(ground_truth_query)는 `WHERE` 절의 조건이 다릅니다. 첫 번째 쿼리는 `players = 2`인 경우를 필터링하고, 두 번째 쿼리는 `type = 'single'`인 경우를 필터링합니다. 따라서 필터링된 결과 집합은 서로 다를 수 있습니다."
+}

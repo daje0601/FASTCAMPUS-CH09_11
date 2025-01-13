@@ -1,0 +1,5 @@
+{
+    "index": 528,
+    "answer": 0,
+    "explanation": "쿼리 A는 ORDER BY \"season\" DESC LIMIT 1을 사용하고, 쿼리 B는 ORDER BY id DESC LIMIT 1을 사용하고 있어 정렬 기준이 다릅니다. \"season\"과 id가 동일한 순서로 정렬되지 않는다면 반환되는 결과가 다르므로 둘은 다른 결과를 반환할 수 있습니다."
+}

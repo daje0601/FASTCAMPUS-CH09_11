@@ -1,0 +1,5 @@
+{
+    "index": 3918,
+    "answer": 0,
+    "explanation": "generated_query에서는 'name이 John이고 city가 New York'인 경우를 찾고 있고, ground_truth_query에서는 'name이 John'이거나 'city가 New York'인 경우를 찾고 있어 필터 조건이 달라 결과가 다릅니다."
+}

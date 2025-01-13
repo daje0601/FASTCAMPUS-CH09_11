@@ -1,0 +1,5 @@
+{
+    "index": 929,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 필터링하는 조건이 서로 달라서 결과가 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva' 조건을 사용하는 반면, 두 번째 쿼리는 'sammy zimmalva' 조건을 사용합니다. 이는 실제로 다른 결과를 초래합니다."
+}

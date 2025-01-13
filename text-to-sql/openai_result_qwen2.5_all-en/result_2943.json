@@ -1,0 +1,5 @@
+{
+    "index": 2943,
+    "answer": 0,
+    "explanation": "두 쿼리가 SELECT하는 열이 다릅니다. 첫 번째 쿼리는 'name'을 선택하고, 두 번째 쿼리는 'username'을 선택하여 반환되는 결과가 달라질 것입니다."
+}

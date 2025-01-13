@@ -1,0 +1,5 @@
+{
+    "index": 2929,
+    "answer": 0,
+    "explanation": "generated_query는 열 'Active'가 'Yes'로 설정된 행만 조회하는 반면, ground_truth_query는 열 'Inactive'가 'No'로 설정된 행을 조회하므로, 두 쿼리는 다른 결과를 반환할 가능성이 큽니다."
+}

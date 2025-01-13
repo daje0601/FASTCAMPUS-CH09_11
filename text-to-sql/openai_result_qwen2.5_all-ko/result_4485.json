@@ -1,0 +1,5 @@
+{
+    "index": 4485,
+    "answer": 0,
+    "explanation": "COUNT(distinct)는 중복을 제거한 유일한 값을 세고, COUNT는 전체 값을 셉니다. 두 쿼리는 서로 다른 결과를 생성합니다."
+}

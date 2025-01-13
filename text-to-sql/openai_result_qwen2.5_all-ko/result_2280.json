@@ -1,0 +1,5 @@
+{
+    "index": 2280,
+    "answer": 0,
+    "explanation": "WHERE 조건이 다릅니다. generated_query는 모든 시도를 선택하려고 하고, ground_truth_query는 시도 이름이 Denver인 경우에만 선택됩니다. 따라서 결과가 다릅니다."
+}

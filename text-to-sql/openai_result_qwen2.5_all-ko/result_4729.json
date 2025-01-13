@@ -1,0 +1,5 @@
+{
+    "index": 4729,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 비교되는 값이 다르기 때문에 결과는 다를 수밖에 없습니다. 첫 번째 쿼리는 'Sammy Giammalva'를 조건으로 사용하고 있고, 두 번째 쿼리는 'sammy zimmalva'를 조건으로 사용하고 있어, 서로 다른 Runner-up 조건을 가지고 있습니다."
+}

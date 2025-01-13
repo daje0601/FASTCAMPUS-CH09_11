@@ -1,0 +1,5 @@
+{
+    "index": 783,
+    "answer": 0,
+    "explanation": "각각의 쿼리에서 검색 조건으로 사용한 값이 다릅니다. generated_query는 특정 Runner-up 이름이 'Izumo Miyazaki'인 레코드를 검색하고 있고, ground_truth_query는 Runner-up 이름이 'Junpei Ao'인 레코드를 검색하고 있습니다. 따라서 반환될 결과가 서로 다르기 때문에 두 쿼리는 동일하지 않습니다."
+}

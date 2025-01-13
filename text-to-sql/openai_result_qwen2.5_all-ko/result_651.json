@@ -1,0 +1,5 @@
+{
+    "index": 651,
+    "answer": 0,
+    "explanation": "쿼리 A는 ORDER BY절 없이 모든 행의 season 컬럼을 반환하고, 쿼리 B는 \"most_wins\" 컬럼을 기준으로 정렬한 후 첫 번째 행만 반환하여 결과가 다르다."
+}

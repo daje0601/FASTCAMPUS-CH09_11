@@ -1,0 +1,5 @@
+{
+    "index": 3117,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 달라 결과 집합이 다름. generated_query는 n이면서 여성인 직원 정보를, ground_truth_query는 단순히 여성인 직원 정보를 반환함."
+}

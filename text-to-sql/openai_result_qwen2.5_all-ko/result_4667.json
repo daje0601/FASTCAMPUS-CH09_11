@@ -1,0 +1,5 @@
+{
+    "index": 4667,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리와 두 번째 쿼리의 WHERE 절에서 사용하는 Runner-up 이름이 서로 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를 조건으로 사용하고, 두 번째 쿼리는 'Sammy zimmalva'를 사용하기 때문에 두 쿼리의 결과가 다를 수밖에 없습니다. 따라서 동일한 결과라고 할 수 없습니다."
+}

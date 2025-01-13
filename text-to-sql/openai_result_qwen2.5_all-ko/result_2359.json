@@ -1,0 +1,5 @@
+{
+    "index": 2359,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 각각 다른 상태로 Sam Giammalva와 sammy zimmalva의 이름을 비교하고 있습니다. 두 이름이 다르므로 쿼리의 결과는 서로 다릅니다. 따라서 같은 결과를 반환하지 않습니다."
+}

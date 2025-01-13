@@ -1,0 +1,5 @@
+{
+    "index": 2665,
+    "answer": 0,
+    "explanation": "generated_query는 category가 'Furniture'인 경우 order_id만 반환하며, ground_truth_query는 product_name만 반환한다. 결과 컬럼도 다르고 WHERE 절의 필터 조건이 다르기 때문에 결과가 다를 수 밖에 없다."
+}

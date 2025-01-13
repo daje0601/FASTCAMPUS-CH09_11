@@ -1,0 +1,5 @@
+{
+    "index": 3506,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절의 조건이 다르기 때문에 실제 결과가 다르게 나타납니다. 하나의 쿼리는 \"Runner-up\" 값으로 'Sammy Giammalva'를, 다른 쿼리는 'sammy zimmalva'를 조건으로 사용하고 있어 서로 다른 조건을 가지고 있습니다. 그러므로 결과 집합이 동일할 수 없습니다."
+}

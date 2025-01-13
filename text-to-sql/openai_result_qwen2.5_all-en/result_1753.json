@@ -1,0 +1,5 @@
+{
+    "index": 1753,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절 조건이 서로 다른 값을 비교하고 있어 결과가 다릅니다. 즉, 쿼리 A는 'Sammy Giammalva'를 기준으로 결과를 가져오고, 쿼리 B는 'Sammy Zimmalva'를 기준으로 결과를 가져오므로 같은 집합을 반환하지 않습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1255,
+    "answer": 0,
+    "explanation": "SELECT 절에서 중복 값을 하나만 남기도록 구문이 다르며 DISTINCT 사용이 없기 때문에 실제 결과가 다를 수 있다."
+}

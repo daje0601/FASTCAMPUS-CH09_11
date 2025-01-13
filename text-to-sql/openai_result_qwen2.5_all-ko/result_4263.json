@@ -1,0 +1,5 @@
+{
+    "index": 4263,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건에서 WHERE 절이 완전히 동일한 Runner-up 값을 가지고 있지 않습니다. 한 쿼리는 'Sammy Giammalva'를 조건으로 하고 있고, 다른 쿼리는 'sammy zimmalva'를 조건으로 하고 있습니다. 이러한 차이는 데이터베이스에서 다른 레코드 집합을 반환할 수 있으며, 따라서 결과가 다르기 때문에 answer는 0입니다."
+}

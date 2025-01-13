@@ -1,0 +1,5 @@
+{
+    "index": 1765,
+    "answer": 0,
+    "explanation": "두 쿼리는 서로 다른 기준으로 결과를 필터링하고 있기 때문에 반환되는 결과가 다릅니다. GENERATED QUERY는 'where' 절에서 특정 컬럼의 값을 기준으로 필터링하지만 GROUND TRUTH QUERY는 'having' 절에서 그룹화된 데이터의 집계를 기준으로 필터링합니다. 따라서 의미적으로 다른 결과를 반환합니다."
+}

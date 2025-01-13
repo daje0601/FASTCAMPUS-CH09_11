@@ -1,0 +1,5 @@
+{
+    "index": 108,
+    "answer": 0,
+    "explanation": "generated_query에서는 컬럼 \"matchid\"의 데이터를 SELECT 절에서, \"SUM(bribes)\"의 합계를 소팅에 사용하는 반면, ground_truth_query에서는 \"matchid\"가 GROUP BY에 포함되고 \"tag\"에 대한 조건이 추가됩니다. 따라서 두 쿼리의 결과 집합이 다릅니다. 조건에 오류가 있어, 동일한 결과를 반환하지 않습니다."
+}

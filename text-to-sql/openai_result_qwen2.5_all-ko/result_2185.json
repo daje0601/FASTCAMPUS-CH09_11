@@ -1,0 +1,5 @@
+{
+    "index": 2185,
+    "answer": 0,
+    "explanation": "쿼리 A와 쿼리 B는 COUNT 사용 후 숫자가 2와 1로 상이하여 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1998,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다르므로 결과가 다릅니다. 생성된 쿼리는 T2.CID에 대해 GROUP BY를 하는 반면, 정답 쿼리는 T1.CName에 대해 GROUP BY를 하고 있어 결과가 동일하지 않습니다."
+}

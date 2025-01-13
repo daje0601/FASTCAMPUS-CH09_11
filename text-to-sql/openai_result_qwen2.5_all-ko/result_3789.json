@@ -1,0 +1,5 @@
+{
+    "index": 3789,
+    "answer": 0,
+    "explanation": "각 쿼리의 WHERE 절에서 다른 Runner-up 값을 참조하고 있기 때문에, 실제 결과가 다를 가능성이 높습니다. 쿼리 A는 'Sammy Giammalva'를, 쿼리 B는 'Sammy Zimmalva'를 사용하므로 Runner-up 값에 따라 각 쿼리의 결과가 달라질 수 있습니다."
+}

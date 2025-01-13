@@ -1,0 +1,5 @@
+{
+    "index": 2407,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE절에서 비교하는 값이 서로 다릅니다. generated_query는 'Sammy Giammalva'를 사용하고, ground_truth_query는 'sammy zimmalva'를 사용합니다. 이로 인해 WHERE 절에서 필터링되는 결과가 다를 수 있으며, 결국 반환되는 결과 집합이 서로 다를 가능성이 높습니다."
+}

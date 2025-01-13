@@ -1,0 +1,5 @@
+{
+    "index": 3806,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 다릅니다. 생성된 쿼리에서는 'Sammy Giammalva'를 조건으로 하고 있지만, 정답 쿼리에서는 'sammy zimmalva'를 조건으로 하고 있어, 같은 Runner-up 값을 가지는 행을 선택하지 못하여 결과가 다르게 나타납니다."
+}

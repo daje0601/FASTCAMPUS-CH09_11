@@ -1,0 +1,5 @@
+{
+    "index": 1574,
+    "answer": 0,
+    "explanation": "정답 쿼리의 WHERE 조건이 'state = France'인데 생성된 쿼리는 'region = France'로 되어있어, 'state'와 'region'의 값이 다르면 결과가 달라진다."
+}

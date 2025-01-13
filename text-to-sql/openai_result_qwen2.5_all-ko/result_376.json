@@ -1,0 +1,5 @@
+{
+    "index": 376,
+    "answer": 0,
+    "explanation": "두 쿼리가 동일한 결과를 제공하기 위해서는 조건이 완전히 동일해야 하지만 코드를 분석해보면 Runner-up의 조건에서 'Sammy Giammalva'와 'sammy zimmalva'는 전혀 다른 문자열이므로 조건이 다릅니다. 따라서 결과가 동일하지 않습니다."
+}

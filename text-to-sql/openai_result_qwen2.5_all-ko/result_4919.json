@@ -1,0 +1,5 @@
+{
+    "index": 4919,
+    "answer": 0,
+    "explanation": "쿼리 A는 COUNTRY 테이블과 DATASOURCE 테이블을 JOIN하여 GDP와 인플레이션 데이터를 조회하고 있습니다. 쿼리 B는 COUNTRY와 ECONOMICS 테이블을 JOIN하여 GDP와 인플레이션 데이터를 조회하고 있어 JOIN하는 테이블이 다르므로 결과가 다를 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 4944,
+    "answer": 0,
+    "explanation": "두 쿼리 모두 'CName'을 선택하지만 GROUP BY 절이 다릅니다. 쿼리 A는 T2.CID로 GROUP BY하고, 쿼리 B는 T1.CName으로 GROUP BY하여 결과에 차이가 있을 수 있으므로 답이 다릅니다."
+}

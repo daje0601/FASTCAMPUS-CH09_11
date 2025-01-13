@@ -1,0 +1,5 @@
+{
+    "index": 1972,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 조건에서 비교하는 Runner-up 값이 다릅니다. 첫 번째 쿼리는 Sammy Giammalva를 찾고 두 번째 쿼리는 잘못된 sammy zimmalva를 찾고 있어 조건에 따라 반환되는 결과가 다릅니다."
+}

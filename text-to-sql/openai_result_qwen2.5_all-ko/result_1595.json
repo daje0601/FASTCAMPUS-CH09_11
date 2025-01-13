@@ -1,0 +1,5 @@
+{
+    "index": 1595,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리가 WHERE 절에서 사용된 조건이 서로 다릅니다. 'WHERE condition_1' 대신 'WHERE condition_2'가 사용되었으므로 결과 집합이 달라지게 됩니다. 따라서 두 쿼리는 결과가 다릅니다."
+}

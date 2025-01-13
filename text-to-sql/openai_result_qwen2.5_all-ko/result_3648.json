@@ -1,0 +1,5 @@
+{
+    "index": 3648,
+    "answer": 1,
+    "explanation": "생성된 쿼리와 원본 쿼리는 모두 같은 테이블에서 동일한 조건으로 동일한 열을 선택하고 있습니다. WHERE 조건의 표현 방식(T2.NAME = 'John Doe' vs NAME = 'John Doe')이 다르지만 동일한 조건을 의미하며, 사용된 JOIN 방식, GROUP BY 및 ORDER BY의 유무/차이가 없기 때문에 결과 집합은 동일합니다."
+}

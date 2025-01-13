@@ -1,0 +1,5 @@
+{
+    "index": 877,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에 사용된 조건이 서로 다릅니다. 하나는 'Runner-up'이 'Harry'인지 확인하고 있고, 다른 하나는 'Runner-up'이 'Sammy'인지 확인하고 있습니다. 따라서 두 쿼리는 서로 다른 결과를 반환합니다."
+}

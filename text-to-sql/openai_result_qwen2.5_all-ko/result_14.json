@@ -1,0 +1,5 @@
+{
+    "index": 14,
+    "answer": 0,
+    "explanation": "generated_query는 실제로 age가 30보다 큰 회원들을 가져오는 조건인 반면, ground_truth_query는 age가 30인 회원을 가져오는 조건이므로 결과가 다릅니다."
+}

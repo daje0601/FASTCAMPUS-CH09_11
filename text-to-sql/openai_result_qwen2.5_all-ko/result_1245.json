@@ -1,0 +1,5 @@
+{
+    "index": 1245,
+    "answer": 0,
+    "explanation": "조건이 다른 'status'와 'amount'에서 다르게 설정되어 결과가 다르게 나올 가능성이 높다."
+}

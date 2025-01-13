@@ -1,0 +1,5 @@
+{
+    "index": 252,
+    "answer": 0,
+    "explanation": "쿼리의 WHERE 조건에서 'Sammy Giammalva'과 'sammy zimmalva'가 다른 이름을 갖고 있어 결과 집합이 상이할 가능성이 높습니다. 문자열 매칭에 있어서 예를 들어 대소문자가 다르거나 철자가 다르면 서로 다른 결과를 반환할 수 있기 때문입니다."
+}

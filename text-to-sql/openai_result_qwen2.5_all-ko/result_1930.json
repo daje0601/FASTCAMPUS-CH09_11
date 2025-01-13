@@ -1,0 +1,5 @@
+{
+    "index": 1930,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 (SELECT country_name FROM world WHERE continent='Oceania' ORDER BY country_name) LIMIT 1로, 대륙이 'Oceania'인 국가 중 알파벳순으로 첫 번째 국가를 반환하려고 합니다. 반면, 정답 쿼리는 SELECT name FROM world WHERE continent='Oceania' ORDER BY name ASC LIMIT 1로 동일하게 대륙이 'Oceania'인 국가를 알파벳순으로 정렬한 첫 번째 국가를 반환합니다. 두 쿼리는 본질적으로 동일하지만, 생성된 쿼리는 LIMIT를 괄호로 감싸면서 잘못된 형식을 사용하고 있으므로 문법 오류가 발생합니다. 따라서 결국 두 결과는 다를 수 있습니다."
+}

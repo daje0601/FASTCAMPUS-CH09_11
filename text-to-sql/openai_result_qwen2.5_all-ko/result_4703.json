@@ -1,0 +1,5 @@
+{
+    "index": 4703,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다릅니다. generated_query는 Runner-up이 'richard krajeski'인 경우를 찾고, ground_truth_query는 Runner-up이 'Richard Krajicek'인 경우를 찾습니다. 이로 인해 결과가 다르게 나올 수 있습니다."
+}

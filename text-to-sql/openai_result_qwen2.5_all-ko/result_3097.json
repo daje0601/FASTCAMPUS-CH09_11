@@ -1,0 +1,5 @@
+{
+    "index": 3097,
+    "answer": 0,
+    "explanation": "generated_query에서는 각 ROW에 대해 DISTINCT를 걸었고, ground_truth_query에서는 GROUP BY를 사용하여 집계시 중복을 따로 관리하지 않았습니다. 이 경우 중복된 ROW가 있을 때 결과가 달라질 수 있습니다."
+}

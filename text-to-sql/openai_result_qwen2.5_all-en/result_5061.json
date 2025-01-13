@@ -1,0 +1,5 @@
+{
+    "index": 5061,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 특정 'Runner-up'의 'Semifinalists'를 조회하는 반면, 두 번째 쿼리는 'Runner-up'의 이름이 전혀 다른 값으로 조회하므로 결과가 다르다."
+}

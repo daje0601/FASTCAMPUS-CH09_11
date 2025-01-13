@@ -1,0 +1,5 @@
+{
+    "index": 3304,
+    "answer": 0,
+    "explanation": "generated_query에서는 SUM() 함수를 사용하여 특정 조건을 만족하는 회원의 이벤트 수를 누적 계산하고 있습니다. 반면, ground_truth_query는 단순히 COUNT() 함수를 사용하여 각 회원의 이벤트 수를 직접 계산합니다. 이로 인해 두 쿼리의 집합 결과는 다를 수 있습니다."
+}

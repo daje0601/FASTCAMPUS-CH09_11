@@ -1,0 +1,5 @@
+{
+    "index": 362,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 서로 다르기 때문에 다른 결과를 반환합니다. 첫 번째 쿼리는 특정 Runner-up이 'Sammy Giammalva'인 행을 대상으로 하며, 두 번째 쿼리는 'sammy zimmalva'를 대상으로 합니다. Runner-up 이름이 다르면 결과가 다르게 나옵니다."
+}

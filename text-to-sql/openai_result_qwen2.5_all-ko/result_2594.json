@@ -1,0 +1,5 @@
+{
+    "index": 2594,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리가 WHERE 조건에서 Runner-up 값이 다르게 지정되어 있어 결과가 다릅니다. 정답 쿼리는 'Sammy Giammalva'를 조건으로 하지만, 생성된 쿼리는 'sammy zimmalva'로 조건이 달라 결과도 다르게 나옵니다."
+}

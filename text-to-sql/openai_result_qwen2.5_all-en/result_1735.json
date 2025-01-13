@@ -1,0 +1,5 @@
+{
+    "index": 1735,
+    "answer": 0,
+    "explanation": "쿼리 A는 'StudentName'을 기준으로 GROUP BY 하고 있으며, 쿼리 B는 'CourseID'로 GROUP BY 하고 있으므로, 결과 집합이 다를 가능성이 있다. 각각의 GROUP BY 열이 다르기 때문에 실제로 반환되는 결과가 동일하지 않을 수 있다."
+}

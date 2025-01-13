@@ -1,0 +1,5 @@
+{
+    "index": 1284,
+    "answer": 0,
+    "explanation": "generated_query는 'property_id'가 특정 범위 내에 있는 상품을 선택하며 'IN (...)' 문을 사용해 여러 개의 특정 'property_id'를 선택합니다. 반면 ground_truth_query는 'property_id'가 같은 'property_id' 컬럼과 연결된 상품을 선택합니다. 따라서 두 쿼리는 서로 다른 'property_id' 값 집합을 반환할 수 있으며, 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1684,
+    "answer": 0,
+    "explanation": "쿼리 A와 B의 WHERE 절 조건이 다르기 때문에 Runner-up 이름이 같지 않으면 결과가 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva', 두 번째는 'sammy zimmalva'를 조건으로 하므로 두 쿼리의 결과는 다릅니다."
+}

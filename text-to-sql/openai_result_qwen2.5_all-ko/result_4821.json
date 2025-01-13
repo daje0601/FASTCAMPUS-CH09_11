@@ -1,0 +1,5 @@
+{
+    "index": 4821,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 참조하는 값이 서로 다릅니다. 따라서 WHERE 조건에 의해 필터링되는 결과가 다를 수밖에 없습니다. `generated_query`는 'Sammy Giammalva'인 반면, `ground_truth_query`는 'sammy zimmalva'를 참조하고 있습니다. 이 두 값이 일치하지 않으면 반환되는 결과 집합이 달라집니다."
+}

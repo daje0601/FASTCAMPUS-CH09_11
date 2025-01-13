@@ -1,0 +1,5 @@
+{
+    "index": 3427,
+    "answer": 0,
+    "explanation": "generated_query에서는 name을 기준으로 ORDER BY가 있지만, ground_truth_query에서는 no를 기준으로 정렬합니다. 이 두 컬럼은 서로 다른 값을 가질 가능성이 있으므로, 결과의 순서가 다를 수 있어 동일한 결과를 반환한다고 볼 수 없습니다."
+}

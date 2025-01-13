@@ -1,0 +1,5 @@
+{
+    "index": 4170,
+    "answer": 0,
+    "explanation": "쿼리 A가 'sammy zimmalva'를 필터링하고, 쿼리 B가 'Sammy Giammalva'를 필터링하는데, 이는 서로 다른 이름입니다. 따라서 두 쿼리는 서로 다른 결과를 반환합니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2231,
+    "answer": 0,
+    "explanation": "원본 쿼리는 'Nadal'만 필터링하지만 생성 쿼리는 'Djokovic'도 포함하여 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3954,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 조건의 비교 값이 다르고, Runner-up의 이름이 전혀 다릅니다. 따라서 실제 결과가 다릅니다."
+}

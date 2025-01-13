@@ -1,0 +1,5 @@
+{
+    "index": 1792,
+    "answer": 0,
+    "explanation": "generated_query 쿼리에서는 customer_id 가 1인 'order_user'를 고려하지만, ground_truth_query는 3과 4인 'order_user'를 모두 고려하므로 결과집합이 다릅니다."
+}

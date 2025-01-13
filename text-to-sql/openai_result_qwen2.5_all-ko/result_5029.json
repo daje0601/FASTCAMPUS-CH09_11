@@ -1,0 +1,5 @@
+{
+    "index": 5029,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다르기 때문에 결과가 다를 수 있습니다. 첫 번째 쿼리는 Seongjin Shin을 조건으로 하며, 두 번째 쿼리는 Joanna Lee와 KoryNaam을 조건으로 하여 다릅니다."
+}

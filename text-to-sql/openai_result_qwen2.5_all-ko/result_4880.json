@@ -1,0 +1,5 @@
+{
+    "index": 4880,
+    "answer": 0,
+    "explanation": "조건절 WHERE의 성분이 다르기 때문에 서로 다른 조건을 기반으로 결과를 반환하게 됩니다. generated_query는 'sammy zimmalva'을 조건으로 하고 있고, ground_truth_query는 'Sammy Giammalva'를 조건으로 하고 있어 실제 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2312,
+    "answer": 0,
+    "explanation": "GROUP BY 범위가 다릅니다. 생성된 쿼리는 COUNT함수로 필터링하지만, 원본 쿼리는 TOTAL_AMOUNT로 결과를 그룹화한 뒤 ORDER BY로 정렬합니다. 따라서 실제로 반환되는 결과 집합이 다를 수 있습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2885,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절의 조건이 다릅니다. generated_query는 'name = \"Sammy Giammalva\"' 이고 ground_truth_query는 'name = \"sammy giammalva\"' 입니다. 이름의 대소문자가 다르므로 결과 세트가 서로 다를 것입니다."
+}

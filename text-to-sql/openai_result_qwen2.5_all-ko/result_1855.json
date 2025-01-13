@@ -1,0 +1,5 @@
+{
+    "index": 1855,
+    "answer": 0,
+    "explanation": "generated_query와 ground_truth_query의 WHERE 조건이 다릅니다. 첫 번째 쿼리는 'Afghanistan'을 찾고 두 번째 쿼리는 'سوریا'를 찾고 있어, 결과가 다를 수 있습니다."
+}

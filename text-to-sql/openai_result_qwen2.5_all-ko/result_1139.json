@@ -1,0 +1,5 @@
+{
+    "index": 1139,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다름. 첫 번째 쿼리는 'Runner-up'이 'Sammy Giammalva'일 때의 결과를, 두 번째 쿼리는 'Runner-up'이 'sammy zimmalva'일 때의 결과를 반환하므로, 실제로 반환되는 결과가 다름."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1845,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 필터링하고 있는 조건이 다릅니다. 첫 번째 쿼리는 'Runner-up'이 'Sammy Giammalva'인 행을 찾고 있고, 두 번째 쿼리는 'Runner-up'이 'sammy zimmalva'인 행을 찾고 있습니다. 이 두 문자열은 대소문자가 다르므로, 실제 결과는 다릅니다."
+}

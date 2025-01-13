@@ -1,0 +1,5 @@
+{
+    "index": 5160,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 Runner-up 이름이 각각 'Sammy Giammalva'와 'sammy zimmalva'로 다르게 설정되어 있어 실제 결과 집합이 다를 것입니다. 'Sammy Giammalva'와 'sammy zimmalva'가 동일한 인물이라고 볼 수 없으므로 결과가 동일하지 않습니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3475,
+    "answer": 0,
+    "explanation": "generated_query의 WHERE 조건이 'm.name = '가이'`인 반면, ground_truth_query는 'm.name LIKE '가이%'`로 시작 문자열을 포함하는 조건이므로 결과 집합이 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3104,
+    "answer": 0,
+    "explanation": "쿼리 A와 B는 WHERE 절의 조건이 다른 Runner-up 값을 비교하고 있습니다. 따라서 두 쿼리가 반환하는 결과 집합이 다르게 됩니다."
+}

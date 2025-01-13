@@ -1,0 +1,5 @@
+{
+    "index": 2171,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 다릅니다. generated_query는 Runner-up이 'Sammy Giammalva'일 때 데이터를 선택하지만, ground_truth_query는 Runner-up이 'sammy zimmalva'일 때 데이터를 선택합니다. 따라서 선택된 결과가 다를 것입니다."
+}

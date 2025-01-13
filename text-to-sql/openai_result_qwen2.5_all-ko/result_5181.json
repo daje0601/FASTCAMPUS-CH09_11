@@ -1,0 +1,5 @@
+{
+    "index": 5181,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up' = 'Sammy Giammalva'로 조건을 주었고, 쿼리 B는 'Runner-up' = 'sammy zimmalva'로 조건을 주었기 때문에 두 쿼리가 반환하는 결과가 다릅니다. 쿼리의 조건값이 다르기 때문에 결과 또한 다르게 나올 수 밖에 없습니다."
+}

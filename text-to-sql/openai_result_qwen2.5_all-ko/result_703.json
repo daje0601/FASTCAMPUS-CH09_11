@@ -1,0 +1,5 @@
+{
+    "index": 703,
+    "answer": 0,
+    "explanation": "생성된 쿼리와 정답 쿼리의 요구 조건이 서로 다르다. 생성된 쿼리는 특정 runner-up 이름에 대해 Semifinalists를 찾는 반면, 정답 쿼리는 다른 runner-up을 기준으로 Semifinalists를 찾고 있어 실제 서로 다른 행을 반환할 가능성이 높다."
+}

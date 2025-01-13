@@ -1,0 +1,5 @@
+{
+    "index": 2044,
+    "answer": 0,
+    "explanation": "generated_query에서는 조건문에서 ID = 5을 사용하고 있으나, ground_truth_query에서는 ID = 10을 조건으로 사용하고 있습니다. 동일한 필드에 대한 서로 다른 조건이 있으므로, 두 쿼리가 반환할 결과 집합은 다릅니다."
+}

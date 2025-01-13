@@ -1,0 +1,5 @@
+{
+    "index": 80,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 가지고 있기 때문에 결과가 다르다. generated_query는 'age > 18'인 반면 ground_truth_query는 'age >= 18'로, 이로 인해 포함되는 행의 수가 달라질 수 있다."
+}

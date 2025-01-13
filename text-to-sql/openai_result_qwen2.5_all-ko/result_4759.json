@@ -1,0 +1,5 @@
+{
+    "index": 4759,
+    "answer": 0,
+    "explanation": "WHERE 조건의 'department = 'Marketing''이 하나는 포함되어 있고, 다른 하나는 'department = 'Sales''로 서로 다른 조건을 가지고 있어 결과가 다르게 나올 가능성이 높습니다."
+}

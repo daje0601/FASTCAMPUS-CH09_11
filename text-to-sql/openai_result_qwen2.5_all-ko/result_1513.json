@@ -1,0 +1,5 @@
+{
+    "index": 1513,
+    "answer": 0,
+    "explanation": "두 쿼리가 Runner-up이 서로 다른 값(Sammy Giammalva vs sammy zimmalva)을 조건으로 사용하고 있어 결과가 달라집니다. 따라서 이들은 동일하지 않습니다."
+}

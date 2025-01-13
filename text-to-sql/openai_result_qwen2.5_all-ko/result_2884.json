@@ -1,0 +1,5 @@
+{
+    "index": 2884,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 Runner-up 값이 다르므로 결과 집합이 다릅니다. 같은 시즌에서 Runner-up 이름이 달라서 결과적으로 반환되는 행이 달라질 수 있습니다."
+}

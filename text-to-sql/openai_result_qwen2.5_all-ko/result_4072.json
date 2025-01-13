@@ -1,0 +1,5 @@
+{
+    "index": 4072,
+    "answer": 0,
+    "explanation": "두 쿼리에서 사용하는 조건의 값이 다르기 때문에 필터링된 결과 셋이 명확하게 달라진다. 쿼리 A는 'Sammy Giammalva'를 조건으로 사용하지만, 쿼리 B는 'sammy zimmalva'를 사용하여 서로 다른 결과를 생성한다."
+}

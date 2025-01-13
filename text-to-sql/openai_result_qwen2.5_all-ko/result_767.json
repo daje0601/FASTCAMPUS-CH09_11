@@ -1,0 +1,5 @@
+{
+    "index": 767,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리에서 WHERE 조건을 통해 \"Runner-up\" 필드가 'Sammy Giammalva' 인지를 확인하지만, 두 번째 쿼리는 \"Runner-up\" 필드가 'sammy zimmalva' 인지를 확인합니다. 'Sammy Giammalva'와 'sammy zimmalva'는 다른 이름이기 때문에 필터링 후의 결과가 다를 수 있습니다."
+}

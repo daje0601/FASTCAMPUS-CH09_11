@@ -1,0 +1,5 @@
+{
+    "index": 887,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절의 조건이 다르기 때문에 결과가 다를 수 있다. 첫 번째 쿼리는 'Runner-up' 필드에서 'Sammy Giammalva' 를 찾고, 두 번째 쿼리는 'sammy zimmalva' 를 찾는다. 이 두 조건이 각각 다른 결과를 초래할 수 있으므로 결과 집합이 다를 가능성이 높다."
+}

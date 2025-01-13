@@ -1,0 +1,5 @@
+{
+    "index": 3592,
+    "answer": 0,
+    "explanation": "WHERE 조건에서 사용된 도시명이 서로 다릅니다. 'New York'과 'Los Angeles'로 도시명이 다르기 때문에 결과 집합이 달라질 것입니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3593,
+    "answer": 0,
+    "explanation": "SELECT의 대상 컬럼이 다르기 때문에 결과 행이 동일하지 않습니다."
+}

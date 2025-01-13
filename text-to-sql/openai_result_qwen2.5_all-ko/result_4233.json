@@ -1,0 +1,5 @@
+{
+    "index": 4233,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건이 서로 다르기 때문에 실제 결과도 다르게 나올 가능성이 큽니다. generated_query는 'Sammy Giammalva', ground_truth_query는 'sammy zimmalva'라는 이름을 조건으로 사용하고 있어, 필터링되는 행 자체가 다릅니다."
+}

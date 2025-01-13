@@ -1,0 +1,5 @@
+{
+    "index": 2634,
+    "answer": 0,
+    "explanation": "WHERE 절에서 'season'과 'episode' 값이 완전히 달라 결과가 다르다."
+}

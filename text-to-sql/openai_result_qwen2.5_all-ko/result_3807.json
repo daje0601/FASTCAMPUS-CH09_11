@@ -1,0 +1,5 @@
+{
+    "index": 3807,
+    "answer": 0,
+    "explanation": "generated_query는 row_number() 윈도 함수와 window frame을 사용하고 있지만, ground_truth_query에서는 병합된 결과와 조건적 정렬을 사용하여 서로 완전히 다른 방식으로 처리됩니다. 결과적으로 두 쿼리의 동작 방식과 결과가 완전히 다를 수 있습니다."
+}

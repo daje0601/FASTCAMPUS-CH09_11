@@ -1,0 +1,5 @@
+{
+    "index": 454,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용된 WHERE 조건이 서로 다릅니다. generated_query는 'Sammy Giammalva'를 조건으로, ground_truth_query는 'sammy zimmalva'를 조건으로 사용합니다. 이러한 조건의 차이로 인해 반환되는 결과가 다를 수 있습니다."
+}

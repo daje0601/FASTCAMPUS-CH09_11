@@ -1,0 +1,5 @@
+{
+    "index": 4008,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용한 조건이 달라 결과 집합이 다를 것입니다. 'sammy giammalva' 와 'sammy zimmalva'는 다른 이름이므로 WHERE절에서 필터링되는 행이 같을 수 없습니다."
+}

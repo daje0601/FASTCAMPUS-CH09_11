@@ -1,0 +1,5 @@
+{
+    "index": 1837,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 특정 조건에 부합하는 행을 COUNT하여 HAVING 절로 필터링하였으나 정답 쿼리는 GROUP BY 없이 특정 컬럼만 SELECT하고 있기 때문에 결과 집합이 다르다."
+}

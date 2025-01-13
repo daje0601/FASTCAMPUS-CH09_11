@@ -1,0 +1,5 @@
+{
+    "index": 715,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 Runner-up의 이름 부분이 다르기 때문에 반환되는 결과 집합이 다를 수 있습니다. 'Sammy Giammalva'와 'sammy zimmalva'는 다른 문자열이므로, 두 쿼리는 동일한 결과를 반환하지 않을 것입니다."
+}

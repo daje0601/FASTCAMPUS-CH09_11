@@ -1,0 +1,5 @@
+{
+    "index": 1417,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다르기 때문에 반환되는 결과가 다를 것이다. query A는 'id = 1'을 조건으로 하는 반면, query B는 'name = 'John''을 조건으로 하고 있어 기본적으로 다른 결과를 초래한다."
+}

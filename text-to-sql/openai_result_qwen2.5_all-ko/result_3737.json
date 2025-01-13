@@ -1,0 +1,5 @@
+{
+    "index": 3737,
+    "answer": 0,
+    "explanation": "쿼리 A는 'Runner-up'이 'Sammy Giammalva'인 경우에 대해 'Semifinalists'를 조회하지만, 쿼리 B는 'Runner-up'이 'sammy zimmalva'인 경우에 대해 동일한 열을 조회합니다. Runner-up의 이름이 쿼리 B에서 오타가 있거나 전혀 다른 사람을 가리키므로 결과가 다릅니다."
+}

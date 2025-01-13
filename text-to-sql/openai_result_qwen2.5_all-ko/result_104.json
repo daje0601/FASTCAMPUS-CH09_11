@@ -1,0 +1,5 @@
+{
+    "index": 104,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 조건을 사용하고 있는 것으로 보입니다. where 절의 조건이 서로 달라 결과 집합이 다를 가능성이 큽니다. generated_query가 runner-up이 sammy zimmalva인 데이터를 반환하는지 여부는 ground_truth_query와 다르게 동작할 수 있습니다."
+}

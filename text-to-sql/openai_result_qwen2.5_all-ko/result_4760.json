@@ -1,0 +1,5 @@
+{
+    "index": 4760,
+    "answer": 0,
+    "explanation": "COUNT(*) 함수의 조건으로 인해 두 쿼리는 서로 다른 결과를 반환할 가능성이 있다. 첫 번째 쿼리에서는 특정 테이블의 값을 'Runner-up'이 'Sammy Giammalva'와 동일한 경우만 선택하고, 두 번째 쿼리에서는 'sammy zimmalva'와 동일한 경우를 선택하므로 결과가 다르다."
+}

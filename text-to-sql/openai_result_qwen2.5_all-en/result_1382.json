@@ -1,0 +1,5 @@
+{
+    "index": 1382,
+    "answer": 0,
+    "explanation": "두 쿼리에서 참조하는 테이블과 열이 다르기 때문에 결과가 다를 수 있습니다. 쿼리 A는 'employees' 테이블의 'name'과 'salary'를 참조하고, 쿼리 B는 'workers' 테이블의 'full_name'과 'income'을 참조합니다. 이로 인해 결과 집합이 동일하지 않습니다."
+}

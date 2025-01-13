@@ -1,0 +1,5 @@
+{
+    "index": 4409,
+    "answer": 0,
+    "explanation": "WHERE 절에서 \"id\" = 1과 조건 자체가 없기 때문에 결과가 다릅니다."
+}

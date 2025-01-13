@@ -1,0 +1,5 @@
+{
+    "index": 1782,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건에 사용된 ID가 다르므로 실제 결과가 다를 수 있습니다. generated_query에서는 ID가 5이고, ground_truth_query에서는 ID가 6입니다. 이는 WHERE 조건에 의해 쿼리 결과에 명확한 차이를 유발합니다. 따라서 두 쿼리는 서로 다른 결과를 반환합니다."
+}

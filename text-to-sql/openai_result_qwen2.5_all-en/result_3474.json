@@ -1,0 +1,5 @@
+{
+    "index": 3474,
+    "answer": 0,
+    "explanation": "두 쿼리의 GROUP BY 조건이 다르므로 결과가 달라질 수 있다. GROUP BY T1.CName vs GROUP BY T2.CID는 서로 다른 그룹화를 의미하기 때문에 반환되는 결과가 같지 않다."
+}

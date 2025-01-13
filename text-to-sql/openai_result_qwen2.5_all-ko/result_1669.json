@@ -1,0 +1,5 @@
+{
+    "index": 1669,
+    "answer": 0,
+    "explanation": "생성된 쿼리는 'Sammy Giammalva'와 동일한 Runner-up을 찾지만 원본 쿼리는 'sammy zimmalva'를 찾으므로 다른 결과를 반환합니다."
+}

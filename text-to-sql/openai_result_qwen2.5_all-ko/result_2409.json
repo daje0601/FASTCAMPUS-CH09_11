@@ -1,0 +1,5 @@
+{
+    "index": 2409,
+    "answer": 0,
+    "explanation": "generated_query는 \"seeding\" 테이블의 모든 컬럼에 대해 특정 조건 없이 SELECT *를 하고 있지만, ground_truth_query는 \"gender_seeding\" 테이블에서 \"pname\" 컬럼만을 조건에 따라 선택하고 있음. 두 쿼리는 전혀 다른 테이블과 컬럼에 접근하고 있으므로 결과 집합이 다릅니다."
+}

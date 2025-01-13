@@ -1,0 +1,5 @@
+{
+    "index": 4719,
+    "answer": 0,
+    "explanation": "쿼리 A와 쿼리 B 사이에 WHERE 절의 조건 값이 달라 실제 결과가 서로 다를 것입니다. 쿼리 A는 특정 Runner-up에 대해 Semifinalists를 필터링하는 반면, 쿼리 B에서는 다른 Runner-up 이름으로 필터링하기 때문에 결과가 다릅니다."
+}

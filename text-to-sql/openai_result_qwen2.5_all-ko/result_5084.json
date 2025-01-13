@@ -1,0 +1,5 @@
+{
+    "index": 5084,
+    "answer": 0,
+    "explanation": "쿼리의 조건이 서로 다르기 때문에 결과가 다르다. generated_query의 조건에서는 특정 컬럼의 값이 10 이상인 경우를 필터링하는 반면, ground_truth_query의 조건에서는 같은 컬럼의 값이 5 이상인 경우를 필터링한다."
+}

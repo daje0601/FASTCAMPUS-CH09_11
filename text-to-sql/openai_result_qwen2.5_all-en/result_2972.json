@@ -1,0 +1,5 @@
+{
+    "index": 2972,
+    "answer": 0,
+    "explanation": "두 쿼리에서 SELECT 절과 WHERE 절의 조건이 다르기 때문에 실제 결과 행이 다를 것이다."
+}

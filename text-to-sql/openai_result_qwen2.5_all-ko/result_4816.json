@@ -1,0 +1,5 @@
+{
+    "index": 4816,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 조건 값이 다르기 때문에, 런너업의 이름이 서로 다르게 필터링되고 결과 집합이 달라집니다. 쿼리 A는 'Sammy Giammalva'이고 쿼리 B는 'sammy zimmalva'로, 서로 다른 값을 가지고 있어 결과가 달라집니다."
+}

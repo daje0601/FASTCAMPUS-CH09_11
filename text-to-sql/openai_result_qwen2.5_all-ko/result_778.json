@@ -1,0 +1,5 @@
+{
+    "index": 778,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절에서 사용한 필드 값(또는 조건)이 다르기 때문에 결과 집합이 다릅니다. 하나는 \"Runner-up\" = 'Sammy Giammalva'이고, 다른 하나는 \"Runner-up\" = 'sammy zimmalva'입니다. 따라서 동일한 결과를 반환하지 않습니다."
+}

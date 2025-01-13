@@ -1,0 +1,5 @@
+{
+    "index": 4128,
+    "answer": 0,
+    "explanation": "generated_query는 year 필드가 2025보다 큰 경우를 선택하는 반면, ground_truth_query는 2025년 이상인 경우를 선택하므로 결과가 다를 수 있습니다."
+}

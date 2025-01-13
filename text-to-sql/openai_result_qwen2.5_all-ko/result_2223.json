@@ -1,0 +1,5 @@
+{
+    "index": 2223,
+    "answer": 0,
+    "explanation": "생성된 쿼리에는 BETWEEN 절이 있지만, 이는 ground_truth 쿼리에 없는 조건입니다. 이로 인해 결과 행의 수가 서로 다를 수 있습니다."
+}

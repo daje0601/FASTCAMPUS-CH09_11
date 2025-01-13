@@ -1,0 +1,5 @@
+{
+    "index": 2958,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 다릅니다. 생성된 쿼리는 'Runner-up' = 'Sammy Giammalva' 조건을 사용하고 있고, 다른 쿼리는 이름이 'sammy zimmalva'로 다릅니다. 따라서 필터링 되는 데이터 집합이 달라 결과 집합이 다릅니다."
+}

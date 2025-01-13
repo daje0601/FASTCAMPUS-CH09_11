@@ -1,0 +1,5 @@
+{
+    "index": 1430,
+    "answer": 0,
+    "explanation": "원본 쿼리의 WHERE 조건에서 'sammy zimmalva'와 생성된 쿼리의 조건 'Sammy Giammalva'는 서로 다른 이름이므로, 두 쿼리가 반환하는 결과가 다릅니다. 즉, 서로 다른 Runner-up 조건을 가지고 있어 결과가 동일하지 않습니다."
+}

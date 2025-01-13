@@ -1,0 +1,5 @@
+{
+    "index": 315,
+    "answer": 0,
+    "explanation": "쿼리 A는 'sammy giammalva'를 조건으로 하고 쿼리 B는 'sammy zimmalva'를 조건으로 하기 때문에 완전히 다른 Runner-up 이름을 가진 행들에 대해 결과를 필터링합니다. 따라서 두 쿼리의 결과가 다를 수밖에 없습니다."
+}

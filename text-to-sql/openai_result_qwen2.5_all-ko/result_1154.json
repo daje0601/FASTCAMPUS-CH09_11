@@ -1,0 +1,5 @@
+{
+    "index": 1154,
+    "answer": 0,
+    "explanation": "두 쿼리가 필터링하는 조건이 서로 다르기 때문입니다. 첫 번째 쿼리는 'Runner-up'이 'sammy zimmalva'인 행을 찾고 있으며, 두 번째 쿼리는 'Runner-up'이 'Sammy Giammalva'인 행을 찾고 있습니다. 따라서 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 2262,
+    "answer": 0,
+    "explanation": "WHERE 조건문의 값이 서로 다릅니다. generated_query에서는 'Sammy Giammalva'를 사용했고, ground_truth_query에서는 'sammy zimmalva'를 사용했습니다. 이로 인해 반환되는 결과가 다를 수 있습니다."
+}

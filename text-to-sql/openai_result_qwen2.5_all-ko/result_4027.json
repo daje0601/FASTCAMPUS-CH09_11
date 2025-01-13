@@ -1,0 +1,5 @@
+{
+    "index": 4027,
+    "answer": 0,
+    "explanation": "WHERE 조건의 열이 서로 다르기 때문에, WHERE 절에 의해 필터링 되는 결과가 다릅니다. 따라서 최종 결과 집합이 다릅니다. 쿼리 A는 Runner-up이 'Sammy Giammalva'인 경우, 쿼리 B는 Runner-up이 'sammy zimmalva'인 경우의 Semifinalists를 반환합니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1470,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 조건에서 비교하는 'Runner-up'의 값이 다릅니다. 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'이므로, 조건에 만족하는 행이 다를 것입니다. 따라서 실제 결과 집합이 다릅니다."
+}

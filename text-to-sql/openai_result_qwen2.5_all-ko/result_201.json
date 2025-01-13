@@ -1,0 +1,5 @@
+{
+    "index": 201,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 서로 다른 Runner-up 값을 찾고 있습니다. 하나는 'Sammy Giammalva'이고, 다른 하나는 'sammy zimmalva'로 철자가 다릅니다. 따라서 결과로 반환되는 ROW 세트도 다릅니다."
+}

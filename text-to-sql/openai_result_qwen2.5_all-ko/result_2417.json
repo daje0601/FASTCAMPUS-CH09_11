@@ -1,0 +1,5 @@
+{
+    "index": 2417,
+    "answer": 0,
+    "explanation": "두 쿼리가 의미적으로 동일하지 않음. 문제 설명의 Runner-up 이름이 서로 다르기 때문에 WHERE 절을 통해 필터링된 결과가 달라진다. 즉, \"Sammy Giammalva\"와 \"sammy zimmalva\"는 동일한 이름이 아니므로, 최종 SELECT 결과가 다르다."
+}

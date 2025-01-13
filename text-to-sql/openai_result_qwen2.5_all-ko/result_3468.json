@@ -1,0 +1,5 @@
+{
+    "index": 3468,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건이 서로 다르다. GENERATED 쿼리는 'condition_1'을 사용하고, GROUND_TRUTH 쿼리는 'condition_2'를 이용해 실제 결과 집합이 다르게 나온다."
+}

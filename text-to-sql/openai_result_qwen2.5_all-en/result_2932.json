@@ -1,0 +1,5 @@
+{
+    "index": 2932,
+    "answer": 0,
+    "explanation": "두 쿼리는 서로 다른 조건을 사용하고 있어 결과가 다릅니다. 쿼리 A는 'status'가 'active'인 데이터만, 쿼리 B는 'status'가 'inactive'인 데이터만 선택하므로, 실제 결과가 다릅니다."
+}

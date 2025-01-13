@@ -1,0 +1,5 @@
+{
+    "index": 2775,
+    "answer": 0,
+    "explanation": "SELECT 쿼리와 ORDER BY 쿼리는 명확히 다른 쿼리입니다. SELECT 쿼리는 특정 컬럼 값을 필터링하여 출력하며, ORDER BY 쿼리는 정렬된 결과를 반환합니다. 두 쿼리가 반환하는 결과 집합은 완전히 다릅니다."
+}

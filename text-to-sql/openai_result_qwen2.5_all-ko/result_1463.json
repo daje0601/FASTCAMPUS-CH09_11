@@ -1,0 +1,5 @@
+{
+    "index": 1463,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 'sammy giammalva'를 조건으로 하고 있지만 두 번째 쿼리는 'samm ygiammalva'를 조건으로 하고 있어, Runner-up 이름의 차이로 인해 필터링되는 결과가 다릅니다. 따라서 두 쿼리는 결과 집합이 다르므로 answer는 0이 됩니다."
+}

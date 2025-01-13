@@ -1,0 +1,5 @@
+{
+    "index": 2371,
+    "answer": 0,
+    "explanation": "생성된 쿼리의 SELECT 절에는 'director_name' 컬럼이 포함되어 있으나 정답 쿼리에는 없다. 따라서 반환되는 결과 집합의 구조가 다르다."
+}

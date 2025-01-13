@@ -1,0 +1,5 @@
+{
+    "index": 3535,
+    "answer": 0,
+    "explanation": "generated_query는 특정 조건으로 필터링되어 있지만 ground_truth_query는 다른 조건을 사용하고 있어 실제 반환되는 결과 행이 다르다."
+}

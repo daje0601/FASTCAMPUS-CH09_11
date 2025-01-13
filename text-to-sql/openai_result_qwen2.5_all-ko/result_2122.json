@@ -1,0 +1,5 @@
+{
+    "index": 2122,
+    "answer": 0,
+    "explanation": "generated_query에서는 subject='Maths'인 학생을 포함한 기록을 COUNTS로 나타내고 ground_truth_query에서는  SUBJECT='Physics'인 학생을 포함한 기록을 나타내므로 결과가 다릅니다."
+}

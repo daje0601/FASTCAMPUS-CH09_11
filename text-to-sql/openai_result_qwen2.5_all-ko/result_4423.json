@@ -1,0 +1,5 @@
+{
+    "index": 4423,
+    "answer": 0,
+    "explanation": "\"country\"와 \"city\"의 조건이 전혀 달라 결과가 다를 가능성이 존재함. CITY_NAME이 \"New York\"이고 COUNTRY_NAME이 \"USA\"인 경우에만 정확하게 같을 수 있음."
+}

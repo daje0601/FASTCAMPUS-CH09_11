@@ -1,0 +1,5 @@
+{
+    "index": 2425,
+    "answer": 0,
+    "explanation": "generated_query는 count(*)로 5인지 체크하지만, ground_truth_query는 단순히 모든 학생 데이터인 '*를' 반환하여 count 조건이 없는 상황으로 두 쿼리의 결과는 다릅니다."
+}

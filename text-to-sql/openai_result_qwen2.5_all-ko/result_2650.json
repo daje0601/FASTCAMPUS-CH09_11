@@ -1,0 +1,5 @@
+{
+    "index": 2650,
+    "answer": 0,
+    "explanation": "generated_query에서는 물리적으로 존재하는 주민등록번호만 확인하는 반면, ground_truth_query에서는 주민등록번호가 없거나 NULL인 경우도 함께 계산하고 있다. 따라서 반환되는 결과 행의 수가 다를 수 있다."
+}

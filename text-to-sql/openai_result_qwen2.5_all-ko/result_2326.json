@@ -1,0 +1,5 @@
+{
+    "index": 2326,
+    "answer": 0,
+    "explanation": "WHERE 조건에 사용된 \"Reuven Atar\"와 'imh zadob'은 서로 다른 값이므로, 결과 집합이 다를 것입니다. 그러므로 두 쿼리는 의미적으로 동일하지 않습니다."
+}

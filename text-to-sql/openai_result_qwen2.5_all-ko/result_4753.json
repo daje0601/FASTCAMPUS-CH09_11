@@ -1,0 +1,5 @@
+{
+    "index": 4753,
+    "answer": 0,
+    "explanation": "각 쿼리의 조건 비교 값이 다르기 때문에 결과가 다르게 나올 가능성이 높습니다. 첫 번째 쿼리는 'Sammy Giammalva'를 조건으로, 두 번째 쿼리는 'sammy zimmalva'를 조건으로 사용하고 있어 Runner-up 이름이 전혀 다르므로 실제 결과가 다릅니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1657,
+    "answer": 0,
+    "explanation": "쿼리 A는 specific condition에 맞는 데이터를 찾고, 쿼리 B는 다른 condition에 기반하여 데이터를 필터링합니다. 따라서, where 절의 조건이 다르기 때문에 결과가 다를 수 있습니다. 예를 들어, Runner-up이 'Sammy Giammalva'인 데이터와 'sammy zimmalva'인 데이터가 다르므로 결과 집합도 다르게 반환됩니다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 1770,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 'Runner-up' 필드의 조건이 서로 다릅니다. 하나는 'Sammy Giammalva'로 조건을 걸고 있고 다른 하나는 'sammy zimmalva'로 조건을 걸고 있습니다. 따라서, 필터링된 결과 집합이 다르며 동일한 결과를 반환하지 않습니다."
+}

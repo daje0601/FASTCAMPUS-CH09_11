@@ -1,0 +1,5 @@
+{
+    "index": 2328,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 절의 조건이 다릅니다. \"Runner-up\" 컬럼의 값이 'Sammy Giammalva'인 경우와 'sammy zimmalva'인 경우를 필터링하고 있으므로, 결과 집합이 다를 수 밖에 없습니다."
+}

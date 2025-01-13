@@ -1,0 +1,5 @@
+{
+    "index": 3475,
+    "answer": 0,
+    "explanation": "두 쿼리가 사용한 WHERE 조건의 비교 연산자가 서로 다르기 때문에 결과가 다름. 한 쿼리는 특정 Runner-up을 'Sammy Giammalva'로 한정하고, 다른 쿼리는 'sammy zimmalva'로 한정하여 서로 다른 결과를 반환함."
+}

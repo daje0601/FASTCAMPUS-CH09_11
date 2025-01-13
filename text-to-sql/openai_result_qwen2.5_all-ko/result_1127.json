@@ -1,0 +1,5 @@
+{
+    "index": 1127,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용된 값이 다릅니다. 쿼리 A의 WHERE 조건 값은 'Sammy Giammalva'이고, 쿼리 B의 WHERE 조건 값은 'sammy zimmalva'로, 두 값이 다르기 때문에 반환되는 결과 집합이 다를 것입니다."
+}

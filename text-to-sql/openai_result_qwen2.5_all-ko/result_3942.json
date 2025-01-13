@@ -1,0 +1,5 @@
+{
+    "index": 3942,
+    "answer": 0,
+    "explanation": "generated_query와 ground_truth_query는 동일한 테이블에서 SELECT를 하지만, 조건에서 'John'과 'Doe'라는 전혀 다른 WHERE 조건을 사용하고 있습니다. 따라서 결과 집합이 다릅니다."
+}

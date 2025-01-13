@@ -1,0 +1,5 @@
+{
+    "index": 3004,
+    "answer": 0,
+    "explanation": "쿼리에서 where 절의 비교 값이 달라 실제 결과가 다르다."
+}

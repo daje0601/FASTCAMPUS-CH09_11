@@ -1,0 +1,5 @@
+{
+    "index": 3221,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 컬럼을 참조하고 있어 결과가 다를 수 있다. generated_query는 'season'을 정렬 기준으로 사용하고, ground_truth_query는 'id'를 정렬 기준으로 사용하므로 두 쿼리의 결과집합이 서로 다를 수 있다."
+}

@@ -1,0 +1,5 @@
+{
+    "index": 3985,
+    "answer": 0,
+    "explanation": "두 쿼리가 서로 다른 Runner-up 필터 값을 사용하고 있습니다. 쿼리 A에서는 'Sammy Giammalva'를, 쿼리 B에서는 'sammy zimmalva'를 조건으로 하고 있어 실제로 반환되는 결과가 다를 것입니다."
+}

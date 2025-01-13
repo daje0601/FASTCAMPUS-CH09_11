@@ -1,0 +1,5 @@
+{
+    "index": 482,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 조건에서 사용된 값이 다르기 때문에 실제로 반환되는 결과가 다릅니다. 생성된 쿼리는 'Los Angeles'를 비교하고 정답 쿼리는 'San Francisco'를 비교하므로, 결과 집합이 다릅니다."
+}

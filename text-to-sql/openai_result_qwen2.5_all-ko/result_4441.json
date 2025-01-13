@@ -1,0 +1,5 @@
+{
+    "index": 4441,
+    "answer": 0,
+    "explanation": "두 쿼리는 SELECT 절의 필드가 동일하지 않기 때문에 결과가 다릅니다. generated_query 쿼리는 모든 항목(*)을 선택하는 반면, ground_truth_query는 \"id\" 필드만 선택합니다. 이렇게 동작할 경우 결과 열의 수가 달라지므로 동일한 결과가 아닙니다."
+}

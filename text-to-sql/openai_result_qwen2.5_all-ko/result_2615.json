@@ -1,0 +1,5 @@
+{
+    "index": 2615,
+    "answer": 0,
+    "explanation": "쿼리 A와 B의 WHERE 조건에서 'Runner-up' 이름이 다르므로, 실제 결과에서 조회되는 Semifinalists가 다를 가능성이 높습니다. 'Sammy Giammalva'와 'sammy zimmalva'는 철자 자체가 다르기 때문에 전혀 다른 값으로 판단됩니다."
+}

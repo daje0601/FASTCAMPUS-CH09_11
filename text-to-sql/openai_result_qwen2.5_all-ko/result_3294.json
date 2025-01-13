@@ -1,0 +1,5 @@
+{
+    "index": 3294,
+    "answer": 0,
+    "explanation": "WHERE 조건이 다릅니다. generated_query는 2020년 데이터만을 사용하고 있으며, ground_truth_query는 모든 데이터를 사용합니다. 따라서 결과가 다릅니다."
+}

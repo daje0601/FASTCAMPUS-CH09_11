@@ -1,0 +1,5 @@
+{
+    "index": 691,
+    "answer": 0,
+    "explanation": "두 쿼리가 참조하고 비교하는 값이 \"Runner-up\" 컬럼에서 서로 다르기 때문에 결과가 다를 것입니다. 하나는 'Sammy Giammalva'를 찾고 다른 하나는 'sammy zimmalva'를 찾고 있어 필터 조건이 만족되지 않아 동일한 결과를 가져오지 않습니다."
+}

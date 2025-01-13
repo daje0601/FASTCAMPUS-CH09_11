@@ -1,0 +1,5 @@
+{
+    "index": 4267,
+    "answer": 0,
+    "explanation": "첫 번째 쿼리는 `SELECT \"Semifinalists\" FROM table_31066 WHERE \"Runner-up\" = 'Sammy Giammalva'`으로, Runner-up이 'Sammy Giammalva'인 행의 Semifinalists를 조회합니다. 두 번째 쿼리는 `SELECT \"Semifinalists\" FROM table_31066 WHERE \"Runner-up\" = 'sammy zimmalva'`로, Runner-up이 'sammy zimmalva'인 행의 Semifinalists를 조회하며, 두 Runner-up 이름이 다르므로 결과가 다릅니다."
+}

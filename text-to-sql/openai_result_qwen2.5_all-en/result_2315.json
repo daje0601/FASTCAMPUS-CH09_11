@@ -1,0 +1,5 @@
+{
+    "index": 2315,
+    "answer": 0,
+    "explanation": "두 쿼리는 테이블과 컬럼명은 동일하지만 WHERE절의 조건이 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를, 두 번째 쿼리는 'sammy zimmalva'를 검색하고 있어 결과가 다릅니다."
+}

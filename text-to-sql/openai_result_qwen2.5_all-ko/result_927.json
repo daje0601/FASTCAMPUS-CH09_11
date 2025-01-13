@@ -1,0 +1,5 @@
+{
+    "index": 927,
+    "answer": 0,
+    "explanation": "두 쿼리가,\"SELECT \"Semifinalists\" FROM table_31066 WHERE \"Runner-up\" = 'Sammy Giammalva'\"와 \"SELECT \"Semifinalists\" FROM table_31066 WHERE \"Runner-up\" = 'sammy zimmalva'\"는 WHERE 조건의 문자열이 서로 달라, 실제 가져오는 결과가 다를 수 있습니다. 하나는 'Sammy Giammalva'이고 다른 쿼리는 'sammy zimmalva'이므로 결과가 다릅니다."
+}

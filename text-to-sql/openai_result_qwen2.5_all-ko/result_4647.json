@@ -1,0 +1,5 @@
+{
+    "index": 4647,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건절에서 사용된 조건이 다릅니다. 하나는 'Sammy Giammalva', 다른 하나는 'sammy zimmalva'로, 이름이 다릅니다. 따라서 결과 집합도 다를 가능성이 큽니다."
+}

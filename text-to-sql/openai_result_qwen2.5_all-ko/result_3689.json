@@ -1,0 +1,5 @@
+{
+    "index": 3689,
+    "answer": 0,
+    "explanation": "두 쿼리의 조건문에서 비교하는 Runner-up의 이름이 다르므로 결과 집합이 다릅니다. 첫 번째 쿼리는 'Sammy Giammalva'를, 두 번째 쿼리는 'sammy zimmalva'를 비교합니다. 따라서 실제 결과가 동일하지 않으므로 쿼리는 의미적으로 다릅니다."
+}

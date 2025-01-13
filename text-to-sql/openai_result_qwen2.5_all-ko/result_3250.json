@@ -1,0 +1,5 @@
+{
+    "index": 3250,
+    "answer": 1,
+    "explanation": "두 쿼리는 각각 `SELECT COUNT(*) FROM users WHERE age > 18` 와 `SELECT COUNT(*) FROM users WHERE 18 < age` 입니다. 조건절이 `age > 18` 과 `18 < age`로 표기되어 있지만, 본질적으로 동일한 의미를 가지므로 반환되는 결과 집합은 동일합니다. 따라서 두 쿼리는 의미적으로 동일하다고 할 수 있습니다."
+}

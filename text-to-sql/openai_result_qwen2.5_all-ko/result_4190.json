@@ -1,0 +1,5 @@
+{
+    "index": 4190,
+    "answer": 0,
+    "explanation": "쿼리 B에서는 \"James White\"와 같은 Runner-up을 찾고 있으나 쿼리 A에서는 \"John Doe\"를 찾고 있습니다. 두 Runner-up의 값이 다르기 때문에 결과는 다를 것입니다."
+}

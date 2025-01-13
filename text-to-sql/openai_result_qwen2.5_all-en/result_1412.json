@@ -1,0 +1,5 @@
+{
+    "index": 1412,
+    "answer": 1,
+    "explanation": "두 쿼리는 SELECT, FROM, WHERE 절의 구조와 사용된 컬럼이 동일하고, GROUP BY와 ORDER BY의 요소가 달라 보이나, 실제 반환되는 결과 집합에는 차이가 없으므로 결과는 동일하다."
+}

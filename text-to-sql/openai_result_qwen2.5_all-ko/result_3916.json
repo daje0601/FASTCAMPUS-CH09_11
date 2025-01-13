@@ -1,0 +1,5 @@
+{
+    "index": 3916,
+    "answer": 0,
+    "explanation": "WHERE 절에서 Runner-up 조건 값이 다르므로 두 쿼리의 결과 집합은 동일하지 않습니다."
+}

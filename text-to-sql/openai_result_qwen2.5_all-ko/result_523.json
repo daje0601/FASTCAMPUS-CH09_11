@@ -1,0 +1,5 @@
+{
+    "index": 523,
+    "answer": 0,
+    "explanation": "WHERE 절의 조건이 서로 다릅니다. 첫 번째 쿼리는 \"Runner-up\"이 'Sammy Giammalva'인 데이터를 찾고, 두 번째 쿼리는 'sammy zimmalva'인 데이터를 찾고 있습니다. 따라서 WHERE 조건에 의해 결과가 다르게 되므로, 두 쿼리의 결과 집합은 동일하지 않습니다."
+}

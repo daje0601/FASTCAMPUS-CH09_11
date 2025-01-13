@@ -1,0 +1,5 @@
+{
+    "index": 3692,
+    "answer": 0,
+    "explanation": "generated_query는 마지막으로 하키 선수의 기록을 조회하기 위해 ORDER BY 구문을 사용하고 있으며, 이때 ASC로 오름차순 정렬을 사용하고 있습니다. 반면, ground_truth_query는 ORDER BY DESC로 설정하여 내림차순으로 정렬합니다. 따라서 반환되는 첫 번째 행의 결과가 달라질 수 있습니다."
+}

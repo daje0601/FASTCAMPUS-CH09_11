@@ -1,0 +1,5 @@
+{
+    "index": 1878,
+    "answer": 0,
+    "explanation": "두 쿼리가 WHERE 절에서 비교하는 Runner-up의 값이 서로 달라 결과 집합이 다를 것이다."
+}

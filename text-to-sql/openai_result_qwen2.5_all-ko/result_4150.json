@@ -1,0 +1,5 @@
+{
+    "index": 4150,
+    "answer": 0,
+    "explanation": "generated_query는 조건으로 'month < 6'을 사용하고, ground_truth_query는 'month >= 6 AND month <= 12'을 사용합니다. 이는 각기 다른 범위의 월(month)을 선택하므로 결과 집합이 다릅니다."
+}

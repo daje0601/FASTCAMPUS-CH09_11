@@ -1,0 +1,5 @@
+{
+    "index": 3816,
+    "answer": 0,
+    "explanation": "generated_query는 t.year와 u.year을 기준으로 조인하고 있는데, ground_truth_query는 e.year와 t.year을 기준으로 조인하고 있으므로 조인의 결과 셋이 달라질 가능성이 있어 의미적으로 동일하지 않습니다."
+}

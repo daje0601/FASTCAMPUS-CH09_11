@@ -1,0 +1,5 @@
+{
+    "index": 3205,
+    "answer": 0,
+    "explanation": "두 쿼리는 WHERE 조건에서 사용된 \"Runner-up\"의 값이 각각 'Sammy Giammalva'와 'sammy zimmalva'로 서로 다릅니다. 이는 대소문자 차이가 아닌 문자열 자체가 완전히 다른 경우이므로 결과 집합이 달라질 것입니다. 따라서 의미적으로 동일하지 않습니다."
+}

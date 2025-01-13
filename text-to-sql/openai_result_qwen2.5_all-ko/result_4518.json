@@ -1,0 +1,5 @@
+{
+    "index": 4518,
+    "answer": 0,
+    "explanation": "generated_query에서는 WHERE 절 조건으로 id가 101인 경우를 찾고 있지만, ground_truth_query에서는 price가 100보다 큰 경우로 필터링하고 있기 때문에 결과가 다릅니다."
+}

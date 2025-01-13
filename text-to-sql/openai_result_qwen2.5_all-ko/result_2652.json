@@ -1,0 +1,5 @@
+{
+    "index": 2652,
+    "answer": 0,
+    "explanation": "'Person' 테이블의 'City'가 'New York'인 조건과 'city'가 'new york'인 조건은 대소문자에 따라 다릅니다. SQL에서 대소문자가 구분될 경우, 다른 결과를 반환할 수 있으며 대소문자를 신경 쓰지 않는 SQL 설정이 아닌 한 결과가 다름을 의미합니다."
+}

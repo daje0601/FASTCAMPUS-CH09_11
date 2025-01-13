@@ -1,0 +1,5 @@
+{
+    "index": 2424,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 참조하는 값을 비교해보면 하나는 'Sammy Giammalva'이고 다른 하나는 'sammy zimmalva'로 되어 있습니다. 이름이 서로 다르기 때문에 조건이 다른 행을 선택하게 되고, 따라서 결과가 달라집니다."
+}

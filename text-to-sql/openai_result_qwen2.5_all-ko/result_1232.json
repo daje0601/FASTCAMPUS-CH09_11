@@ -1,0 +1,5 @@
+{
+    "index": 1232,
+    "answer": 0,
+    "explanation": "generated_query에서는 `ORDER BY price`로 정렬을 하고 있으나, ground_truth_query는 `ORDER BY product_id`로 정렬하고 있습니다. price에 대한 순서와 product_id에 대한 순서가 다를 수 있으므로 결과가 다를 수 있습니다. 따라서 두 쿼리는 의미적으로 다릅니다."
+}

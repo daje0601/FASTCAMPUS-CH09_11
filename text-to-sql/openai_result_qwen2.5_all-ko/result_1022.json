@@ -1,0 +1,5 @@
+{
+    "index": 1022,
+    "answer": 0,
+    "explanation": "두 쿼리의 WHERE 절에서 조건이 달라, 이는 서로 다른 결과를 반환하게 됩니다. 쿼리 A는 Runner-up이 'Sammy Giammalva'인 경우를, 쿼리 B는 Runner-up이 'sammy zimmalva'인 경우를 조건으로 걸고 있어, 두 Runner-up의 이름이 다르므로 결과가 다릅니다."
+}
