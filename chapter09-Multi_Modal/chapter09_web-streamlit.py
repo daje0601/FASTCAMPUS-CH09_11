@@ -2,11 +2,11 @@ import torch
 import pandas as pd
 from PIL import Image
 import streamlit as st
-
-# 예시용 모델 예측 함수(더미)
-# 실제 모델 로직으로 교체해서 사용하세요.
-
+from datasets import Dataset
+from qwen_vl_utils import process_vision_info
 from transformers import AutoProcessor, AutoModelForVision2Seq
+
+
 model_id = "Qwen/Qwen2-VL-7B-Instruct"
 model = AutoModelForVision2Seq.from_pretrained(
     model_id,
@@ -22,10 +22,8 @@ adapter_path1 = "./qwen2-7b-instruct-harmful-detector-2000/checkpoint-33"
 model.load_adapter(
     adapter_path1,
     adapter_name="adapter1") 
+model.set_adapter("adapter1")
 
-from qwen_vl_utils import process_vision_info
-
-# 모델 답변을 생성하는 함수
 def generate_description(messages, model, processor):
    # 추론을 위한 준비
    text = processor.apply_chat_template(
@@ -68,7 +66,10 @@ def main():
 
     # CSV 파일 불러오기: image_path, text 두 컬럼이 있다고 가정
     df = pd.read_csv('./data/final_df.csv')
-
+    df["is_hate"] = df["is_hate"].astype(int)
+    df = df.sample(frac=1, random_state=42).reset_index(drop=True)
+    
+    hf_dataset = Dataset.from_pandas(df)
     st.write("## 1. 데이터프레임 내 샘플 선택")
     # 데이터프레임에서 행 선택 (index 기준)
     selected_index = st.selectbox(
