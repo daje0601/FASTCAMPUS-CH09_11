@@ -1,7 +1,6 @@
-env
 .ipynb_checkpoints
 wandb
-wandbkaggle_dataenv
-kaggle_data
 qwen2-7b-instruct-harmful-detector-2000
 merged
+env
+kaggle_data

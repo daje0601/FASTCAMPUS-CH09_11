@@ -16,7 +16,7 @@ model = AutoModelForVision2Seq.from_pretrained(
 processor = AutoProcessor.from_pretrained(model_id)
 
 # 로라 어댑터가 있는 경로
-adapter_path1 = "./qwen2-7b-instruct-harmful-detector-2000/checkpoint-33"
+adapter_path1 = "./qwen2-7b-instruct-harmful-detector-2000/checkpoint-32"
 
 # 첫 번째 Adapter 로드
 model.load_adapter(
